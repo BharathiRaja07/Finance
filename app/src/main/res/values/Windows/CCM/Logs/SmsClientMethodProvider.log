@@ -1,0 +1,226 @@
+﻿<![LOG[Invoking method SetClientProvisioningMode]LOG]!><time="10:09:38.663-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="0" thread="300" file="methodprovider.cpp:1024">
+<![LOG[Disable provisioning mode of the client]LOG]!><time="10:09:38.663-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="0" thread="300" file="smsclientclass.cpp:1670">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="10:09:38.787-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="0" thread="5644" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000121}]LOG]!><time="10:09:38.787-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="1" thread="5644" file="methodprovider.cpp:89">
+<![LOG[spNamespace.Get(sPath, &spInstance), HRESULT=80041002 (e:\nts_sccm_release\sms\client\smsclient\methodprovider.cpp,100)]LOG]!><time="10:09:38.803-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="0" thread="5644" file="methodprovider.cpp:100">
+<![LOG[Failed to retrieve the requested schedule (80041002)]LOG]!><time="10:09:38.803-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="3" thread="5644" file="methodprovider.cpp:100">
+<![LOG[Failed to send schedule (80041002)]LOG]!><time="10:09:38.803-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="3" thread="5644" file="methodprovider.cpp:127">
+<![LOG[TriggerSchedule(sScheduleID), HRESULT=80041002 (e:\nts_sccm_release\sms\client\smsclient\methodprovider.cpp,143)]LOG]!><time="10:09:38.803-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="0" thread="5644" file="methodprovider.cpp:143">
+<![LOG[pMethod->pMethodProc(spInParams, spOutParams), HRESULT=80041002 (e:\nts_sccm_release\sms\client\smsclient\methodprovider.cpp,1032)]LOG]!><time="10:09:38.803-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="0" thread="5644" file="methodprovider.cpp:1032">
+<![LOG[Method TriggerSchedule failed with error code 80041002]LOG]!><time="10:09:38.803-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="3" thread="5644" file="methodprovider.cpp:1032">
+<![LOG[Stopped the service 'ccmexec' successfully]LOG]!><time="10:09:45.353-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="1" thread="300" file="servicecontrol.cpp:267">
+<![LOG[Restarted service ccmexec]LOG]!><time="10:09:45.914-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="0" thread="300" file="smsclientclass.cpp:1728">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="10:09:46.101-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="0" thread="300" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000121}]LOG]!><time="10:09:46.101-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="1" thread="300" file="methodprovider.cpp:89">
+<![LOG[spNamespace.Get(sPath, &spInstance), HRESULT=80041002 (e:\nts_sccm_release\sms\client\smsclient\methodprovider.cpp,100)]LOG]!><time="10:09:46.117-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="0" thread="300" file="methodprovider.cpp:100">
+<![LOG[Failed to retrieve the requested schedule (80041002)]LOG]!><time="10:09:46.117-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="3" thread="300" file="methodprovider.cpp:100">
+<![LOG[Failed to send schedule (80041002)]LOG]!><time="10:09:46.117-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="3" thread="300" file="methodprovider.cpp:127">
+<![LOG[TriggerSchedule(sScheduleID), HRESULT=80041002 (e:\nts_sccm_release\sms\client\smsclient\methodprovider.cpp,143)]LOG]!><time="10:09:46.117-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="0" thread="300" file="methodprovider.cpp:143">
+<![LOG[pMethod->pMethodProc(spInParams, spOutParams), HRESULT=80041002 (e:\nts_sccm_release\sms\client\smsclient\methodprovider.cpp,1032)]LOG]!><time="10:09:46.117-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="0" thread="300" file="methodprovider.cpp:1032">
+<![LOG[Method TriggerSchedule failed with error code 80041002]LOG]!><time="10:09:46.117-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="3" thread="300" file="methodprovider.cpp:1032">
+<![LOG[Invoking method GetAssignedSite]LOG]!><time="10:10:11.847-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="0" thread="6920" file="methodprovider.cpp:1024">
+<![LOG[Client is assigned to site P11.]LOG]!><time="10:10:11.862-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="1" thread="6920" file="methodprovider.cpp:363">
+<![LOG[Invoking method GetAssignedSite]LOG]!><time="10:10:11.893-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="0" thread="6920" file="methodprovider.cpp:1024">
+<![LOG[Client is assigned to site P11.]LOG]!><time="10:10:11.893-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="1" thread="6920" file="methodprovider.cpp:363">
+<![LOG[Invoking method GetAssignedSite]LOG]!><time="10:25:57.299-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="0" thread="5280" file="methodprovider.cpp:1024">
+<![LOG[Client is assigned to site P11.]LOG]!><time="10:25:57.314-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="1" thread="5280" file="methodprovider.cpp:363">
+<![LOG[Invoking method GetAssignedSite]LOG]!><time="10:25:59.592-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="0" thread="1248" file="methodprovider.cpp:1024">
+<![LOG[Client is assigned to site P11.]LOG]!><time="10:25:59.608-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="1" thread="1248" file="methodprovider.cpp:363">
+<![LOG[Invoking method SetGlobalLoggingConfiguration]LOG]!><time="10:25:59.826-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="0" thread="1248" file="methodprovider.cpp:1024">
+<![LOG[Successfully updated logging configuration]LOG]!><time="10:25:59.842-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="1" thread="1248" file="methodprovider.cpp:800">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="10:30:53.678-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="0" thread="5088" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000111}]LOG]!><time="10:30:53.678-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="1" thread="5088" file="methodprovider.cpp:89">
+<![LOG[Schedule successfully sent.]LOG]!><time="10:30:53.710-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="1" thread="5088" file="methodprovider.cpp:121">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="10:30:53.912-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="0" thread="5088" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000032}]LOG]!><time="10:30:53.912-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="1" thread="5088" file="methodprovider.cpp:89">
+<![LOG[Schedule successfully sent.]LOG]!><time="10:30:53.912-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="1" thread="5088" file="methodprovider.cpp:121">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="10:30:53.944-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="0" thread="5088" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000113}]LOG]!><time="10:30:53.944-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="1" thread="5088" file="methodprovider.cpp:89">
+<![LOG[Schedule successfully sent.]LOG]!><time="10:30:53.959-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="1" thread="5088" file="methodprovider.cpp:121">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="10:30:53.990-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="0" thread="5088" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000111}]LOG]!><time="10:30:53.990-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="1" thread="5088" file="methodprovider.cpp:89">
+<![LOG[Schedule successfully sent.]LOG]!><time="10:30:54.006-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="1" thread="5088" file="methodprovider.cpp:121">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="10:30:54.022-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="0" thread="5088" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000022}]LOG]!><time="10:30:54.022-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="1" thread="5088" file="methodprovider.cpp:89">
+<![LOG[Schedule successfully sent.]LOG]!><time="10:30:54.037-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="1" thread="5088" file="methodprovider.cpp:121">
+<![LOG[Invoking method GetAssignedSite]LOG]!><time="10:34:27.125-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="0" thread="1792" file="methodprovider.cpp:1024">
+<![LOG[Client is assigned to site P11.]LOG]!><time="10:34:27.172-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="1" thread="1792" file="methodprovider.cpp:363">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="10:36:04.907-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="0" thread="1792" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000111}]LOG]!><time="10:36:04.907-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="1" thread="1792" file="methodprovider.cpp:89">
+<![LOG[spMessaging.CoCreateInstance(CLSID_CcmMessaging), HRESULT=80080005 (e:\nts_sccm_release\sms\client\smsclient\methodprovider.cpp,108)]LOG]!><time="10:36:35.010-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="0" thread="1792" file="methodprovider.cpp:108">
+<![LOG[Failed to send schedule (80080005)]LOG]!><time="10:36:35.010-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="3" thread="1792" file="methodprovider.cpp:127">
+<![LOG[TriggerSchedule(sScheduleID), HRESULT=80080005 (e:\nts_sccm_release\sms\client\smsclient\methodprovider.cpp,143)]LOG]!><time="10:36:35.010-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="0" thread="1792" file="methodprovider.cpp:143">
+<![LOG[pMethod->pMethodProc(spInParams, spOutParams), HRESULT=80080005 (e:\nts_sccm_release\sms\client\smsclient\methodprovider.cpp,1032)]LOG]!><time="10:36:35.010-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="0" thread="1792" file="methodprovider.cpp:1032">
+<![LOG[Method TriggerSchedule failed with error code 80080005]LOG]!><time="10:36:35.010-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="3" thread="1792" file="methodprovider.cpp:1032">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="10:36:35.041-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="0" thread="1792" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000032}]LOG]!><time="10:36:35.041-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="1" thread="1792" file="methodprovider.cpp:89">
+<![LOG[spMessaging.CoCreateInstance(CLSID_CcmMessaging), HRESULT=80080005 (e:\nts_sccm_release\sms\client\smsclient\methodprovider.cpp,108)]LOG]!><time="10:37:05.141-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="0" thread="1792" file="methodprovider.cpp:108">
+<![LOG[Failed to send schedule (80080005)]LOG]!><time="10:37:05.141-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="3" thread="1792" file="methodprovider.cpp:127">
+<![LOG[TriggerSchedule(sScheduleID), HRESULT=80080005 (e:\nts_sccm_release\sms\client\smsclient\methodprovider.cpp,143)]LOG]!><time="10:37:05.141-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="0" thread="1792" file="methodprovider.cpp:143">
+<![LOG[pMethod->pMethodProc(spInParams, spOutParams), HRESULT=80080005 (e:\nts_sccm_release\sms\client\smsclient\methodprovider.cpp,1032)]LOG]!><time="10:37:05.141-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="0" thread="1792" file="methodprovider.cpp:1032">
+<![LOG[Method TriggerSchedule failed with error code 80080005]LOG]!><time="10:37:05.141-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="3" thread="1792" file="methodprovider.cpp:1032">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="10:37:05.188-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="0" thread="1792" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000113}]LOG]!><time="10:37:05.188-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="1" thread="1792" file="methodprovider.cpp:89">
+<![LOG[Schedule successfully sent.]LOG]!><time="10:37:32.367-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="1" thread="1792" file="methodprovider.cpp:121">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="10:37:32.398-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="0" thread="1792" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000111}]LOG]!><time="10:37:32.398-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="1" thread="1792" file="methodprovider.cpp:89">
+<![LOG[Schedule successfully sent.]LOG]!><time="10:37:32.398-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="1" thread="1792" file="methodprovider.cpp:121">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="10:37:32.445-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="0" thread="1792" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000022}]LOG]!><time="10:37:32.445-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="1" thread="1792" file="methodprovider.cpp:89">
+<![LOG[Schedule successfully sent.]LOG]!><time="10:37:32.461-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="1" thread="1792" file="methodprovider.cpp:121">
+<![LOG[Invoking method GetAssignedSite]LOG]!><time="10:41:26.372-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="0" thread="4564" file="methodprovider.cpp:1024">
+<![LOG[Client is assigned to site P11.]LOG]!><time="10:41:26.372-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="1" thread="4564" file="methodprovider.cpp:363">
+<![LOG[Invoking method GetAssignedSite]LOG]!><time="10:41:30.171-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="0" thread="4564" file="methodprovider.cpp:1024">
+<![LOG[Client is assigned to site P11.]LOG]!><time="10:41:30.187-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="1" thread="4564" file="methodprovider.cpp:363">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="10:42:24.663-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="0" thread="4564" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000111}]LOG]!><time="10:42:24.664-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="1" thread="4564" file="methodprovider.cpp:89">
+<![LOG[Schedule successfully sent.]LOG]!><time="10:42:24.686-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="1" thread="4564" file="methodprovider.cpp:121">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="10:42:24.707-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="0" thread="4564" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000032}]LOG]!><time="10:42:24.708-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="1" thread="4564" file="methodprovider.cpp:89">
+<![LOG[Schedule successfully sent.]LOG]!><time="10:42:24.726-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="1" thread="4564" file="methodprovider.cpp:121">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="10:42:24.758-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="0" thread="4564" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000113}]LOG]!><time="10:42:24.758-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="1" thread="4564" file="methodprovider.cpp:89">
+<![LOG[Schedule successfully sent.]LOG]!><time="10:42:24.775-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="1" thread="4564" file="methodprovider.cpp:121">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="10:42:24.801-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="0" thread="4564" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000111}]LOG]!><time="10:42:24.802-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="1" thread="4564" file="methodprovider.cpp:89">
+<![LOG[Schedule successfully sent.]LOG]!><time="10:42:24.816-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="1" thread="4564" file="methodprovider.cpp:121">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="10:42:24.858-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="0" thread="4564" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000022}]LOG]!><time="10:42:24.859-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="1" thread="4564" file="methodprovider.cpp:89">
+<![LOG[Schedule successfully sent.]LOG]!><time="10:42:24.868-60" date="11-10-2017" component="SmsClientMethodProvider" context="" type="1" thread="4564" file="methodprovider.cpp:121">
+<![LOG[Invoking method GetAssignedSite]LOG]!><time="12:51:04.709-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="0" thread="1516" file="methodprovider.cpp:1024">
+<![LOG[Client is assigned to site P11.]LOG]!><time="12:51:04.771-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="1516" file="methodprovider.cpp:363">
+<![LOG[Invoking method GetAssignedSite]LOG]!><time="12:51:27.899-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="0" thread="5860" file="methodprovider.cpp:1024">
+<![LOG[Client is assigned to site P11.]LOG]!><time="12:51:28.149-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="5860" file="methodprovider.cpp:363">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="12:52:26.379-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="0" thread="7488" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000113}]LOG]!><time="12:52:26.381-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="7488" file="methodprovider.cpp:89">
+<![LOG[Schedule successfully sent.]LOG]!><time="12:52:26.444-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="7488" file="methodprovider.cpp:121">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="12:52:26.530-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="0" thread="7488" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000032}]LOG]!><time="12:52:26.536-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="7488" file="methodprovider.cpp:89">
+<![LOG[Schedule successfully sent.]LOG]!><time="12:52:26.553-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="7488" file="methodprovider.cpp:121">
+<![LOG[Invoking method GetAssignedSite]LOG]!><time="12:59:11.067-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="0" thread="5428" file="methodprovider.cpp:1024">
+<![LOG[Client is assigned to site P11.]LOG]!><time="12:59:11.067-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="5428" file="methodprovider.cpp:363">
+<![LOG[Invoking method GetAssignedSite]LOG]!><time="12:59:15.496-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="0" thread="2944" file="methodprovider.cpp:1024">
+<![LOG[Client is assigned to site P11.]LOG]!><time="12:59:15.496-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="2944" file="methodprovider.cpp:363">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="13:01:07.422-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="0" thread="5428" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000111}]LOG]!><time="13:01:07.422-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="5428" file="methodprovider.cpp:89">
+<![LOG[Schedule successfully sent.]LOG]!><time="13:01:07.453-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="5428" file="methodprovider.cpp:121">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="13:01:07.500-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="0" thread="5428" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000032}]LOG]!><time="13:01:07.500-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="5428" file="methodprovider.cpp:89">
+<![LOG[Schedule successfully sent.]LOG]!><time="13:01:07.500-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="5428" file="methodprovider.cpp:121">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="13:01:07.547-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="0" thread="5428" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000113}]LOG]!><time="13:01:07.563-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="5428" file="methodprovider.cpp:89">
+<![LOG[Schedule successfully sent.]LOG]!><time="13:01:07.563-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="5428" file="methodprovider.cpp:121">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="13:01:07.594-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="0" thread="5428" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000111}]LOG]!><time="13:01:07.594-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="5428" file="methodprovider.cpp:89">
+<![LOG[Schedule successfully sent.]LOG]!><time="13:01:07.609-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="5428" file="methodprovider.cpp:121">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="13:01:07.641-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="0" thread="5428" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000022}]LOG]!><time="13:01:07.641-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="5428" file="methodprovider.cpp:89">
+<![LOG[Schedule successfully sent.]LOG]!><time="13:01:07.641-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="5428" file="methodprovider.cpp:121">
+<![LOG[Invoking method GetAssignedSite]LOG]!><time="13:16:32.692-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="0" thread="7544" file="methodprovider.cpp:1024">
+<![LOG[Client is assigned to site P11.]LOG]!><time="13:16:32.707-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="7544" file="methodprovider.cpp:363">
+<![LOG[Invoking method GetAssignedSite]LOG]!><time="13:16:34.333-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="0" thread="7544" file="methodprovider.cpp:1024">
+<![LOG[Client is assigned to site P11.]LOG]!><time="13:16:34.333-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="7544" file="methodprovider.cpp:363">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="13:17:30.299-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="0" thread="8992" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000111}]LOG]!><time="13:17:30.299-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="8992" file="methodprovider.cpp:89">
+<![LOG[Schedule successfully sent.]LOG]!><time="13:17:30.315-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="8992" file="methodprovider.cpp:121">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="13:17:30.346-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="0" thread="8992" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000032}]LOG]!><time="13:17:30.346-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="8992" file="methodprovider.cpp:89">
+<![LOG[Schedule successfully sent.]LOG]!><time="13:17:30.346-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="8992" file="methodprovider.cpp:121">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="13:17:30.377-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="0" thread="8992" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000113}]LOG]!><time="13:17:30.377-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="8992" file="methodprovider.cpp:89">
+<![LOG[Schedule successfully sent.]LOG]!><time="13:17:30.377-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="8992" file="methodprovider.cpp:121">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="13:17:30.408-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="0" thread="8992" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000111}]LOG]!><time="13:17:30.408-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="8992" file="methodprovider.cpp:89">
+<![LOG[Schedule successfully sent.]LOG]!><time="13:17:30.408-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="8992" file="methodprovider.cpp:121">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="13:17:30.440-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="0" thread="8992" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000022}]LOG]!><time="13:17:30.440-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="8992" file="methodprovider.cpp:89">
+<![LOG[Schedule successfully sent.]LOG]!><time="13:17:30.440-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="8992" file="methodprovider.cpp:121">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="13:34:43.915-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="0" thread="10000" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000001}]LOG]!><time="13:34:43.915-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="10000" file="methodprovider.cpp:89">
+<![LOG[Schedule successfully sent.]LOG]!><time="13:34:43.931-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="10000" file="methodprovider.cpp:121">
+<![LOG[Invoking method GetAssignedSite]LOG]!><time="13:46:36.529-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="0" thread="6328" file="methodprovider.cpp:1024">
+<![LOG[Client is assigned to site P11.]LOG]!><time="13:46:36.560-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="6328" file="methodprovider.cpp:363">
+<![LOG[Invoking method GetAssignedSite]LOG]!><time="13:46:38.650-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="0" thread="6328" file="methodprovider.cpp:1024">
+<![LOG[Client is assigned to site P11.]LOG]!><time="13:46:38.650-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="6328" file="methodprovider.cpp:363">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="13:47:32.844-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="0" thread="7372" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000111}]LOG]!><time="13:47:32.844-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="7372" file="methodprovider.cpp:89">
+<![LOG[Schedule successfully sent.]LOG]!><time="13:47:32.859-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="7372" file="methodprovider.cpp:121">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="13:47:32.906-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="0" thread="7372" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000032}]LOG]!><time="13:47:32.906-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="7372" file="methodprovider.cpp:89">
+<![LOG[Schedule successfully sent.]LOG]!><time="13:47:32.906-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="7372" file="methodprovider.cpp:121">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="13:47:32.937-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="0" thread="7372" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000113}]LOG]!><time="13:47:32.937-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="7372" file="methodprovider.cpp:89">
+<![LOG[Schedule successfully sent.]LOG]!><time="13:47:32.953-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="7372" file="methodprovider.cpp:121">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="13:47:32.969-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="0" thread="7372" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000111}]LOG]!><time="13:47:32.969-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="7372" file="methodprovider.cpp:89">
+<![LOG[Schedule successfully sent.]LOG]!><time="13:47:32.969-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="7372" file="methodprovider.cpp:121">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="13:47:33.031-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="0" thread="7372" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000022}]LOG]!><time="13:47:33.031-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="7372" file="methodprovider.cpp:89">
+<![LOG[Schedule successfully sent.]LOG]!><time="13:47:33.031-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="7372" file="methodprovider.cpp:121">
+<![LOG[Invoking method GetAssignedSite]LOG]!><time="15:36:45.437-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="0" thread="7140" file="methodprovider.cpp:1024">
+<![LOG[Client is assigned to site P11.]LOG]!><time="15:36:45.453-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="7140" file="methodprovider.cpp:363">
+<![LOG[Invoking method GetAssignedSite]LOG]!><time="15:36:47.994-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="0" thread="7140" file="methodprovider.cpp:1024">
+<![LOG[Client is assigned to site P11.]LOG]!><time="15:36:48.010-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="7140" file="methodprovider.cpp:363">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="15:37:56.499-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="0" thread="7140" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000111}]LOG]!><time="15:37:56.499-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="7140" file="methodprovider.cpp:89">
+<![LOG[Schedule successfully sent.]LOG]!><time="15:37:56.514-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="7140" file="methodprovider.cpp:121">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="15:37:56.561-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="0" thread="7140" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000032}]LOG]!><time="15:37:56.561-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="7140" file="methodprovider.cpp:89">
+<![LOG[Schedule successfully sent.]LOG]!><time="15:37:56.561-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="7140" file="methodprovider.cpp:121">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="15:37:56.592-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="0" thread="7140" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000113}]LOG]!><time="15:37:56.592-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="7140" file="methodprovider.cpp:89">
+<![LOG[Schedule successfully sent.]LOG]!><time="15:37:56.592-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="7140" file="methodprovider.cpp:121">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="15:37:56.623-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="0" thread="7140" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000111}]LOG]!><time="15:37:56.623-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="7140" file="methodprovider.cpp:89">
+<![LOG[Schedule successfully sent.]LOG]!><time="15:37:56.639-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="7140" file="methodprovider.cpp:121">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="15:37:56.670-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="0" thread="7140" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000022}]LOG]!><time="15:37:56.670-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="7140" file="methodprovider.cpp:89">
+<![LOG[Schedule successfully sent.]LOG]!><time="15:37:56.686-60" date="12-11-2017" component="SmsClientMethodProvider" context="" type="1" thread="7140" file="methodprovider.cpp:121">
+<![LOG[Invoking method GetAssignedSite]LOG]!><time="13:43:25.714-60" date="12-18-2017" component="SmsClientMethodProvider" context="" type="0" thread="3196" file="methodprovider.cpp:1024">
+<![LOG[Client is assigned to site P11.]LOG]!><time="13:43:25.730-60" date="12-18-2017" component="SmsClientMethodProvider" context="" type="1" thread="3196" file="methodprovider.cpp:363">
+<![LOG[Invoking method GetAssignedSite]LOG]!><time="13:43:27.898-60" date="12-18-2017" component="SmsClientMethodProvider" context="" type="0" thread="3196" file="methodprovider.cpp:1024">
+<![LOG[Client is assigned to site P11.]LOG]!><time="13:43:27.914-60" date="12-18-2017" component="SmsClientMethodProvider" context="" type="1" thread="3196" file="methodprovider.cpp:363">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="13:44:33.440-60" date="12-18-2017" component="SmsClientMethodProvider" context="" type="0" thread="3196" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000111}]LOG]!><time="13:44:33.440-60" date="12-18-2017" component="SmsClientMethodProvider" context="" type="1" thread="3196" file="methodprovider.cpp:89">
+<![LOG[Schedule successfully sent.]LOG]!><time="13:44:33.455-60" date="12-18-2017" component="SmsClientMethodProvider" context="" type="1" thread="3196" file="methodprovider.cpp:121">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="13:44:33.486-60" date="12-18-2017" component="SmsClientMethodProvider" context="" type="0" thread="3196" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000032}]LOG]!><time="13:44:33.486-60" date="12-18-2017" component="SmsClientMethodProvider" context="" type="1" thread="3196" file="methodprovider.cpp:89">
+<![LOG[Schedule successfully sent.]LOG]!><time="13:44:33.502-60" date="12-18-2017" component="SmsClientMethodProvider" context="" type="1" thread="3196" file="methodprovider.cpp:121">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="13:44:33.533-60" date="12-18-2017" component="SmsClientMethodProvider" context="" type="0" thread="3196" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000113}]LOG]!><time="13:44:33.533-60" date="12-18-2017" component="SmsClientMethodProvider" context="" type="1" thread="3196" file="methodprovider.cpp:89">
+<![LOG[Schedule successfully sent.]LOG]!><time="13:44:33.533-60" date="12-18-2017" component="SmsClientMethodProvider" context="" type="1" thread="3196" file="methodprovider.cpp:121">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="13:44:33.564-60" date="12-18-2017" component="SmsClientMethodProvider" context="" type="0" thread="3196" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000111}]LOG]!><time="13:44:33.564-60" date="12-18-2017" component="SmsClientMethodProvider" context="" type="1" thread="3196" file="methodprovider.cpp:89">
+<![LOG[Schedule successfully sent.]LOG]!><time="13:44:33.580-60" date="12-18-2017" component="SmsClientMethodProvider" context="" type="1" thread="3196" file="methodprovider.cpp:121">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="13:44:33.611-60" date="12-18-2017" component="SmsClientMethodProvider" context="" type="0" thread="3196" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000022}]LOG]!><time="13:44:33.611-60" date="12-18-2017" component="SmsClientMethodProvider" context="" type="1" thread="3196" file="methodprovider.cpp:89">
+<![LOG[Schedule successfully sent.]LOG]!><time="13:44:33.627-60" date="12-18-2017" component="SmsClientMethodProvider" context="" type="1" thread="3196" file="methodprovider.cpp:121">
+<![LOG[Invoking method SetGlobalLoggingConfiguration]LOG]!><time="13:25:28.820-120" date="10-03-2018" component="SmsClientMethodProvider" context="" type="0" thread="7072" file="methodprovider.cpp:1024">
+<![LOG[Successfully updated logging configuration]LOG]!><time="13:25:28.837-120" date="10-03-2018" component="SmsClientMethodProvider" context="" type="1" thread="7072" file="methodprovider.cpp:800">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="13:26:28.243-120" date="10-03-2018" component="SmsClientMethodProvider" context="" type="0" thread="9072" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000113}]LOG]!><time="13:26:28.243-120" date="10-03-2018" component="SmsClientMethodProvider" context="" type="1" thread="9072" file="methodprovider.cpp:89">
+<![LOG[Schedule successfully sent.]LOG]!><time="13:26:28.293-120" date="10-03-2018" component="SmsClientMethodProvider" context="" type="1" thread="9072" file="methodprovider.cpp:121">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="13:26:28.441-120" date="10-03-2018" component="SmsClientMethodProvider" context="" type="0" thread="9072" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000032}]LOG]!><time="13:26:28.441-120" date="10-03-2018" component="SmsClientMethodProvider" context="" type="1" thread="9072" file="methodprovider.cpp:89">
+<![LOG[Schedule successfully sent.]LOG]!><time="13:26:28.457-120" date="10-03-2018" component="SmsClientMethodProvider" context="" type="1" thread="9072" file="methodprovider.cpp:121">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="13:27:45.137-120" date="10-03-2018" component="SmsClientMethodProvider" context="" type="0" thread="7068" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000111}]LOG]!><time="13:27:45.153-120" date="10-03-2018" component="SmsClientMethodProvider" context="" type="1" thread="7068" file="methodprovider.cpp:89">
+<![LOG[Schedule successfully sent.]LOG]!><time="13:27:45.153-120" date="10-03-2018" component="SmsClientMethodProvider" context="" type="1" thread="7068" file="methodprovider.cpp:121">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="13:27:45.184-120" date="10-03-2018" component="SmsClientMethodProvider" context="" type="0" thread="7068" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000032}]LOG]!><time="13:27:45.184-120" date="10-03-2018" component="SmsClientMethodProvider" context="" type="1" thread="7068" file="methodprovider.cpp:89">
+<![LOG[Schedule successfully sent.]LOG]!><time="13:27:45.184-120" date="10-03-2018" component="SmsClientMethodProvider" context="" type="1" thread="7068" file="methodprovider.cpp:121">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="13:27:45.216-120" date="10-03-2018" component="SmsClientMethodProvider" context="" type="0" thread="7068" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000113}]LOG]!><time="13:27:45.216-120" date="10-03-2018" component="SmsClientMethodProvider" context="" type="1" thread="7068" file="methodprovider.cpp:89">
+<![LOG[Schedule successfully sent.]LOG]!><time="13:27:45.216-120" date="10-03-2018" component="SmsClientMethodProvider" context="" type="1" thread="7068" file="methodprovider.cpp:121">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="13:27:45.232-120" date="10-03-2018" component="SmsClientMethodProvider" context="" type="0" thread="7068" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000111}]LOG]!><time="13:27:45.232-120" date="10-03-2018" component="SmsClientMethodProvider" context="" type="1" thread="7068" file="methodprovider.cpp:89">
+<![LOG[Schedule successfully sent.]LOG]!><time="13:27:45.248-120" date="10-03-2018" component="SmsClientMethodProvider" context="" type="1" thread="7068" file="methodprovider.cpp:121">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="13:27:45.280-120" date="10-03-2018" component="SmsClientMethodProvider" context="" type="0" thread="7068" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000022}]LOG]!><time="13:27:45.280-120" date="10-03-2018" component="SmsClientMethodProvider" context="" type="1" thread="7068" file="methodprovider.cpp:89">
+<![LOG[Schedule successfully sent.]LOG]!><time="13:27:45.296-120" date="10-03-2018" component="SmsClientMethodProvider" context="" type="1" thread="7068" file="methodprovider.cpp:121">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="13:59:01.427-120" date="10-03-2018" component="SmsClientMethodProvider" context="" type="0" thread="6720" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000113}]LOG]!><time="13:59:01.443-120" date="10-03-2018" component="SmsClientMethodProvider" context="" type="1" thread="6720" file="methodprovider.cpp:89">
+<![LOG[Schedule successfully sent.]LOG]!><time="13:59:01.459-120" date="10-03-2018" component="SmsClientMethodProvider" context="" type="1" thread="6720" file="methodprovider.cpp:121">
+<![LOG[Invoking method TriggerSchedule]LOG]!><time="13:59:01.475-120" date="10-03-2018" component="SmsClientMethodProvider" context="" type="0" thread="6720" file="methodprovider.cpp:1024">
+<![LOG[Triggering schedule {00000000-0000-0000-0000-000000000032}]LOG]!><time="13:59:01.475-120" date="10-03-2018" component="SmsClientMethodProvider" context="" type="1" thread="6720" file="methodprovider.cpp:89">
+<![LOG[Schedule successfully sent.]LOG]!><time="13:59:01.491-120" date="10-03-2018" component="SmsClientMethodProvider" context="" type="1" thread="6720" file="methodprovider.cpp:121">

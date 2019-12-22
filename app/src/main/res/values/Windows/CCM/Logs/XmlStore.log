@@ -1,0 +1,276 @@
+﻿<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="09:25:10.114-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="3372" file="xmlstore_wmi.cpp:321">
+<![LOG[CXmlStore::EnumDocuments]LOG]!><time="09:25:10.114-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="3372" file="xmlstore_wmi.cpp:923">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="09:25:10.114-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="3372" file="xmlstore_wmi.cpp:321">
+<![LOG[CXmlStore::EnumDocuments]LOG]!><time="09:25:10.114-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="3372" file="xmlstore_wmi.cpp:923">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="09:33:54.292-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="3532" file="xmlstore_wmi.cpp:321">
+<![LOG[CXmlStore::EnumDocuments]LOG]!><time="09:33:54.292-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="3532" file="xmlstore_wmi.cpp:923">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="09:33:54.307-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="3532" file="xmlstore_wmi.cpp:321">
+<![LOG[CXmlStore::EnumDocuments]LOG]!><time="09:33:54.307-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="3532" file="xmlstore_wmi.cpp:923">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="09:37:34.900-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="3508" file="xmlstore_wmi.cpp:321">
+<![LOG[CXmlStore::EnumDocuments]LOG]!><time="09:37:34.916-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="3508" file="xmlstore_wmi.cpp:923">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="09:37:34.916-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="3508" file="xmlstore_wmi.cpp:321">
+<![LOG[CXmlStore::EnumDocuments]LOG]!><time="09:37:34.916-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="3508" file="xmlstore_wmi.cpp:923">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="09:57:31.053-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="5184" file="xmlstore_wmi.cpp:321">
+<![LOG[CXmlStore::EnumDocuments]LOG]!><time="09:57:31.069-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="5184" file="xmlstore_wmi.cpp:923">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="09:57:31.084-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="5276" file="xmlstore_wmi.cpp:321">
+<![LOG[CXmlStore::EnumDocuments]LOG]!><time="09:57:31.084-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="5276" file="xmlstore_wmi.cpp:923">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="09:57:42.211-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="4352" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="09:57:42.227-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="5184" file="xmlstore_wmi.cpp:321">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="09:57:42.227-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="5184" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="09:57:44.084-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="3932" file="xmlstore_wmi.cpp:868">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="09:57:44.724-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="5276" file="xmlstore_wmi.cpp:868">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="09:57:44.896-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="3932" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="09:57:44.911-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="5272" file="xmlstore_wmi.cpp:321">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="09:57:44.911-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="5272" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="09:57:44.974-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="5272" file="xmlstore_wmi.cpp:868">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="09:57:51.747-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="4352" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="09:57:51.747-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="5268" file="xmlstore_wmi.cpp:321">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="09:57:51.747-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="5268" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="09:57:56.506-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="5184" file="xmlstore_wmi.cpp:868">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="10:00:57.433-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="4872" file="xmlstore_wmi.cpp:321">
+<![LOG[CXmlStore::EnumDocuments]LOG]!><time="10:00:57.433-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="4872" file="xmlstore_wmi.cpp:923">
+<![LOG[CObjectArray::GetItem]LOG]!><time="10:00:57.449-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="4872" file="xmlstore_wmi.cpp:1085">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="10:00:57.449-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="4872" file="xmlstore_wmi.cpp:321">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="10:00:57.511-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="4872" file="xmlstore_wmi.cpp:321">
+<![LOG[CXmlStore::EnumDocuments]LOG]!><time="10:00:57.511-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="4872" file="xmlstore_wmi.cpp:923">
+<![LOG[CObjectArray::GetItem]LOG]!><time="10:00:57.527-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="4872" file="xmlstore_wmi.cpp:1085">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="10:00:57.558-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="5960" file="xmlstore_wmi.cpp:321">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:00:57.558-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="5960" file="xmlstore_wmi.cpp:80">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:00:59.445-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="5972" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="10:00:59.461-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2268" file="xmlstore_wmi.cpp:321">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:00:59.461-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="2268" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:00:59.539-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2268" file="xmlstore_wmi.cpp:868">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:01:01.301-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="1248" file="xmlstore_wmi.cpp:868">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:01:01.519-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="1248" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="10:01:01.519-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="5592" file="xmlstore_wmi.cpp:321">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:01:01.519-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="5592" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:01:03.094-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2208" file="xmlstore_wmi.cpp:868">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:01:03.578-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="5096" file="xmlstore_wmi.cpp:868">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:01:03.749-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="1248" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="10:01:03.765-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2208" file="xmlstore_wmi.cpp:321">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:01:03.765-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="2208" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:01:03.843-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2208" file="xmlstore_wmi.cpp:868">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:01:11.187-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="5972" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="10:01:11.187-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="4436" file="xmlstore_wmi.cpp:321">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:01:11.187-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="4436" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:01:11.827-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="4436" file="xmlstore_wmi.cpp:868">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:01:11.827-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="5972" file="xmlstore_wmi.cpp:868">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:01:12.575-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="1248" file="xmlstore_wmi.cpp:868">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:01:12.575-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="4436" file="xmlstore_wmi.cpp:868">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:01:22.821-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="5096" file="xmlstore_wmi.cpp:868">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="10:04:24.023-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="6056" file="xmlstore_wmi.cpp:321">
+<![LOG[CXmlStore::EnumDocuments]LOG]!><time="10:04:24.039-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="6056" file="xmlstore_wmi.cpp:923">
+<![LOG[CObjectArray::GetItem]LOG]!><time="10:04:24.039-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="6056" file="xmlstore_wmi.cpp:1085">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="10:04:24.039-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="6056" file="xmlstore_wmi.cpp:321">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="10:04:24.055-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="6064" file="xmlstore_wmi.cpp:321">
+<![LOG[CXmlStore::EnumDocuments]LOG]!><time="10:04:24.055-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="6064" file="xmlstore_wmi.cpp:923">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:04:26.757-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="6056" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="10:04:26.757-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="5616" file="xmlstore_wmi.cpp:321">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:04:26.757-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="5616" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:04:26.897-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="5616" file="xmlstore_wmi.cpp:868">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:04:28.912-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="736" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="10:04:28.928-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="5616" file="xmlstore_wmi.cpp:321">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:04:28.928-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="5616" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:04:29.287-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="5508" file="xmlstore_wmi.cpp:868">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:04:30.506-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="5508" file="xmlstore_wmi.cpp:868">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:04:31.037-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="5512" file="xmlstore_wmi.cpp:868">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:04:31.099-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="5512" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="10:04:31.099-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="5908" file="xmlstore_wmi.cpp:321">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:04:31.099-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="5908" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:04:31.177-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="5908" file="xmlstore_wmi.cpp:868">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:04:37.722-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="5512" file="xmlstore_wmi.cpp:868">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:04:38.534-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="6064" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="10:04:38.534-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="5508" file="xmlstore_wmi.cpp:321">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:04:38.534-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="5508" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:04:48.640-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="5508" file="xmlstore_wmi.cpp:868">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:04:48.656-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="5264" file="xmlstore_wmi.cpp:868">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="10:09:14.725-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2832" file="xmlstore_wmi.cpp:321">
+<![LOG[CXmlStore::EnumDocuments]LOG]!><time="10:09:14.725-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2832" file="xmlstore_wmi.cpp:923">
+<![LOG[CObjectArray::GetItem]LOG]!><time="10:09:14.741-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2832" file="xmlstore_wmi.cpp:1085">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="10:09:14.741-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2832" file="xmlstore_wmi.cpp:321">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="10:09:14.756-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="5924" file="xmlstore_wmi.cpp:321">
+<![LOG[CXmlStore::EnumDocuments]LOG]!><time="10:09:14.756-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="5924" file="xmlstore_wmi.cpp:923">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="10:10:58.568-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="6264" file="xmlstore_wmi.cpp:321">
+<![LOG[CXmlStore::EnumDocuments]LOG]!><time="10:10:58.568-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="6264" file="xmlstore_wmi.cpp:923">
+<![LOG[CObjectArray::GetItem]LOG]!><time="10:10:58.568-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="6264" file="xmlstore_wmi.cpp:1085">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="10:10:58.568-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="6264" file="xmlstore_wmi.cpp:321">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="10:10:58.568-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="6264" file="xmlstore_wmi.cpp:321">
+<![LOG[CXmlStore::EnumDocuments]LOG]!><time="10:10:58.584-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="6264" file="xmlstore_wmi.cpp:923">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:11:38.568-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="5780" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="10:11:38.615-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="6636" file="xmlstore_wmi.cpp:321">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:11:38.615-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="6636" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="10:12:31.145-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2868" file="xmlstore_wmi.cpp:321">
+<![LOG[CXmlStore::EnumDocuments]LOG]!><time="10:12:31.145-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2868" file="xmlstore_wmi.cpp:923">
+<![LOG[CObjectArray::GetItem]LOG]!><time="10:12:31.145-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2868" file="xmlstore_wmi.cpp:1085">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="10:12:31.145-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2868" file="xmlstore_wmi.cpp:321">
+<![LOG[CObjectArray::GetItem]LOG]!><time="10:12:31.161-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2868" file="xmlstore_wmi.cpp:1085">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="10:12:31.161-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2868" file="xmlstore_wmi.cpp:321">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="10:12:31.207-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="5028" file="xmlstore_wmi.cpp:321">
+<![LOG[CXmlStore::EnumDocuments]LOG]!><time="10:12:31.207-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="5028" file="xmlstore_wmi.cpp:923">
+<![LOG[CObjectArray::GetItem]LOG]!><time="10:12:31.207-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="5028" file="xmlstore_wmi.cpp:1085">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="10:12:31.207-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2868" file="xmlstore_wmi.cpp:321">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:12:31.223-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="2868" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:12:43.530-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="3352" file="xmlstore_wmi.cpp:868">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:12:43.561-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="3352" file="xmlstore_wmi.cpp:868">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:13:00.002-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="6912" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:13:00.033-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="6172" file="xmlstore_wmi.cpp:868">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:13:00.532-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="5772" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:13:00.625-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2220" file="xmlstore_wmi.cpp:868">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:13:01.187-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="3352" file="xmlstore_wmi.cpp:80">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:13:01.281-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="3352" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:13:01.343-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="3352" file="xmlstore_wmi.cpp:868">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:13:01.405-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="3352" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:13:01.452-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="6188" file="xmlstore_wmi.cpp:868">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:13:01.780-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="2220" file="xmlstore_wmi.cpp:80">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:13:01.889-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="2220" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:13:01.936-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="3352" file="xmlstore_wmi.cpp:868">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:13:02.076-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="3352" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:13:02.138-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="6912" file="xmlstore_wmi.cpp:868">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:13:02.248-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="6912" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:13:02.326-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="1504" file="xmlstore_wmi.cpp:868">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:13:02.528-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="2664" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:13:02.622-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="1504" file="xmlstore_wmi.cpp:868">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:13:02.731-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="3452" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:13:02.794-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2220" file="xmlstore_wmi.cpp:868">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:13:02.934-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="3452" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:13:03.012-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="6912" file="xmlstore_wmi.cpp:868">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:13:03.106-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="6912" file="xmlstore_wmi.cpp:868">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:13:03.121-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="6912" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:13:03.215-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2664" file="xmlstore_wmi.cpp:868">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:13:03.340-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="5956" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:13:03.433-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="5956" file="xmlstore_wmi.cpp:868">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:13:03.589-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="2352" file="xmlstore_wmi.cpp:80">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:13:03.605-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="2352" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:13:03.683-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2664" file="xmlstore_wmi.cpp:868">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:13:03.761-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="2664" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:13:03.870-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="1212" file="xmlstore_wmi.cpp:868">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:13:03.870-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2664" file="xmlstore_wmi.cpp:868">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:13:03.932-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="2664" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:13:04.026-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="3452" file="xmlstore_wmi.cpp:868">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:13:04.416-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="3452" file="xmlstore_wmi.cpp:80">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:13:04.587-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="2220" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:13:04.665-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2664" file="xmlstore_wmi.cpp:868">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:13:04.853-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="2352" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:13:04.962-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2664" file="xmlstore_wmi.cpp:868">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:13:05.227-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="2664" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:13:05.289-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2352" file="xmlstore_wmi.cpp:868">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:13:07.395-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="5780" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:13:07.442-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="5780" file="xmlstore_wmi.cpp:868">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:13:09.969-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="6188" file="xmlstore_wmi.cpp:868">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:13:15.366-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="5780" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="10:13:15.522-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="4528" file="xmlstore_wmi.cpp:321">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:13:15.522-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="4528" file="xmlstore_wmi.cpp:80">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:13:56.888-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="5780" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="10:13:57.309-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="6688" file="xmlstore_wmi.cpp:321">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:13:57.309-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="3352" file="xmlstore_wmi.cpp:80">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:13:57.325-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="6688" file="xmlstore_wmi.cpp:80">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:13:58.229-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="1504" file="xmlstore_wmi.cpp:80">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:13:58.572-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="5028" file="xmlstore_wmi.cpp:80">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:13:58.884-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="3352" file="xmlstore_wmi.cpp:80">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:13:59.196-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="2220" file="xmlstore_wmi.cpp:80">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:13:59.461-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="4528" file="xmlstore_wmi.cpp:80">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:14:00.054-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="5956" file="xmlstore_wmi.cpp:80">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:14:00.241-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="2416" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="10:14:00.351-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2664" file="xmlstore_wmi.cpp:321">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:14:00.351-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="2664" file="xmlstore_wmi.cpp:80">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:14:00.429-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="6188" file="xmlstore_wmi.cpp:80">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:14:00.709-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="6264" file="xmlstore_wmi.cpp:80">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:14:01.006-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="6268" file="xmlstore_wmi.cpp:80">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:14:01.286-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="4528" file="xmlstore_wmi.cpp:80">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:14:01.567-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="4528" file="xmlstore_wmi.cpp:80">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:14:02.285-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="3352" file="xmlstore_wmi.cpp:80">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:14:02.550-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="5780" file="xmlstore_wmi.cpp:80">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:14:02.815-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="4996" file="xmlstore_wmi.cpp:80">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:14:03.267-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="2220" file="xmlstore_wmi.cpp:80">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:14:03.985-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="2816" file="xmlstore_wmi.cpp:80">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:14:04.188-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="2820" file="xmlstore_wmi.cpp:80">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:14:04.344-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="2820" file="xmlstore_wmi.cpp:80">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:14:04.484-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="4308" file="xmlstore_wmi.cpp:80">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:14:04.624-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="2820" file="xmlstore_wmi.cpp:80">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:14:04.952-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="4308" file="xmlstore_wmi.cpp:80">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:14:05.092-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="6728" file="xmlstore_wmi.cpp:80">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:14:05.248-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="2820" file="xmlstore_wmi.cpp:80">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:14:06.434-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="2816" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="10:14:06.512-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="1212" file="xmlstore_wmi.cpp:321">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:14:06.512-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="1212" file="xmlstore_wmi.cpp:80">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:16:16.460-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="6264" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="10:16:16.506-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2888" file="xmlstore_wmi.cpp:321">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:16:16.506-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="2888" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:16:30.280-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="6264" file="xmlstore_wmi.cpp:868">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:18:47.864-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="6108" file="xmlstore_wmi.cpp:868">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:18:51.171-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="5780" file="xmlstore_wmi.cpp:868">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:18:51.187-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2868" file="xmlstore_wmi.cpp:868">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="10:20:12.725-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2908" file="xmlstore_wmi.cpp:321">
+<![LOG[CXmlStore::EnumDocuments]LOG]!><time="10:20:12.740-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2908" file="xmlstore_wmi.cpp:923">
+<![LOG[CObjectArray::GetItem]LOG]!><time="10:20:12.740-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2908" file="xmlstore_wmi.cpp:1085">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="10:20:12.740-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2908" file="xmlstore_wmi.cpp:321">
+<![LOG[CObjectArray::GetItem]LOG]!><time="10:20:12.787-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2908" file="xmlstore_wmi.cpp:1085">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="10:20:12.787-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2908" file="xmlstore_wmi.cpp:321">
+<![LOG[CObjectArray::GetItem]LOG]!><time="10:20:12.865-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2908" file="xmlstore_wmi.cpp:1085">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="10:20:12.865-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2908" file="xmlstore_wmi.cpp:321">
+<![LOG[CObjectArray::GetItem]LOG]!><time="10:20:12.865-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2908" file="xmlstore_wmi.cpp:1085">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="10:20:12.881-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2908" file="xmlstore_wmi.cpp:321">
+<![LOG[CObjectArray::GetItem]LOG]!><time="10:20:13.099-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2908" file="xmlstore_wmi.cpp:1085">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="10:20:13.099-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2908" file="xmlstore_wmi.cpp:321">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="10:20:13.130-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2908" file="xmlstore_wmi.cpp:321">
+<![LOG[CXmlStore::EnumDocuments]LOG]!><time="10:20:13.130-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2908" file="xmlstore_wmi.cpp:923">
+<![LOG[CObjectArray::GetItem]LOG]!><time="10:20:13.130-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2908" file="xmlstore_wmi.cpp:1085">
+<![LOG[CObjectArray::GetItem]LOG]!><time="10:20:13.162-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2908" file="xmlstore_wmi.cpp:1085">
+<![LOG[CObjectArray::GetItem]LOG]!><time="10:20:13.162-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2908" file="xmlstore_wmi.cpp:1085">
+<![LOG[CObjectArray::GetItem]LOG]!><time="10:20:13.162-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2908" file="xmlstore_wmi.cpp:1085">
+<![LOG[CObjectArray::GetItem]LOG]!><time="10:20:13.162-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2908" file="xmlstore_wmi.cpp:1085">
+<![LOG[CObjectArray::GetItem]LOG]!><time="10:20:13.162-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2908" file="xmlstore_wmi.cpp:1085">
+<![LOG[CObjectArray::GetItem]LOG]!><time="10:20:13.177-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2908" file="xmlstore_wmi.cpp:1085">
+<![LOG[CObjectArray::GetItem]LOG]!><time="10:20:13.177-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2908" file="xmlstore_wmi.cpp:1085">
+<![LOG[CObjectArray::GetItem]LOG]!><time="10:20:13.177-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2908" file="xmlstore_wmi.cpp:1085">
+<![LOG[CObjectArray::GetItem]LOG]!><time="10:20:13.177-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2908" file="xmlstore_wmi.cpp:1085">
+<![LOG[CObjectArray::GetItem]LOG]!><time="10:20:13.177-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2908" file="xmlstore_wmi.cpp:1085">
+<![LOG[CObjectArray::GetItem]LOG]!><time="10:20:13.177-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2908" file="xmlstore_wmi.cpp:1085">
+<![LOG[CObjectArray::GetItem]LOG]!><time="10:20:13.177-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2908" file="xmlstore_wmi.cpp:1085">
+<![LOG[CObjectArray::GetItem]LOG]!><time="10:20:13.177-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2908" file="xmlstore_wmi.cpp:1085">
+<![LOG[CObjectArray::GetItem]LOG]!><time="10:20:13.177-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2908" file="xmlstore_wmi.cpp:1085">
+<![LOG[CObjectArray::GetItem]LOG]!><time="10:20:13.177-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2908" file="xmlstore_wmi.cpp:1085">
+<![LOG[CObjectArray::GetItem]LOG]!><time="10:20:13.177-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2908" file="xmlstore_wmi.cpp:1085">
+<![LOG[CObjectArray::GetItem]LOG]!><time="10:20:13.193-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2908" file="xmlstore_wmi.cpp:1085">
+<![LOG[CObjectArray::GetItem]LOG]!><time="10:20:13.193-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2908" file="xmlstore_wmi.cpp:1085">
+<![LOG[CObjectArray::GetItem]LOG]!><time="10:20:13.193-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2908" file="xmlstore_wmi.cpp:1085">
+<![LOG[CObjectArray::GetItem]LOG]!><time="10:20:13.193-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2908" file="xmlstore_wmi.cpp:1085">
+<![LOG[CObjectArray::GetItem]LOG]!><time="10:20:13.193-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2908" file="xmlstore_wmi.cpp:1085">
+<![LOG[CObjectArray::GetItem]LOG]!><time="10:20:13.193-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2908" file="xmlstore_wmi.cpp:1085">
+<![LOG[CObjectArray::GetItem]LOG]!><time="10:20:13.209-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2908" file="xmlstore_wmi.cpp:1085">
+<![LOG[CObjectArray::GetItem]LOG]!><time="10:20:13.209-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2908" file="xmlstore_wmi.cpp:1085">
+<![LOG[CObjectArray::GetItem]LOG]!><time="10:20:13.209-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2908" file="xmlstore_wmi.cpp:1085">
+<![LOG[CObjectArray::GetItem]LOG]!><time="10:20:13.209-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2908" file="xmlstore_wmi.cpp:1085">
+<![LOG[CObjectArray::GetItem]LOG]!><time="10:20:13.209-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2908" file="xmlstore_wmi.cpp:1085">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="10:20:13.255-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="6716" file="xmlstore_wmi.cpp:321">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:20:13.255-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="6716" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="10:20:13.255-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="6720" file="xmlstore_wmi.cpp:321">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:20:13.271-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="6720" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="10:20:13.302-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="6812" file="xmlstore_wmi.cpp:321">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:20:13.302-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="6812" file="xmlstore_wmi.cpp:80">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:20:19.968-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="6716" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="10:20:19.984-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="6716" file="xmlstore_wmi.cpp:321">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:20:19.984-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="6716" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:20:21.045-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="6288" file="xmlstore_wmi.cpp:868">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:20:27.805-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="6236" file="xmlstore_wmi.cpp:868">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:23:18.265-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="6716" file="xmlstore_wmi.cpp:868">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:23:18.296-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="6716" file="xmlstore_wmi.cpp:868">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:23:23.635-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="6716" file="xmlstore_wmi.cpp:868">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:23:23.682-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="6716" file="xmlstore_wmi.cpp:868">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:23:42.119-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="1104" file="xmlstore_wmi.cpp:868">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:23:42.181-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="6716" file="xmlstore_wmi.cpp:868">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:26:04.508-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="6716" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="10:26:04.523-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="6716" file="xmlstore_wmi.cpp:321">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:26:04.523-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="6716" file="xmlstore_wmi.cpp:80">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:26:06.583-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="6536" file="xmlstore_wmi.cpp:80">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:26:11.982-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="6536" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="10:26:12.013-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="6536" file="xmlstore_wmi.cpp:321">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:26:12.013-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="6536" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:26:12.840-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2728" file="xmlstore_wmi.cpp:868">
+<![LOG[CXmlStoreManager::OpenStore]LOG]!><time="10:26:15.446-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="1864" file="xmlstore_wmi.cpp:321">
+<![LOG[((HRESULT)0L)==ns.Get(sObjPath, &obj), HRESULT=87d00215 (e:\nts_sccm_release\sms\framework\smscore\xmlstore_wmi.cpp,80)]LOG]!><time="10:26:15.836-60" date="11-10-2017" component="XmlStore" context="" type="0" thread="1864" file="xmlstore_wmi.cpp:80">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:26:45.269-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2652" file="xmlstore_wmi.cpp:868">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:26:45.379-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2652" file="xmlstore_wmi.cpp:868">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:26:47.469-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="1864" file="xmlstore_wmi.cpp:868">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:27:41.852-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="6716" file="xmlstore_wmi.cpp:868">
+<![LOG[CXmlStore::DeleteDocumentById]LOG]!><time="10:27:42.180-60" date="11-10-2017" component="XmlStore" context="" type="1" thread="2652" file="xmlstore_wmi.cpp:868">

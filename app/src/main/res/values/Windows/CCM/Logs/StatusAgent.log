@@ -1,0 +1,1852 @@
+﻿<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:10:54.712-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8552" file="eventprovider.cpp:240">
+<![LOG[Successfully raised pending event]LOG]!><time="06:10:54.797-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8552" file="eventprovider.cpp:384">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:10:54.721-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smsclienteventforwarder.cpp:613">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_ServiceHost_CertRetrieval_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222051054.787000+000";
+	HRESULT = "0x00000000";
+	ProcessID = 7948;
+	ThreadID = 7324;
+};
+]LOG]!><time="06:10:54.792-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7084" file="eventprovider.cpp:204">
+<![LOG[Raising pending event:
+
+instance of CCM_ServiceHost_CertRetrieval_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191221110751.911000+000";
+	HRESULT = "0x00000000";
+	ProcessID = 10236;
+	ThreadID = 8068;
+};
+]LOG]!><time="06:10:54.798-60" date="12-22-2019" component="StatusAgent" context="" type="0" thread="8552" file="eventprovider.cpp:371">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:10:54.799-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7084" file="eventprovider.cpp:240">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_ServiceHost_CertRetrieval_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191221110751.911000+000";
+	HRESULT = "0x00000000";
+	ProcessID = 10236;
+	ThreadID = 8068;
+};
+]LOG]!><time="06:10:54.799-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8552" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:10:54.799-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8552" file="eventprovider.cpp:240">
+<![LOG[Successfully raised pending event]LOG]!><time="06:10:54.799-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8552" file="eventprovider.cpp:384">
+<![LOG[Raising pending event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191221110712.999000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 10236;
+	StatusCode = 600;
+	ThreadID = 9712;
+};
+]LOG]!><time="06:10:54.800-60" date="12-22-2019" component="StatusAgent" context="" type="0" thread="8552" file="eventprovider.cpp:371">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191221110712.999000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 10236;
+	StatusCode = 600;
+	ThreadID = 9712;
+};
+]LOG]!><time="06:10:54.800-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8552" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:10:54.800-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8552" file="eventprovider.cpp:240">
+<![LOG[Successfully raised pending event]LOG]!><time="06:10:54.800-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8552" file="eventprovider.cpp:384">
+<![LOG[Raising pending event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191221110358.514000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 10312;
+	StatusCode = 600;
+	ThreadID = 10984;
+};
+]LOG]!><time="06:10:54.801-60" date="12-22-2019" component="StatusAgent" context="" type="0" thread="8552" file="eventprovider.cpp:371">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191221110358.514000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 10312;
+	StatusCode = 600;
+	ThreadID = 10984;
+};
+]LOG]!><time="06:10:54.801-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8552" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:10:54.801-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8552" file="eventprovider.cpp:240">
+<![LOG[Successfully raised pending event]LOG]!><time="06:10:54.802-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8552" file="eventprovider.cpp:384">
+<![LOG[Raising pending event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191221110139.141000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 10236;
+	StatusCode = 600;
+	ThreadID = 8260;
+};
+]LOG]!><time="06:10:54.802-60" date="12-22-2019" component="StatusAgent" context="" type="0" thread="8552" file="eventprovider.cpp:371">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191221110139.141000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 10236;
+	StatusCode = 600;
+	ThreadID = 8260;
+};
+]LOG]!><time="06:10:54.802-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8552" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:10:54.803-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8552" file="eventprovider.cpp:240">
+<![LOG[Successfully raised pending event]LOG]!><time="06:10:54.803-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8552" file="eventprovider.cpp:384">
+<![LOG[Raising pending event:
+
+instance of CCM_ServiceHost_CertRetrieval_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222051003.666000+000";
+	HRESULT = "0x00000000";
+	ProcessID = 7948;
+	ThreadID = 6592;
+};
+]LOG]!><time="06:10:54.804-60" date="12-22-2019" component="StatusAgent" context="" type="0" thread="8552" file="eventprovider.cpp:371">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_ServiceHost_CertRetrieval_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222051003.666000+000";
+	HRESULT = "0x00000000";
+	ProcessID = 7948;
+	ThreadID = 6592;
+};
+]LOG]!><time="06:10:54.804-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8552" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:10:54.804-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8552" file="eventprovider.cpp:240">
+<![LOG[Successfully raised pending event]LOG]!><time="06:10:54.804-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8552" file="eventprovider.cpp:384">
+<![LOG[Raising pending event:
+
+instance of CCM_ServiceHost_CertRetrieval_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191221131101.091000+000";
+	HRESULT = "0x00000000";
+	ProcessID = 10236;
+	ThreadID = 8068;
+};
+]LOG]!><time="06:10:54.805-60" date="12-22-2019" component="StatusAgent" context="" type="0" thread="8552" file="eventprovider.cpp:371">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_ServiceHost_CertRetrieval_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191221131101.091000+000";
+	HRESULT = "0x00000000";
+	ProcessID = 10236;
+	ThreadID = 8068;
+};
+]LOG]!><time="06:10:54.805-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8552" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:10:54.805-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8552" file="eventprovider.cpp:240">
+<![LOG[Successfully raised pending event]LOG]!><time="06:10:54.805-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8552" file="eventprovider.cpp:384">
+<![LOG[Raising pending event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191221110134.123000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 10236;
+	StatusCode = 600;
+	ThreadID = 8260;
+};
+]LOG]!><time="06:10:54.806-60" date="12-22-2019" component="StatusAgent" context="" type="0" thread="8552" file="eventprovider.cpp:371">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191221110134.123000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 10236;
+	StatusCode = 600;
+	ThreadID = 8260;
+};
+]LOG]!><time="06:10:54.806-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8552" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:10:54.806-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8552" file="eventprovider.cpp:240">
+<![LOG[Successfully raised pending event]LOG]!><time="06:10:54.806-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8552" file="eventprovider.cpp:384">
+<![LOG[Raising pending event:
+
+instance of CCM_ServiceHost_CertRetrieval_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191221121101.054000+000";
+	HRESULT = "0x00000000";
+	ProcessID = 10236;
+	ThreadID = 9148;
+};
+]LOG]!><time="06:10:54.807-60" date="12-22-2019" component="StatusAgent" context="" type="0" thread="8552" file="eventprovider.cpp:371">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_ServiceHost_CertRetrieval_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191221121101.054000+000";
+	HRESULT = "0x00000000";
+	ProcessID = 10236;
+	ThreadID = 9148;
+};
+]LOG]!><time="06:10:54.807-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8552" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:10:54.808-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8552" file="eventprovider.cpp:240">
+<![LOG[Successfully raised pending event]LOG]!><time="06:10:54.808-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8552" file="eventprovider.cpp:384">
+<![LOG[Raising pending event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191221110648.812000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 10236;
+	StatusCode = 600;
+	ThreadID = 9712;
+};
+]LOG]!><time="06:10:54.808-60" date="12-22-2019" component="StatusAgent" context="" type="0" thread="8552" file="eventprovider.cpp:371">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191221110648.812000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 10236;
+	StatusCode = 600;
+	ThreadID = 9712;
+};
+]LOG]!><time="06:10:54.809-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8552" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:10:54.809-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8552" file="eventprovider.cpp:240">
+<![LOG[Successfully raised pending event]LOG]!><time="06:10:54.809-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8552" file="eventprovider.cpp:384">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:10:54.810-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smsclienteventforwarder.cpp:613">
+<![LOG[Raising pending event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191221110725.052000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 10236;
+	StatusCode = 600;
+	ThreadID = 9712;
+};
+]LOG]!><time="06:10:54.810-60" date="12-22-2019" component="StatusAgent" context="" type="0" thread="8552" file="eventprovider.cpp:371">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191221110725.052000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 10236;
+	StatusCode = 600;
+	ThreadID = 9712;
+};
+]LOG]!><time="06:10:54.810-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8552" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:10:54.810-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8552" file="eventprovider.cpp:240">
+<![LOG[Successfully raised pending event]LOG]!><time="06:10:54.810-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8552" file="eventprovider.cpp:384">
+<![LOG[Raising pending event:
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191221110329.331000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 10236;
+	StatusCode = 600;
+	ThreadID = 8260;
+};
+]LOG]!><time="06:10:54.812-60" date="12-22-2019" component="StatusAgent" context="" type="0" thread="8552" file="eventprovider.cpp:371">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191221110329.331000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 10236;
+	StatusCode = 600;
+	ThreadID = 8260;
+};
+]LOG]!><time="06:10:54.812-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8552" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:10:54.812-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8552" file="eventprovider.cpp:240">
+<![LOG[Successfully raised pending event]LOG]!><time="06:10:54.812-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8552" file="eventprovider.cpp:384">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:10:54.817-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smsclienteventforwarder.cpp:613">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222051116.142000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 7948;
+	StatusCode = 600;
+	ThreadID = 8552;
+};
+]LOG]!><time="06:11:16.151-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7084" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:11:16.154-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7084" file="eventprovider.cpp:240">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:11:16.179-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smsclienteventforwarder.cpp:613">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222051128.235000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 7948;
+	StatusCode = 600;
+	ThreadID = 8552;
+};
+]LOG]!><time="06:11:28.243-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7084" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:11:28.244-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7084" file="eventprovider.cpp:240">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:11:43.592-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smsclienteventforwarder.cpp:613">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222051155.642000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 7948;
+	StatusCode = 600;
+	ThreadID = 8552;
+};
+]LOG]!><time="06:11:55.650-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7084" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:11:55.651-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7084" file="eventprovider.cpp:240">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:11:55.675-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smsclienteventforwarder.cpp:613">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:11:55.698-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smsclienteventforwarder.cpp:613">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 successfully handled 8 events]LOG]!><time="06:11:55.714-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="forwardproxy.cpp:304">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 received 1 events]LOG]!><time="06:11:55.715-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="forwardproxy.cpp:256">
+<![LOG[[00A138A8] Handling 1 events]LOG]!><time="06:11:55.715-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smsclienteventforwarder.cpp:606">
+<![LOG[[00A138A8] Handling event class CCM_ServiceHost_CertRetrieval_Status]LOG]!><time="06:11:55.715-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smsclienteventforwarder.cpp:613">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 successfully handled 1 events]LOG]!><time="06:12:02.584-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="forwardproxy.cpp:304">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 received 6 events]LOG]!><time="06:12:02.585-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="forwardproxy.cpp:256">
+<![LOG[[00A138A8] Handling 6 events]LOG]!><time="06:12:02.585-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smsclienteventforwarder.cpp:606">
+<![LOG[[00A138A8] Handling event class CCM_ServiceHost_CertRetrieval_Status]LOG]!><time="06:12:02.585-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smsclienteventforwarder.cpp:613">
+<![LOG[[00A138A8] Handling event class CCM_ServiceHost_CertRetrieval_Status]LOG]!><time="06:12:02.593-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smsclienteventforwarder.cpp:613">
+<![LOG[[00A138A8] Handling event class CCM_ServiceHost_CertRetrieval_Status]LOG]!><time="06:12:02.601-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smsclienteventforwarder.cpp:613">
+<![LOG[[00A138A8] Handling event class CCM_ServiceHost_CertRetrieval_Status]LOG]!><time="06:12:02.608-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smsclienteventforwarder.cpp:613">
+<![LOG[[00A138A8] Handling event class CCM_ServiceHost_CertRetrieval_Status]LOG]!><time="06:12:02.617-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smsclienteventforwarder.cpp:613">
+<![LOG[[00A138A8] Handling event class CCM_ServiceHost_CertRetrieval_Status]LOG]!><time="06:12:02.625-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smsclienteventforwarder.cpp:613">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 successfully handled 6 events]LOG]!><time="06:12:02.633-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="forwardproxy.cpp:304">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 received 13 events]LOG]!><time="06:12:02.634-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="forwardproxy.cpp:256">
+<![LOG[[00A138A8] Handling 13 events]LOG]!><time="06:12:02.634-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smsclienteventforwarder.cpp:606">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:12:02.634-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smsclienteventforwarder.cpp:613">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:12:02.653-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smsclienteventforwarder.cpp:613">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:12:02.673-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smsclienteventforwarder.cpp:613">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:12:02.692-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smsclienteventforwarder.cpp:613">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:12:02.712-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smsclienteventforwarder.cpp:613">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:12:02.731-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smsclienteventforwarder.cpp:613">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:12:02.749-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smsclienteventforwarder.cpp:613">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:12:02.769-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smsclienteventforwarder.cpp:613">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:12:02.788-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smsclienteventforwarder.cpp:613">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:12:02.805-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smsclienteventforwarder.cpp:613">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:12:02.823-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smsclienteventforwarder.cpp:613">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:12:02.842-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smsclienteventforwarder.cpp:613">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:12:02.862-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smsclienteventforwarder.cpp:613">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 successfully handled 13 events]LOG]!><time="06:12:02.881-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="forwardproxy.cpp:304">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222051216.572000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 7948;
+	StatusCode = 600;
+	ThreadID = 8552;
+};
+]LOG]!><time="06:12:16.584-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:12:16.585-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 received 1 events]LOG]!><time="06:12:16.586-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7084" file="forwardproxy.cpp:256">
+<![LOG[[00A138A8] Handling 1 events]LOG]!><time="06:12:16.586-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7084" file="smsclienteventforwarder.cpp:606">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:12:16.586-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7084" file="smsclienteventforwarder.cpp:613">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222051217.674000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 7948;
+	StatusCode = 600;
+	ThreadID = 8552;
+};
+]LOG]!><time="06:12:17.677-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:12:17.679-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 successfully handled 1 events]LOG]!><time="06:12:17.683-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7084" file="forwardproxy.cpp:304">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 received 1 events]LOG]!><time="06:12:17.683-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7084" file="forwardproxy.cpp:256">
+<![LOG[[00A138A8] Handling 1 events]LOG]!><time="06:12:17.683-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7084" file="smsclienteventforwarder.cpp:606">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:12:17.683-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7084" file="smsclienteventforwarder.cpp:613">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 successfully handled 1 events]LOG]!><time="06:12:17.695-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7084" file="forwardproxy.cpp:304">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222051308.283000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 7948;
+	StatusCode = 600;
+	ThreadID = 8552;
+};
+]LOG]!><time="06:13:08.287-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7084" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:13:08.288-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7084" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 received 1 events]LOG]!><time="06:13:08.288-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7084" file="forwardproxy.cpp:256">
+<![LOG[[00A138A8] Handling 1 events]LOG]!><time="06:13:08.288-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7084" file="smsclienteventforwarder.cpp:606">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:13:08.288-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7084" file="smsclienteventforwarder.cpp:613">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 successfully handled 1 events]LOG]!><time="06:13:08.370-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7084" file="forwardproxy.cpp:304">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222051310.704000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 7948;
+	StatusCode = 600;
+	ThreadID = 8552;
+};
+]LOG]!><time="06:13:10.710-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7084" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:13:10.711-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7084" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 received 1 events]LOG]!><time="06:13:10.711-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="forwardproxy.cpp:256">
+<![LOG[[00A138A8] Handling 1 events]LOG]!><time="06:13:10.711-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smsclienteventforwarder.cpp:606">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:13:10.711-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smsclienteventforwarder.cpp:613">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222051310.768000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 7948;
+	StatusCode = 600;
+	ThreadID = 8552;
+};
+]LOG]!><time="06:13:10.772-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7084" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:13:10.772-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7084" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 successfully handled 1 events]LOG]!><time="06:13:10.775-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="forwardproxy.cpp:304">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 received 1 events]LOG]!><time="06:13:10.775-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="forwardproxy.cpp:256">
+<![LOG[[00A138A8] Handling 1 events]LOG]!><time="06:13:10.775-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smsclienteventforwarder.cpp:606">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:13:10.775-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smsclienteventforwarder.cpp:613">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222051310.840000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 7948;
+	StatusCode = 600;
+	ThreadID = 8552;
+};
+]LOG]!><time="06:13:10.846-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7084" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:13:10.847-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7084" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 successfully handled 1 events]LOG]!><time="06:13:10.855-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="forwardproxy.cpp:304">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 received 1 events]LOG]!><time="06:13:10.856-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="forwardproxy.cpp:256">
+<![LOG[[00A138A8] Handling 1 events]LOG]!><time="06:13:10.856-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smsclienteventforwarder.cpp:606">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:13:10.856-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smsclienteventforwarder.cpp:613">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 successfully handled 1 events]LOG]!><time="06:13:10.872-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="forwardproxy.cpp:304">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222051311.002000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 7948;
+	StatusCode = 600;
+	ThreadID = 8552;
+};
+]LOG]!><time="06:13:11.006-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:13:11.006-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 received 1 events]LOG]!><time="06:13:11.006-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7084" file="forwardproxy.cpp:256">
+<![LOG[[00A138A8] Handling 1 events]LOG]!><time="06:13:11.006-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7084" file="smsclienteventforwarder.cpp:606">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:13:11.006-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7084" file="smsclienteventforwarder.cpp:613">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 successfully handled 1 events]LOG]!><time="06:13:11.017-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7084" file="forwardproxy.cpp:304">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:P11";
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222051314.174000+000";
+	ProcessID = 7948;
+	ResourceName = "5CG60800TBC0FF";
+	ResourceType = "Machine";
+	ThreadID = 8708;
+};
+]LOG]!><time="06:13:14.177-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8708" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:13:14.177-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8708" file="eventprovider.cpp:240">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222051314.165000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 7948;
+	StatusCode = 600;
+	ThreadID = 3528;
+};
+]LOG]!><time="06:13:14.177-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="3528" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:13:14.178-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="3528" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 received 1 events]LOG]!><time="06:13:14.178-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="forwardproxy.cpp:256">
+<![LOG[[00A138A8] Handling 1 events]LOG]!><time="06:13:14.178-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smsclienteventforwarder.cpp:606">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:13:14.178-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smsclienteventforwarder.cpp:613">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_ServiceHost_CertRetrieval_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222051314.193000+000";
+	HRESULT = "0x00000000";
+	ProcessID = 7948;
+	ThreadID = 9632;
+};
+]LOG]!><time="06:13:14.198-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7084" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:13:14.198-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7084" file="eventprovider.cpp:240">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222051314.238000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 7948;
+	StatusCode = 600;
+	ThreadID = 9716;
+};
+]LOG]!><time="06:13:14.254-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="9716" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:13:14.255-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="9716" file="eventprovider.cpp:240">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222051314.341000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 7948;
+	StatusCode = 600;
+	ThreadID = 5292;
+};
+]LOG]!><time="06:13:14.342-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="5292" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:13:14.342-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="5292" file="eventprovider.cpp:240">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_PolicyAgent_PolicyEvaluationComplete
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222051314.349000+000";
+	PolicyNamespace = "\\\\.\\ROOT\\ccm\\Policy\\Machine\\RequestedConfig";
+	ProcessID = 7948;
+	ThreadID = 5292;
+};
+]LOG]!><time="06:13:14.350-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="5292" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:13:14.350-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="5292" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 successfully handled 1 events]LOG]!><time="06:13:14.350-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="forwardproxy.cpp:304">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 received 1 events]LOG]!><time="06:13:14.350-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="forwardproxy.cpp:256">
+<![LOG[[00A138A8] Handling 1 events]LOG]!><time="06:13:14.350-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smsclienteventforwarder.cpp:606">
+<![LOG[[00A138A8] Handling event class CCM_ServiceHost_CertRetrieval_Status]LOG]!><time="06:13:14.351-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smsclienteventforwarder.cpp:613">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 successfully handled 1 events]LOG]!><time="06:13:14.355-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="forwardproxy.cpp:304">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 received 2 events]LOG]!><time="06:13:14.355-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="forwardproxy.cpp:256">
+<![LOG[[00A138A8] Handling 2 events]LOG]!><time="06:13:14.355-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smsclienteventforwarder.cpp:606">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:13:14.355-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smsclienteventforwarder.cpp:613">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:13:14.368-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smsclienteventforwarder.cpp:613">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 successfully handled 2 events]LOG]!><time="06:13:14.386-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="forwardproxy.cpp:304">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_PolicyAgent_SettingsEvaluationComplete
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222051314.690000+000";
+	PolicyNamespace = "\\\\.\\root\\ccm\\policy\\s_1_1_0\\actualconfig";
+	ProcessID = 7948;
+	ThreadID = 9716;
+};
+]LOG]!><time="06:13:14.691-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="9716" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:13:14.692-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="9716" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsPolicyEventForwarder:SmsSoftwareDistribution.Instance0 received 1 events]LOG]!><time="06:13:14.692-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="forwardproxy.cpp:256">
+<![LOG[[00A9B9E8] This is a softdist policy event handler]LOG]!><time="06:13:14.692-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smspolicyeventforwarder.cpp:400">
+<![LOG[Loaded forwarder SmsPolicyEventForwarder:SmsSoftwareDistribution.Instance0]LOG]!><time="06:13:14.692-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="forwardproxy.cpp:286">
+<![LOG[[00A9B9E8] Handling 1 events]LOG]!><time="06:13:14.692-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smspolicyeventforwarder.cpp:432">
+<![LOG[[00A9B9E8] Handling event class CCM_PolicyAgent_SettingsEvaluationComplete]LOG]!><time="06:13:14.693-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smspolicyeventforwarder.cpp:439">
+<![LOG[Event forwarder SmsPolicyEventForwarder:SmsSoftwareDistribution.Instance0 successfully handled 1 events]LOG]!><time="06:13:14.693-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="forwardproxy.cpp:304">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222051319.224000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 7948;
+	StatusCode = 600;
+	ThreadID = 3528;
+};
+]LOG]!><time="06:13:19.226-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="3528" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:13:19.226-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="3528" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 received 1 events]LOG]!><time="06:13:19.226-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="forwardproxy.cpp:256">
+<![LOG[[00A138A8] Handling 1 events]LOG]!><time="06:13:19.226-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smsclienteventforwarder.cpp:606">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:13:19.227-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smsclienteventforwarder.cpp:613">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 successfully handled 1 events]LOG]!><time="06:13:19.236-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="forwardproxy.cpp:304">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222051319.299000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 7948;
+	StatusCode = 600;
+	ThreadID = 3528;
+};
+]LOG]!><time="06:13:19.300-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="3528" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:13:19.300-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="3528" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 received 1 events]LOG]!><time="06:13:19.300-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="forwardproxy.cpp:256">
+<![LOG[[00A138A8] Handling 1 events]LOG]!><time="06:13:19.300-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smsclienteventforwarder.cpp:606">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:13:19.300-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smsclienteventforwarder.cpp:613">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 successfully handled 1 events]LOG]!><time="06:13:19.307-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="forwardproxy.cpp:304">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222051401.297000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 7948;
+	StatusCode = 600;
+	ThreadID = 8708;
+};
+]LOG]!><time="06:14:01.297-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8708" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:14:01.298-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8708" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 received 1 events]LOG]!><time="06:14:01.298-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="forwardproxy.cpp:256">
+<![LOG[[00A138A8] Handling 1 events]LOG]!><time="06:14:01.298-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smsclienteventforwarder.cpp:606">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:14:01.298-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smsclienteventforwarder.cpp:613">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222051419.603000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 7948;
+	StatusCode = 600;
+	ThreadID = 3528;
+};
+]LOG]!><time="06:14:19.604-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="3528" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:14:19.604-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="3528" file="eventprovider.cpp:240">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222051419.653000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 7948;
+	StatusCode = 600;
+	ThreadID = 8708;
+};
+]LOG]!><time="06:14:19.654-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8708" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:14:19.655-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8708" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 successfully handled 1 events]LOG]!><time="06:14:19.660-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="forwardproxy.cpp:304">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 received 2 events]LOG]!><time="06:14:19.660-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="forwardproxy.cpp:256">
+<![LOG[[00A138A8] Handling 2 events]LOG]!><time="06:14:19.660-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smsclienteventforwarder.cpp:606">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:14:19.660-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smsclienteventforwarder.cpp:613">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_PolicyAgent_PolicyEvaluationComplete
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222051419.660000+000";
+	PolicyNamespace = "\\\\.\\ROOT\\ccm\\Policy\\S_1_1_0\\RequestedConfig";
+	ProcessID = 7948;
+	ThreadID = 8708;
+};
+]LOG]!><time="06:14:19.662-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8708" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:14:19.663-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8708" file="eventprovider.cpp:240">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:14:19.667-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="smsclienteventforwarder.cpp:613">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 successfully handled 2 events]LOG]!><time="06:14:19.673-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="forwardproxy.cpp:304">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222051442.719000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 10672;
+	StatusCode = 600;
+	ThreadID = 10676;
+};
+]LOG]!><time="06:14:42.732-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:14:42.734-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7840" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 received 1 events]LOG]!><time="06:14:42.734-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="1860" file="forwardproxy.cpp:256">
+<![LOG[[00A138A8] Handling 1 events]LOG]!><time="06:14:42.735-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="1860" file="smsclienteventforwarder.cpp:606">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:14:42.736-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="1860" file="smsclienteventforwarder.cpp:613">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 successfully handled 1 events]LOG]!><time="06:14:42.750-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="1860" file="forwardproxy.cpp:304">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_PolicyAgent_SettingsEvaluationComplete
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222051514.665000+000";
+	PolicyNamespace = "\\\\.\\root\\ccm\\policy\\machine\\actualconfig";
+	ProcessID = 7948;
+	ThreadID = 3528;
+};
+]LOG]!><time="06:15:14.666-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="3528" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:15:14.666-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="3528" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsPolicyEventForwarder:SmsSoftwareDistribution.Instance0 received 1 events]LOG]!><time="06:15:14.666-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="1860" file="forwardproxy.cpp:256">
+<![LOG[[00A9B9E8] Handling 1 events]LOG]!><time="06:15:14.666-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="1860" file="smspolicyeventforwarder.cpp:432">
+<![LOG[[00A9B9E8] Handling event class CCM_PolicyAgent_SettingsEvaluationComplete]LOG]!><time="06:15:14.666-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="1860" file="smspolicyeventforwarder.cpp:439">
+<![LOG[Event forwarder SmsPolicyEventForwarder:SmsSoftwareDistribution.Instance0 successfully handled 1 events]LOG]!><time="06:15:14.666-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="1860" file="forwardproxy.cpp:304">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222051515.588000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 7948;
+	StatusCode = 600;
+	ThreadID = 8708;
+};
+]LOG]!><time="06:15:15.589-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8708" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:15:15.590-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8708" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 received 1 events]LOG]!><time="06:15:15.590-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="1860" file="forwardproxy.cpp:256">
+<![LOG[[00A138A8] Handling 1 events]LOG]!><time="06:15:15.590-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="1860" file="smsclienteventforwarder.cpp:606">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:15:15.590-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="1860" file="smsclienteventforwarder.cpp:613">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 successfully handled 1 events]LOG]!><time="06:15:15.597-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="1860" file="forwardproxy.cpp:304">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222051531.624000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 7948;
+	StatusCode = 600;
+	ThreadID = 8708;
+};
+]LOG]!><time="06:15:31.625-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8708" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:15:31.625-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8708" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 received 1 events]LOG]!><time="06:15:31.626-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="1860" file="forwardproxy.cpp:256">
+<![LOG[[00A138A8] Handling 1 events]LOG]!><time="06:15:31.626-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="1860" file="smsclienteventforwarder.cpp:606">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:15:31.626-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="1860" file="smsclienteventforwarder.cpp:613">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 successfully handled 1 events]LOG]!><time="06:15:31.637-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="1860" file="forwardproxy.cpp:304">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_PolicyAgent_PolicyEvaluationComplete
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222051814.134000+000";
+	PolicyNamespace = "\\\\.\\ROOT\\ccm\\Policy\\Machine\\RequestedConfig";
+	ProcessID = 7948;
+	ThreadID = 6664;
+};
+]LOG]!><time="06:18:14.137-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="6664" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:18:14.137-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="6664" file="eventprovider.cpp:240">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222052040.437000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 7948;
+	StatusCode = 600;
+	ThreadID = 3508;
+};
+]LOG]!><time="06:20:40.441-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="3508" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:20:40.443-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="3508" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 received 1 events]LOG]!><time="06:20:40.443-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="10072" file="forwardproxy.cpp:256">
+<![LOG[[00A138A8] Handling 1 events]LOG]!><time="06:20:40.443-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="10072" file="smsclienteventforwarder.cpp:606">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:20:40.443-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="10072" file="smsclienteventforwarder.cpp:613">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_PolicyAgent_PolicyEvaluationComplete
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222052040.466000+000";
+	PolicyNamespace = "\\\\.\\ROOT\\ccm\\Policy\\S_1_1_0\\RequestedConfig";
+	ProcessID = 7948;
+	ThreadID = 3508;
+};
+]LOG]!><time="06:20:40.469-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="3508" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:20:40.471-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="3508" file="eventprovider.cpp:240">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_PolicyAgent_SettingsEvaluationComplete
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222052040.480000+000";
+	PolicyNamespace = "\\\\.\\root\\ccm\\policy\\machine\\actualconfig";
+	ProcessID = 7948;
+	ThreadID = 8708;
+};
+]LOG]!><time="06:20:40.482-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8708" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:20:40.483-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8708" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsPolicyEventForwarder:SmsSoftwareDistribution.Instance0 received 1 events]LOG]!><time="06:20:40.483-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="10752" file="forwardproxy.cpp:256">
+<![LOG[[00A9B9E8] Handling 1 events]LOG]!><time="06:20:40.484-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="10752" file="smspolicyeventforwarder.cpp:432">
+<![LOG[[00A9B9E8] Handling event class CCM_PolicyAgent_SettingsEvaluationComplete]LOG]!><time="06:20:40.484-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="10752" file="smspolicyeventforwarder.cpp:439">
+<![LOG[Event forwarder SmsPolicyEventForwarder:SmsSoftwareDistribution.Instance0 successfully handled 1 events]LOG]!><time="06:20:40.484-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="10752" file="forwardproxy.cpp:304">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222052052.488000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 7948;
+	StatusCode = 600;
+	ThreadID = 6664;
+};
+]LOG]!><time="06:20:52.491-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="6664" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:20:52.492-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="6664" file="eventprovider.cpp:240">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222052104.537000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 7948;
+	StatusCode = 600;
+	ThreadID = 2984;
+};
+]LOG]!><time="06:21:04.538-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="2984" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:21:04.539-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="2984" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 successfully handled 1 events]LOG]!><time="06:21:04.555-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="10072" file="forwardproxy.cpp:304">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 received 2 events]LOG]!><time="06:21:04.555-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="10072" file="forwardproxy.cpp:256">
+<![LOG[[00A138A8] Handling 2 events]LOG]!><time="06:21:04.555-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="10072" file="smsclienteventforwarder.cpp:606">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:21:04.555-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="10072" file="smsclienteventforwarder.cpp:613">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:21:04.563-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="10072" file="smsclienteventforwarder.cpp:613">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 successfully handled 2 events]LOG]!><time="06:21:04.569-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="10072" file="forwardproxy.cpp:304">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_PolicyAgent_PolicyEvaluationComplete
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222052314.105000+000";
+	PolicyNamespace = "\\\\.\\ROOT\\ccm\\Policy\\Machine\\RequestedConfig";
+	ProcessID = 7948;
+	ThreadID = 8576;
+};
+]LOG]!><time="06:23:14.108-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8576" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:23:14.109-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8576" file="eventprovider.cpp:240">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222052526.149000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 7948;
+	StatusCode = 600;
+	ThreadID = 8772;
+};
+]LOG]!><time="06:25:26.152-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8772" file="eventprovider.cpp:204">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 received 1 events]LOG]!><time="06:25:26.154-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="6092" file="forwardproxy.cpp:256">
+<![LOG[[00A138A8] Handling 1 events]LOG]!><time="06:25:26.154-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="6092" file="smsclienteventforwarder.cpp:606">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:25:26.154-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="6092" file="smsclienteventforwarder.cpp:613">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:25:26.154-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8772" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 successfully handled 1 events]LOG]!><time="06:25:26.177-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="6092" file="forwardproxy.cpp:304">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_PolicyAgent_PolicyEvaluationComplete
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222052526.170000+000";
+	PolicyNamespace = "\\\\.\\ROOT\\ccm\\Policy\\S_1_1_0\\RequestedConfig";
+	ProcessID = 7948;
+	ThreadID = 8772;
+};
+]LOG]!><time="06:25:26.178-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8772" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:25:26.180-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8772" file="eventprovider.cpp:240">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_PolicyAgent_SettingsEvaluationComplete
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222052526.188000+000";
+	PolicyNamespace = "\\\\.\\root\\ccm\\policy\\machine\\actualconfig";
+	ProcessID = 7948;
+	ThreadID = 2984;
+};
+]LOG]!><time="06:25:26.191-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="2984" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:25:26.192-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="2984" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsPolicyEventForwarder:SmsSoftwareDistribution.Instance0 received 1 events]LOG]!><time="06:25:26.192-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="6092" file="forwardproxy.cpp:256">
+<![LOG[[00A9B9E8] Handling 1 events]LOG]!><time="06:25:26.192-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="6092" file="smspolicyeventforwarder.cpp:432">
+<![LOG[[00A9B9E8] Handling event class CCM_PolicyAgent_SettingsEvaluationComplete]LOG]!><time="06:25:26.192-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="6092" file="smspolicyeventforwarder.cpp:439">
+<![LOG[Event forwarder SmsPolicyEventForwarder:SmsSoftwareDistribution.Instance0 successfully handled 1 events]LOG]!><time="06:25:26.193-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="6092" file="forwardproxy.cpp:304">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222052618.796000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 7948;
+	StatusCode = 600;
+	ThreadID = 8772;
+};
+]LOG]!><time="06:26:18.799-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8772" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:26:18.800-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8772" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 received 1 events]LOG]!><time="06:26:18.800-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="6092" file="forwardproxy.cpp:256">
+<![LOG[[00A138A8] Handling 1 events]LOG]!><time="06:26:18.801-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="6092" file="smsclienteventforwarder.cpp:606">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:26:18.801-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="6092" file="smsclienteventforwarder.cpp:613">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222052630.851000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 7948;
+	StatusCode = 600;
+	ThreadID = 2984;
+};
+]LOG]!><time="06:26:30.854-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="2984" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:26:30.855-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="2984" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 successfully handled 1 events]LOG]!><time="06:26:30.879-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="6092" file="forwardproxy.cpp:304">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 received 1 events]LOG]!><time="06:26:30.879-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="6092" file="forwardproxy.cpp:256">
+<![LOG[[00A138A8] Handling 1 events]LOG]!><time="06:26:30.879-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="6092" file="smsclienteventforwarder.cpp:606">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:26:30.879-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="6092" file="smsclienteventforwarder.cpp:613">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 successfully handled 1 events]LOG]!><time="06:26:30.895-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="6092" file="forwardproxy.cpp:304">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:P11";
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222052814.113000+000";
+	ProcessID = 7948;
+	ResourceName = "5CG60800TBC0FF";
+	ResourceType = "Machine";
+	ThreadID = 2984;
+};
+]LOG]!><time="06:28:14.116-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="2984" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:28:14.117-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="2984" file="eventprovider.cpp:240">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_PolicyAgent_PolicyEvaluationComplete
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222052814.139000+000";
+	PolicyNamespace = "\\\\.\\ROOT\\ccm\\Policy\\Machine\\RequestedConfig";
+	ProcessID = 7948;
+	ThreadID = 7508;
+};
+]LOG]!><time="06:28:14.141-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7508" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:28:14.142-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7508" file="eventprovider.cpp:240">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_PolicyAgent_SettingsEvaluationComplete
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222053014.171000+000";
+	PolicyNamespace = "\\\\.\\root\\ccm\\policy\\machine\\actualconfig";
+	ProcessID = 7948;
+	ThreadID = 10184;
+};
+]LOG]!><time="06:30:14.173-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="10184" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:30:14.175-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="10184" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsPolicyEventForwarder:SmsSoftwareDistribution.Instance0 received 1 events]LOG]!><time="06:30:14.175-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="10468" file="forwardproxy.cpp:256">
+<![LOG[[00A9B9E8] Handling 1 events]LOG]!><time="06:30:14.175-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="10468" file="smspolicyeventforwarder.cpp:432">
+<![LOG[[00A9B9E8] Handling event class CCM_PolicyAgent_SettingsEvaluationComplete]LOG]!><time="06:30:14.175-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="10468" file="smspolicyeventforwarder.cpp:439">
+<![LOG[Event forwarder SmsPolicyEventForwarder:SmsSoftwareDistribution.Instance0 successfully handled 1 events]LOG]!><time="06:30:14.175-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="10468" file="forwardproxy.cpp:304">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222053140.465000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 7948;
+	StatusCode = 600;
+	ThreadID = 8576;
+};
+]LOG]!><time="06:31:40.468-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8576" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:31:40.470-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8576" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 received 1 events]LOG]!><time="06:31:40.471-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11360" file="forwardproxy.cpp:256">
+<![LOG[[00A138A8] Handling 1 events]LOG]!><time="06:31:40.471-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11360" file="smsclienteventforwarder.cpp:606">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:31:40.471-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11360" file="smsclienteventforwarder.cpp:613">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_PolicyAgent_PolicyEvaluationComplete
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222053140.491000+000";
+	PolicyNamespace = "\\\\.\\ROOT\\ccm\\Policy\\S_1_1_0\\RequestedConfig";
+	ProcessID = 7948;
+	ThreadID = 8576;
+};
+]LOG]!><time="06:31:40.494-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8576" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:31:40.495-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8576" file="eventprovider.cpp:240">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222053152.516000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 7948;
+	StatusCode = 600;
+	ThreadID = 7508;
+};
+]LOG]!><time="06:31:52.519-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7508" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:31:52.520-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7508" file="eventprovider.cpp:240">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222053204.575000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 7948;
+	StatusCode = 600;
+	ThreadID = 1092;
+};
+]LOG]!><time="06:32:04.577-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="1092" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:32:04.578-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="1092" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 successfully handled 1 events]LOG]!><time="06:32:04.596-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11360" file="forwardproxy.cpp:304">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 received 2 events]LOG]!><time="06:32:04.596-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11360" file="forwardproxy.cpp:256">
+<![LOG[[00A138A8] Handling 2 events]LOG]!><time="06:32:04.596-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11360" file="smsclienteventforwarder.cpp:606">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:32:04.596-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11360" file="smsclienteventforwarder.cpp:613">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:32:04.612-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11360" file="smsclienteventforwarder.cpp:613">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 successfully handled 2 events]LOG]!><time="06:32:04.620-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11360" file="forwardproxy.cpp:304">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_PolicyAgent_PolicyEvaluationComplete
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222053314.139000+000";
+	PolicyNamespace = "\\\\.\\ROOT\\ccm\\Policy\\Machine\\RequestedConfig";
+	ProcessID = 7948;
+	ThreadID = 1092;
+};
+]LOG]!><time="06:33:14.142-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="1092" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:33:14.143-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="1092" file="eventprovider.cpp:240">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_PolicyAgent_SettingsEvaluationComplete
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222053514.167000+000";
+	PolicyNamespace = "\\\\.\\root\\ccm\\policy\\machine\\actualconfig";
+	ProcessID = 7948;
+	ThreadID = 1092;
+};
+]LOG]!><time="06:35:14.170-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="1092" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:35:14.172-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="1092" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsPolicyEventForwarder:SmsSoftwareDistribution.Instance0 received 1 events]LOG]!><time="06:35:14.172-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="12188" file="forwardproxy.cpp:256">
+<![LOG[[00A9B9E8] Handling 1 events]LOG]!><time="06:35:14.172-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="12188" file="smspolicyeventforwarder.cpp:432">
+<![LOG[[00A9B9E8] Handling event class CCM_PolicyAgent_SettingsEvaluationComplete]LOG]!><time="06:35:14.172-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="12188" file="smspolicyeventforwarder.cpp:439">
+<![LOG[Event forwarder SmsPolicyEventForwarder:SmsSoftwareDistribution.Instance0 successfully handled 1 events]LOG]!><time="06:35:14.172-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="12188" file="forwardproxy.cpp:304">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222053718.840000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 7948;
+	StatusCode = 600;
+	ThreadID = 1092;
+};
+]LOG]!><time="06:37:18.843-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="1092" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:37:18.844-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="1092" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 received 1 events]LOG]!><time="06:37:18.844-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11372" file="forwardproxy.cpp:256">
+<![LOG[[00A138A8] Handling 1 events]LOG]!><time="06:37:18.844-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11372" file="smsclienteventforwarder.cpp:606">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:37:18.844-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11372" file="smsclienteventforwarder.cpp:613">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222053730.887000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 7948;
+	StatusCode = 600;
+	ThreadID = 7036;
+};
+]LOG]!><time="06:37:30.888-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7036" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:37:30.889-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7036" file="eventprovider.cpp:240">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222053742.919000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 7948;
+	StatusCode = 600;
+	ThreadID = 6220;
+};
+]LOG]!><time="06:37:42.921-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="6220" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:37:42.923-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="6220" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 successfully handled 1 events]LOG]!><time="06:37:42.950-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11372" file="forwardproxy.cpp:304">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 received 2 events]LOG]!><time="06:37:42.951-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11372" file="forwardproxy.cpp:256">
+<![LOG[[00A138A8] Handling 2 events]LOG]!><time="06:37:42.951-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11372" file="smsclienteventforwarder.cpp:606">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:37:42.951-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11372" file="smsclienteventforwarder.cpp:613">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_PolicyAgent_PolicyEvaluationComplete
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222053742.938000+000";
+	PolicyNamespace = "\\\\.\\ROOT\\ccm\\Policy\\S_1_1_0\\RequestedConfig";
+	ProcessID = 7948;
+	ThreadID = 6220;
+};
+]LOG]!><time="06:37:42.951-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="6220" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:37:42.952-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="6220" file="eventprovider.cpp:240">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:37:42.963-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11372" file="smsclienteventforwarder.cpp:613">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 successfully handled 2 events]LOG]!><time="06:37:42.971-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11372" file="forwardproxy.cpp:304">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_PolicyAgent_PolicyEvaluationComplete
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222053814.159000+000";
+	PolicyNamespace = "\\\\.\\ROOT\\ccm\\Policy\\Machine\\RequestedConfig";
+	ProcessID = 7948;
+	ThreadID = 1092;
+};
+]LOG]!><time="06:38:14.162-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="1092" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:38:14.163-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="1092" file="eventprovider.cpp:240">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_PolicyAgent_SettingsEvaluationComplete
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222054014.188000+000";
+	PolicyNamespace = "\\\\.\\root\\ccm\\policy\\machine\\actualconfig";
+	ProcessID = 7948;
+	ThreadID = 6220;
+};
+]LOG]!><time="06:40:14.191-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="6220" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:40:14.192-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="6220" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsPolicyEventForwarder:SmsSoftwareDistribution.Instance0 received 1 events]LOG]!><time="06:40:14.193-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="3844" file="forwardproxy.cpp:256">
+<![LOG[[00A9B9E8] Handling 1 events]LOG]!><time="06:40:14.193-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="3844" file="smspolicyeventforwarder.cpp:432">
+<![LOG[[00A9B9E8] Handling event class CCM_PolicyAgent_SettingsEvaluationComplete]LOG]!><time="06:40:14.193-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="3844" file="smspolicyeventforwarder.cpp:439">
+<![LOG[Event forwarder SmsPolicyEventForwarder:SmsSoftwareDistribution.Instance0 successfully handled 1 events]LOG]!><time="06:40:14.193-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="3844" file="forwardproxy.cpp:304">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222054245.144000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 7948;
+	StatusCode = 600;
+	ThreadID = 6220;
+};
+]LOG]!><time="06:42:45.147-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="6220" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:42:45.148-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="6220" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 received 1 events]LOG]!><time="06:42:45.148-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="3844" file="forwardproxy.cpp:256">
+<![LOG[[00A138A8] Handling 1 events]LOG]!><time="06:42:45.149-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="3844" file="smsclienteventforwarder.cpp:606">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:42:45.149-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="3844" file="smsclienteventforwarder.cpp:613">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222054257.191000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 7948;
+	StatusCode = 600;
+	ThreadID = 1092;
+};
+]LOG]!><time="06:42:57.192-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="1092" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:42:57.193-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="1092" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 successfully handled 1 events]LOG]!><time="06:42:57.202-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="3844" file="forwardproxy.cpp:304">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 received 1 events]LOG]!><time="06:42:57.202-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="3844" file="forwardproxy.cpp:256">
+<![LOG[[00A138A8] Handling 1 events]LOG]!><time="06:42:57.202-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="3844" file="smsclienteventforwarder.cpp:606">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:42:57.202-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="3844" file="smsclienteventforwarder.cpp:613">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 successfully handled 1 events]LOG]!><time="06:42:57.211-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="3844" file="forwardproxy.cpp:304">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222054326.227000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 7948;
+	StatusCode = 600;
+	ThreadID = 6220;
+};
+]LOG]!><time="06:43:26.231-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="6220" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:43:26.233-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="6220" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 received 1 events]LOG]!><time="06:43:26.233-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8244" file="forwardproxy.cpp:256">
+<![LOG[[00A138A8] Handling 1 events]LOG]!><time="06:43:26.233-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8244" file="smsclienteventforwarder.cpp:606">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:43:26.234-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8244" file="smsclienteventforwarder.cpp:613">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 successfully handled 1 events]LOG]!><time="06:43:26.262-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8244" file="forwardproxy.cpp:304">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_PolicyAgent_PolicyEvaluationComplete
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222054326.252000+000";
+	PolicyNamespace = "\\\\.\\ROOT\\ccm\\Policy\\S_1_1_0\\RequestedConfig";
+	ProcessID = 7948;
+	ThreadID = 6220;
+};
+]LOG]!><time="06:43:26.306-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="6220" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:43:26.356-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="6220" file="eventprovider.cpp:240">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_PolicyAgent_PolicyEvaluationComplete
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222054326.379000+000";
+	PolicyNamespace = "\\\\.\\ROOT\\ccm\\Policy\\Machine\\RequestedConfig";
+	ProcessID = 7948;
+	ThreadID = 7328;
+};
+]LOG]!><time="06:43:26.382-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7328" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:43:26.382-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7328" file="eventprovider.cpp:240">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:P11";
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222054326.446000+000";
+	ProcessID = 7948;
+	ResourceName = "5CG60800TBC0FF";
+	ResourceType = "Machine";
+	ThreadID = 6220;
+};
+]LOG]!><time="06:43:26.453-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="6220" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:43:26.453-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="6220" file="eventprovider.cpp:240">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_PolicyAgent_SettingsEvaluationComplete
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222054526.403000+000";
+	PolicyNamespace = "\\\\.\\root\\ccm\\policy\\machine\\actualconfig";
+	ProcessID = 7948;
+	ThreadID = 6220;
+};
+]LOG]!><time="06:45:26.405-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="6220" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:45:26.405-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="6220" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsPolicyEventForwarder:SmsSoftwareDistribution.Instance0 received 1 events]LOG]!><time="06:45:26.405-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8244" file="forwardproxy.cpp:256">
+<![LOG[[00A9B9E8] Handling 1 events]LOG]!><time="06:45:26.405-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8244" file="smspolicyeventforwarder.cpp:432">
+<![LOG[[00A9B9E8] Handling event class CCM_PolicyAgent_SettingsEvaluationComplete]LOG]!><time="06:45:26.405-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8244" file="smspolicyeventforwarder.cpp:439">
+<![LOG[Event forwarder SmsPolicyEventForwarder:SmsSoftwareDistribution.Instance0 successfully handled 1 events]LOG]!><time="06:45:26.405-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8244" file="forwardproxy.cpp:304">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222054756.692000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 7948;
+	StatusCode = 600;
+	ThreadID = 6220;
+};
+]LOG]!><time="06:47:56.696-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="6220" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:47:56.697-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="6220" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 received 1 events]LOG]!><time="06:47:56.697-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="9720" file="forwardproxy.cpp:256">
+<![LOG[[00A138A8] Handling 1 events]LOG]!><time="06:47:56.698-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="9720" file="smsclienteventforwarder.cpp:606">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:47:56.698-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="9720" file="smsclienteventforwarder.cpp:613">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 successfully handled 1 events]LOG]!><time="06:47:56.721-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="9720" file="forwardproxy.cpp:304">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222054757.344000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 7948;
+	StatusCode = 600;
+	ThreadID = 7328;
+};
+]LOG]!><time="06:47:57.365-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7328" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:47:57.366-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7328" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 received 1 events]LOG]!><time="06:47:57.385-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="9720" file="forwardproxy.cpp:256">
+<![LOG[[00A138A8] Handling 1 events]LOG]!><time="06:47:57.385-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="9720" file="smsclienteventforwarder.cpp:606">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:47:57.385-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="9720" file="smsclienteventforwarder.cpp:613">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 successfully handled 1 events]LOG]!><time="06:47:57.415-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="9720" file="forwardproxy.cpp:304">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_PolicyAgent_PolicyEvaluationComplete
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222054814.196000+000";
+	PolicyNamespace = "\\\\.\\ROOT\\ccm\\Policy\\Machine\\RequestedConfig";
+	ProcessID = 7948;
+	ThreadID = 7328;
+};
+]LOG]!><time="06:48:14.199-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7328" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:48:14.199-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7328" file="eventprovider.cpp:240">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222054916.781000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 7948;
+	StatusCode = 600;
+	ThreadID = 8576;
+};
+]LOG]!><time="06:49:16.784-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8576" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:49:16.786-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8576" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 received 1 events]LOG]!><time="06:49:16.786-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="9720" file="forwardproxy.cpp:256">
+<![LOG[[00A138A8] Handling 1 events]LOG]!><time="06:49:16.787-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="9720" file="smsclienteventforwarder.cpp:606">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:49:16.787-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="9720" file="smsclienteventforwarder.cpp:613">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_PolicyAgent_PolicyEvaluationComplete
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222054916.803000+000";
+	PolicyNamespace = "\\\\.\\ROOT\\ccm\\Policy\\S_1_1_0\\RequestedConfig";
+	ProcessID = 7948;
+	ThreadID = 8576;
+};
+]LOG]!><time="06:49:16.807-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8576" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:49:16.808-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8576" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 successfully handled 1 events]LOG]!><time="06:49:16.815-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="9720" file="forwardproxy.cpp:304">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_PolicyAgent_SettingsEvaluationComplete
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222055014.222000+000";
+	PolicyNamespace = "\\\\.\\root\\ccm\\policy\\machine\\actualconfig";
+	ProcessID = 7948;
+	ThreadID = 8576;
+};
+]LOG]!><time="06:50:14.229-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8576" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:50:14.230-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8576" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsPolicyEventForwarder:SmsSoftwareDistribution.Instance0 received 1 events]LOG]!><time="06:50:14.231-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="9720" file="forwardproxy.cpp:256">
+<![LOG[[00A9B9E8] Handling 1 events]LOG]!><time="06:50:14.232-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="9720" file="smspolicyeventforwarder.cpp:432">
+<![LOG[[00A9B9E8] Handling event class CCM_PolicyAgent_SettingsEvaluationComplete]LOG]!><time="06:50:14.232-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="9720" file="smspolicyeventforwarder.cpp:439">
+<![LOG[Event forwarder SmsPolicyEventForwarder:SmsSoftwareDistribution.Instance0 successfully handled 1 events]LOG]!><time="06:50:14.232-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="9720" file="forwardproxy.cpp:304">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222055308.749000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 7948;
+	StatusCode = 600;
+	ThreadID = 10784;
+};
+]LOG]!><time="06:53:08.752-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="10784" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:53:08.753-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="10784" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 received 1 events]LOG]!><time="06:53:08.753-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="10272" file="forwardproxy.cpp:256">
+<![LOG[[00A138A8] Handling 1 events]LOG]!><time="06:53:08.754-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="10272" file="smsclienteventforwarder.cpp:606">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:53:08.754-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="10272" file="smsclienteventforwarder.cpp:613">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_PolicyAgent_PolicyEvaluationComplete
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222055314.198000+000";
+	PolicyNamespace = "\\\\.\\ROOT\\ccm\\Policy\\Machine\\RequestedConfig";
+	ProcessID = 7948;
+	ThreadID = 7916;
+};
+]LOG]!><time="06:53:14.199-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7916" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:53:14.199-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="7916" file="eventprovider.cpp:240">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222055320.812000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 7948;
+	StatusCode = 600;
+	ThreadID = 3728;
+};
+]LOG]!><time="06:53:20.815-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="3728" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:53:20.816-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="3728" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 successfully handled 1 events]LOG]!><time="06:53:20.838-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="10272" file="forwardproxy.cpp:304">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 received 1 events]LOG]!><time="06:53:20.838-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="10272" file="forwardproxy.cpp:256">
+<![LOG[[00A138A8] Handling 1 events]LOG]!><time="06:53:20.838-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="10272" file="smsclienteventforwarder.cpp:606">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:53:20.838-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="10272" file="smsclienteventforwarder.cpp:613">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 successfully handled 1 events]LOG]!><time="06:53:20.859-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="10272" file="forwardproxy.cpp:304">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222055540.392000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 7948;
+	StatusCode = 600;
+	ThreadID = 12068;
+};
+]LOG]!><time="06:55:40.394-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="12068" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:55:40.395-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="12068" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 received 1 events]LOG]!><time="06:55:40.395-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11424" file="forwardproxy.cpp:256">
+<![LOG[[00A138A8] Handling 1 events]LOG]!><time="06:55:40.395-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11424" file="smsclienteventforwarder.cpp:606">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:55:40.395-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11424" file="smsclienteventforwarder.cpp:613">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_PolicyAgent_PolicyEvaluationComplete
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222055540.400000+000";
+	PolicyNamespace = "\\\\.\\ROOT\\ccm\\Policy\\S_1_1_0\\RequestedConfig";
+	ProcessID = 7948;
+	ThreadID = 12068;
+};
+]LOG]!><time="06:55:40.403-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="12068" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:55:40.405-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="12068" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 successfully handled 1 events]LOG]!><time="06:55:40.410-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11424" file="forwardproxy.cpp:304">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_PolicyAgent_SettingsEvaluationComplete
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222055540.412000+000";
+	PolicyNamespace = "\\\\.\\root\\ccm\\policy\\machine\\actualconfig";
+	ProcessID = 7948;
+	ThreadID = 3728;
+};
+]LOG]!><time="06:55:40.415-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="3728" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:55:40.416-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="3728" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsPolicyEventForwarder:SmsSoftwareDistribution.Instance0 received 1 events]LOG]!><time="06:55:40.416-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11424" file="forwardproxy.cpp:256">
+<![LOG[[00A9B9E8] Handling 1 events]LOG]!><time="06:55:40.416-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11424" file="smspolicyeventforwarder.cpp:432">
+<![LOG[[00A9B9E8] Handling event class CCM_PolicyAgent_SettingsEvaluationComplete]LOG]!><time="06:55:40.416-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11424" file="smspolicyeventforwarder.cpp:439">
+<![LOG[Event forwarder SmsPolicyEventForwarder:SmsSoftwareDistribution.Instance0 successfully handled 1 events]LOG]!><time="06:55:40.416-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11424" file="forwardproxy.cpp:304">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:P11";
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222055814.134000+000";
+	ProcessID = 7948;
+	ResourceName = "5CG60800TBC0FF";
+	ResourceType = "Machine";
+	ThreadID = 11940;
+};
+]LOG]!><time="06:58:14.137-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11940" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:58:14.137-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11940" file="eventprovider.cpp:240">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_PolicyAgent_PolicyEvaluationComplete
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222055814.222000+000";
+	PolicyNamespace = "\\\\.\\ROOT\\ccm\\Policy\\Machine\\RequestedConfig";
+	ProcessID = 7948;
+	ThreadID = 9844;
+};
+]LOG]!><time="06:58:14.225-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="9844" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:58:14.226-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="9844" file="eventprovider.cpp:240">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222055835.079000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 7948;
+	StatusCode = 600;
+	ThreadID = 3728;
+};
+]LOG]!><time="06:58:35.082-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="3728" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:58:35.083-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="3728" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 received 1 events]LOG]!><time="06:58:35.083-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11804" file="forwardproxy.cpp:256">
+<![LOG[[00A138A8] Handling 1 events]LOG]!><time="06:58:35.083-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11804" file="smsclienteventforwarder.cpp:606">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:58:35.083-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11804" file="smsclienteventforwarder.cpp:613">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222055843.224000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 7948;
+	StatusCode = 600;
+	ThreadID = 8576;
+};
+]LOG]!><time="06:58:43.227-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8576" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="06:58:43.228-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8576" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 successfully handled 1 events]LOG]!><time="06:58:43.249-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11804" file="forwardproxy.cpp:304">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 received 1 events]LOG]!><time="06:58:43.249-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11804" file="forwardproxy.cpp:256">
+<![LOG[[00A138A8] Handling 1 events]LOG]!><time="06:58:43.249-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11804" file="smsclienteventforwarder.cpp:606">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="06:58:43.250-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11804" file="smsclienteventforwarder.cpp:613">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 successfully handled 1 events]LOG]!><time="06:58:43.273-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11804" file="forwardproxy.cpp:304">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222060040.446000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 7948;
+	StatusCode = 600;
+	ThreadID = 5416;
+};
+]LOG]!><time="07:00:40.449-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="5416" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="07:00:40.451-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="5416" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 received 1 events]LOG]!><time="07:00:40.451-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="12004" file="forwardproxy.cpp:256">
+<![LOG[[00A138A8] Handling 1 events]LOG]!><time="07:00:40.452-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="12004" file="smsclienteventforwarder.cpp:606">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="07:00:40.452-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="12004" file="smsclienteventforwarder.cpp:613">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_PolicyAgent_PolicyEvaluationComplete
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222060040.469000+000";
+	PolicyNamespace = "\\\\.\\ROOT\\ccm\\Policy\\S_1_1_0\\RequestedConfig";
+	ProcessID = 7948;
+	ThreadID = 5416;
+};
+]LOG]!><time="07:00:40.474-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="5416" file="eventprovider.cpp:204">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 successfully handled 1 events]LOG]!><time="07:00:40.476-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="12004" file="forwardproxy.cpp:304">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="07:00:40.476-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="5416" file="eventprovider.cpp:240">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_PolicyAgent_SettingsEvaluationComplete
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222060040.487000+000";
+	PolicyNamespace = "\\\\.\\root\\ccm\\policy\\machine\\actualconfig";
+	ProcessID = 7948;
+	ThreadID = 11940;
+};
+]LOG]!><time="07:00:40.489-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11940" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="07:00:40.490-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11940" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsPolicyEventForwarder:SmsSoftwareDistribution.Instance0 received 1 events]LOG]!><time="07:00:40.490-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="12004" file="forwardproxy.cpp:256">
+<![LOG[[00A9B9E8] Handling 1 events]LOG]!><time="07:00:40.490-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="12004" file="smspolicyeventforwarder.cpp:432">
+<![LOG[[00A9B9E8] Handling event class CCM_PolicyAgent_SettingsEvaluationComplete]LOG]!><time="07:00:40.491-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="12004" file="smspolicyeventforwarder.cpp:439">
+<![LOG[Event forwarder SmsPolicyEventForwarder:SmsSoftwareDistribution.Instance0 successfully handled 1 events]LOG]!><time="07:00:40.491-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="12004" file="forwardproxy.cpp:304">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_PolicyAgent_PolicyEvaluationComplete
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222060314.247000+000";
+	PolicyNamespace = "\\\\.\\ROOT\\ccm\\Policy\\Machine\\RequestedConfig";
+	ProcessID = 7948;
+	ThreadID = 11420;
+};
+]LOG]!><time="07:03:14.250-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11420" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="07:03:14.250-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11420" file="eventprovider.cpp:240">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222060347.135000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 7948;
+	StatusCode = 600;
+	ThreadID = 11420;
+};
+]LOG]!><time="07:03:47.137-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11420" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="07:03:47.137-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11420" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 received 1 events]LOG]!><time="07:03:47.143-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="10180" file="forwardproxy.cpp:256">
+<![LOG[[00A138A8] Handling 1 events]LOG]!><time="07:03:47.143-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="10180" file="smsclienteventforwarder.cpp:606">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="07:03:47.143-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="10180" file="smsclienteventforwarder.cpp:613">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222060359.183000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 7948;
+	StatusCode = 600;
+	ThreadID = 11940;
+};
+]LOG]!><time="07:03:59.185-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11940" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="07:03:59.186-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11940" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 successfully handled 1 events]LOG]!><time="07:03:59.214-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="10180" file="forwardproxy.cpp:304">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 received 1 events]LOG]!><time="07:03:59.215-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="10180" file="forwardproxy.cpp:256">
+<![LOG[[00A138A8] Handling 1 events]LOG]!><time="07:03:59.215-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="10180" file="smsclienteventforwarder.cpp:606">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="07:03:59.215-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="10180" file="smsclienteventforwarder.cpp:613">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 successfully handled 1 events]LOG]!><time="07:03:59.235-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="10180" file="forwardproxy.cpp:304">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_PolicyAgent_SettingsEvaluationComplete
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222060514.273000+000";
+	PolicyNamespace = "\\\\.\\root\\ccm\\policy\\machine\\actualconfig";
+	ProcessID = 7948;
+	ThreadID = 8660;
+};
+]LOG]!><time="07:05:14.276-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8660" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="07:05:14.277-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8660" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsPolicyEventForwarder:SmsSoftwareDistribution.Instance0 received 1 events]LOG]!><time="07:05:14.277-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11444" file="forwardproxy.cpp:256">
+<![LOG[[00A9B9E8] Handling 1 events]LOG]!><time="07:05:14.278-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11444" file="smspolicyeventforwarder.cpp:432">
+<![LOG[[00A9B9E8] Handling event class CCM_PolicyAgent_SettingsEvaluationComplete]LOG]!><time="07:05:14.278-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11444" file="smspolicyeventforwarder.cpp:439">
+<![LOG[Event forwarder SmsPolicyEventForwarder:SmsSoftwareDistribution.Instance0 successfully handled 1 events]LOG]!><time="07:05:14.278-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11444" file="forwardproxy.cpp:304">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222060640.417000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 7948;
+	StatusCode = 600;
+	ThreadID = 11940;
+};
+]LOG]!><time="07:06:40.420-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11940" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="07:06:40.421-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11940" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 received 1 events]LOG]!><time="07:06:40.421-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11444" file="forwardproxy.cpp:256">
+<![LOG[[00A138A8] Handling 1 events]LOG]!><time="07:06:40.422-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11444" file="smsclienteventforwarder.cpp:606">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="07:06:40.422-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11444" file="smsclienteventforwarder.cpp:613">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_PolicyAgent_PolicyEvaluationComplete
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222060640.436000+000";
+	PolicyNamespace = "\\\\.\\ROOT\\ccm\\Policy\\S_1_1_0\\RequestedConfig";
+	ProcessID = 7948;
+	ThreadID = 11940;
+};
+]LOG]!><time="07:06:40.439-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11940" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="07:06:40.440-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11940" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 successfully handled 1 events]LOG]!><time="07:06:40.440-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11444" file="forwardproxy.cpp:304">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_PolicyAgent_PolicyEvaluationComplete
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222060814.265000+000";
+	PolicyNamespace = "\\\\.\\ROOT\\ccm\\Policy\\Machine\\RequestedConfig";
+	ProcessID = 7948;
+	ThreadID = 8576;
+};
+]LOG]!><time="07:08:14.268-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8576" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="07:08:14.268-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8576" file="eventprovider.cpp:240">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222060859.182000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 7948;
+	StatusCode = 600;
+	ThreadID = 8576;
+};
+]LOG]!><time="07:08:59.185-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8576" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="07:08:59.187-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8576" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 received 1 events]LOG]!><time="07:08:59.187-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11444" file="forwardproxy.cpp:256">
+<![LOG[[00A138A8] Handling 1 events]LOG]!><time="07:08:59.187-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11444" file="smsclienteventforwarder.cpp:606">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="07:08:59.187-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11444" file="smsclienteventforwarder.cpp:613">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222060925.504000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 7948;
+	StatusCode = 600;
+	ThreadID = 9004;
+};
+]LOG]!><time="07:09:25.507-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="9004" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="07:09:25.508-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="9004" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 successfully handled 1 events]LOG]!><time="07:09:25.517-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11444" file="forwardproxy.cpp:304">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 received 1 events]LOG]!><time="07:09:25.517-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11444" file="forwardproxy.cpp:256">
+<![LOG[[00A138A8] Handling 1 events]LOG]!><time="07:09:25.517-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11444" file="smsclienteventforwarder.cpp:606">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="07:09:25.517-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11444" file="smsclienteventforwarder.cpp:613">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 successfully handled 1 events]LOG]!><time="07:09:25.542-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11444" file="forwardproxy.cpp:304">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_PolicyAgent_SettingsEvaluationComplete
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222061014.295000+000";
+	PolicyNamespace = "\\\\.\\root\\ccm\\policy\\machine\\actualconfig";
+	ProcessID = 7948;
+	ThreadID = 9004;
+};
+]LOG]!><time="07:10:14.297-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="9004" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="07:10:14.298-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="9004" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsPolicyEventForwarder:SmsSoftwareDistribution.Instance0 received 1 events]LOG]!><time="07:10:14.299-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11444" file="forwardproxy.cpp:256">
+<![LOG[[00A9B9E8] Handling 1 events]LOG]!><time="07:10:14.299-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11444" file="smspolicyeventforwarder.cpp:432">
+<![LOG[[00A9B9E8] Handling event class CCM_PolicyAgent_SettingsEvaluationComplete]LOG]!><time="07:10:14.299-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11444" file="smspolicyeventforwarder.cpp:439">
+<![LOG[Event forwarder SmsPolicyEventForwarder:SmsSoftwareDistribution.Instance0 successfully handled 1 events]LOG]!><time="07:10:14.299-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11444" file="forwardproxy.cpp:304">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_ServiceHost_CertRetrieval_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222061101.076000+000";
+	HRESULT = "0x00000000";
+	ProcessID = 7948;
+	ThreadID = 9004;
+};
+]LOG]!><time="07:11:01.079-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="12108" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="07:11:01.080-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="12108" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 received 1 events]LOG]!><time="07:11:01.080-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="10760" file="forwardproxy.cpp:256">
+<![LOG[[00A138A8] Handling 1 events]LOG]!><time="07:11:01.080-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="10760" file="smsclienteventforwarder.cpp:606">
+<![LOG[[00A138A8] Handling event class CCM_ServiceHost_CertRetrieval_Status]LOG]!><time="07:11:01.080-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="10760" file="smsclienteventforwarder.cpp:613">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 successfully handled 1 events]LOG]!><time="07:11:01.082-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="10760" file="forwardproxy.cpp:304">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222061240.414000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 7948;
+	StatusCode = 600;
+	ThreadID = 11940;
+};
+]LOG]!><time="07:12:40.418-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11940" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="07:12:40.419-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11940" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 received 1 events]LOG]!><time="07:12:40.419-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="12108" file="forwardproxy.cpp:256">
+<![LOG[[00A138A8] Handling 1 events]LOG]!><time="07:12:40.420-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="12108" file="smsclienteventforwarder.cpp:606">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="07:12:40.420-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="12108" file="smsclienteventforwarder.cpp:613">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_PolicyAgent_PolicyEvaluationComplete
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222061240.437000+000";
+	PolicyNamespace = "\\\\.\\ROOT\\ccm\\Policy\\S_1_1_0\\RequestedConfig";
+	ProcessID = 7948;
+	ThreadID = 11940;
+};
+]LOG]!><time="07:12:40.442-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11940" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="07:12:40.444-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11940" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 successfully handled 1 events]LOG]!><time="07:12:40.447-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="12108" file="forwardproxy.cpp:304">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_PolicyAgent_AssignmentsRequested
+{
+	AuthorityName = "SMS:P11";
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222061314.105000+000";
+	ProcessID = 7948;
+	ResourceName = "5CG60800TBC0FF";
+	ResourceType = "Machine";
+	ThreadID = 6444;
+};
+]LOG]!><time="07:13:14.106-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="6444" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="07:13:14.106-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="6444" file="eventprovider.cpp:240">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_PolicyAgent_PolicyEvaluationComplete
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222061314.271000+000";
+	PolicyNamespace = "\\\\.\\ROOT\\ccm\\Policy\\Machine\\RequestedConfig";
+	ProcessID = 7948;
+	ThreadID = 8576;
+};
+]LOG]!><time="07:13:14.273-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8576" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="07:13:14.273-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="8576" file="eventprovider.cpp:240">
+<![LOG[Raising event (#1 of 1):
+
+instance of CCM_CcmHttp_Status
+{
+	ClientID = "GUID:D940A159-0FD6-4721-B6F2-6850A3B6EEBC";
+	DateTime = "20191222061411.234000+000";
+	HostName = "sccm01tssebroz2.tcad.telia.se";
+	HRESULT = "0x80072ee7";
+	ProcessID = 7948;
+	StatusCode = 600;
+	ThreadID = 11940;
+};
+]LOG]!><time="07:14:11.237-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11940" file="eventprovider.cpp:204">
+<![LOG[Successfully raised 1 event(s)]LOG]!><time="07:14:11.238-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="11940" file="eventprovider.cpp:240">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 received 1 events]LOG]!><time="07:14:11.238-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="12108" file="forwardproxy.cpp:256">
+<![LOG[[00A138A8] Handling 1 events]LOG]!><time="07:14:11.238-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="12108" file="smsclienteventforwarder.cpp:606">
+<![LOG[[00A138A8] Handling event class CCM_CcmHttp_Status]LOG]!><time="07:14:11.239-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="12108" file="smsclienteventforwarder.cpp:613">
+<![LOG[Event forwarder SmsClientEventForwarder:Instance0 successfully handled 1 events]LOG]!><time="07:14:11.264-60" date="12-22-2019" component="StatusAgent" context="" type="1" thread="12108" file="forwardproxy.cpp:304">

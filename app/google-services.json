@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "567992555550",
+    "firebase_url": "https://finance-7c409.firebaseio.com",
+    "project_id": "finance-7c409",
+    "storage_bucket": "finance-7c409.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567992555550:android:e7d0827d0f88a85600f60f",
+        "android_client_info": {
+          "package_name": "com.bharathi.finance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567992555550-832vg0d323srvp3j5tgihvhvkgmhnnl0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bharathi.finance",
+            "certificate_hash": "17b1599906af4f6eff9478119603ac8ef3d92a79"
+          }
+        },
+        {
+          "client_id": "567992555550-3vklf6djma8snks6a890t4ofe3p83m1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4J8cBkGKU9mReUqSKMVZWTWLYFJKshLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567992555550-3vklf6djma8snks6a890t4ofe3p83m1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

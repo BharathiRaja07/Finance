@@ -1,0 +1,604 @@
+﻿<![LOG[SessionId = -1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="09:25:22.563-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="1352" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="09:25:22.563-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="1352" file="util.cpp:4269">
+<![LOG[Commandline: "C:\_SMSTaskSequence\Packages\P1100464\setup.exe" /S /v/qn.
+Working directory: C:\_SMSTaskSequence\Packages\P1100464\
+Interactive: 0
+Window mode: 5]LOG]!><time="09:25:22.610-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="1728" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 2016 for installation]LOG]!><time="09:25:22.672-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="1728" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 2016, thread id 1044]LOG]!><time="09:25:22.672-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="1352" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = -1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="09:26:18.809-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="2908" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="09:26:18.809-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="2908" file="util.cpp:4269">
+<![LOG[Commandline: "C:\_SMSTaskSequence\Packages\P1100465\Setup.exe" -INSTALL
+Working directory: C:\_SMSTaskSequence\Packages\P1100465\
+Interactive: 0
+Window mode: 5]LOG]!><time="09:26:18.824-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4084" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 2228 for installation]LOG]!><time="09:26:18.871-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4084" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 2228, thread id 2224]LOG]!><time="09:26:18.871-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="2908" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = -1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="09:27:06.604-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="2908" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="09:27:06.604-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="2908" file="util.cpp:4269">
+<![LOG[Commandline: "C:\_SMSTaskSequence\Packages\P1100466\HPInstaller.exe" /S
+Working directory: C:\_SMSTaskSequence\Packages\P1100466\
+Interactive: 0
+Window mode: 5]LOG]!><time="09:27:06.635-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="2812" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 1808 for installation]LOG]!><time="09:27:06.635-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="2812" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 1808, thread id 1844]LOG]!><time="09:27:06.635-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="2908" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = -1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="09:27:54.540-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="2908" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="09:27:54.540-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="2908" file="util.cpp:4269">
+<![LOG[Commandline: "C:\_SMSTaskSequence\Packages\P11006A9\InstMultiPkg.exe" /silent
+Working directory: C:\_SMSTaskSequence\Packages\P11006A9\
+Interactive: 0
+Window mode: 5]LOG]!><time="09:27:54.555-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="3048" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 2032 for installation]LOG]!><time="09:27:54.555-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="3048" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 2032, thread id 3808]LOG]!><time="09:27:54.555-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="2908" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = -1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="09:29:12.028-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="3736" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="09:29:12.028-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="3736" file="util.cpp:4269">
+<![LOG[Commandline: "C:\_SMSTaskSequence\Packages\P1100468\HPUCDSilent.exe"
+Working directory: C:\_SMSTaskSequence\Packages\P1100468\
+Interactive: 0
+Window mode: 5]LOG]!><time="09:29:12.043-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="1272" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 2848 for installation]LOG]!><time="09:29:12.043-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="1272" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 2848, thread id 1804]LOG]!><time="09:29:12.043-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="3736" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = -1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="09:29:23.414-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="3736" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="09:29:23.414-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="3736" file="util.cpp:4269">
+<![LOG[Commandline: "C:\_SMSTaskSequence\Packages\P1100469\HPCMSetup.exe" /qn
+Working directory: C:\_SMSTaskSequence\Packages\P1100469\
+Interactive: 0
+Window mode: 5]LOG]!><time="09:29:23.429-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4908" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 4932 for installation]LOG]!><time="09:29:23.445-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4908" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 4932, thread id 4936]LOG]!><time="09:29:23.445-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="3736" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = -1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="09:30:09.252-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4284" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="09:30:09.252-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="4284" file="util.cpp:4269">
+<![LOG[Commandline: "C:\_SMSTaskSequence\Packages\P110046A\setup.exe" /s /v"/qn REBOOT=REALLYSUPRESS"
+Working directory: C:\_SMSTaskSequence\Packages\P110046A\
+Interactive: 0
+Window mode: 5]LOG]!><time="09:30:09.267-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4428" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 4432 for installation]LOG]!><time="09:30:09.330-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4428" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 4432, thread id 4304]LOG]!><time="09:30:09.330-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4284" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = -1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="09:30:21.956-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4284" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="09:30:21.956-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="4284" file="util.cpp:4269">
+<![LOG[Commandline: "C:\_SMSTaskSequence\Packages\P110046B\setup.exe" /s /v"/qn /lv c:\Hotkey.log REBOOT=REALLYSUPPRESS"
+Working directory: C:\_SMSTaskSequence\Packages\P110046B\
+Interactive: 0
+Window mode: 5]LOG]!><time="09:30:21.971-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4112" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 4208 for installation]LOG]!><time="09:30:22.034-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4112" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 4208, thread id 4252]LOG]!><time="09:30:22.049-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4284" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = -1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="09:34:01.607-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="2800" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="09:34:01.607-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="2800" file="util.cpp:4269">
+<![LOG[Commandline: "C:\_SMSTaskSequence\Packages\P110046C\SetupChipset.exe" -s -norestart
+Working directory: C:\_SMSTaskSequence\Packages\P110046C\
+Interactive: 0
+Window mode: 5]LOG]!><time="09:34:01.654-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="3880" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 3900 for installation]LOG]!><time="09:34:01.669-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="3880" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 3900, thread id 3904]LOG]!><time="09:34:01.669-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="2800" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = -1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="09:38:13.115-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="544" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="09:38:13.115-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="544" file="util.cpp:4269">
+<![LOG[Commandline: "C:\_SMSTaskSequence\Packages\P11006BE\InstMultiPkg.exe" /silent
+Working directory: C:\_SMSTaskSequence\Packages\P11006BE\
+Interactive: 0
+Window mode: 5]LOG]!><time="09:38:13.147-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4040" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 4060 for installation]LOG]!><time="09:38:13.162-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4040" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 4060, thread id 4064]LOG]!><time="09:38:13.162-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="544" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = -1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="09:39:36.060-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="3060" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="09:39:36.060-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="3060" file="util.cpp:4269">
+<![LOG[Commandline: "C:\_SMSTaskSequence\Packages\P110046E\setup.exe" -s -sms /f2"c:\windows\temp\MCard.log"
+Working directory: C:\_SMSTaskSequence\Packages\P110046E\
+Interactive: 0
+Window mode: 5]LOG]!><time="09:39:36.076-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4368" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 4388 for installation]LOG]!><time="09:39:36.123-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4368" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 4388, thread id 4392]LOG]!><time="09:39:36.123-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="3060" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = -1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="09:39:49.294-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4220" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="09:39:49.294-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="4220" file="util.cpp:4269">
+<![LOG[Commandline: "C:\_SMSTaskSequence\Packages\P1100398\AppInstall.cmd"
+Working directory: C:\_SMSTaskSequence\Packages\P1100398\
+Interactive: 0
+Window mode: 5]LOG]!><time="09:39:49.309-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4696" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 4692 for installation]LOG]!><time="09:39:49.309-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4696" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 4692, thread id 4644]LOG]!><time="09:39:49.309-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4220" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = -1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="09:40:00.746-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4220" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="09:40:00.746-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="4220" file="util.cpp:4269">
+<![LOG[Commandline: "C:\_SMSTaskSequence\Packages\P11005D3\AppInstall.cmd"
+Working directory: C:\_SMSTaskSequence\Packages\P11005D3\
+Interactive: 0
+Window mode: 5]LOG]!><time="09:40:00.746-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4064" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 2172 for installation]LOG]!><time="09:40:00.761-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4064" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 2172, thread id 3756]LOG]!><time="09:40:00.761-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4220" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = -1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="09:40:31.352-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="272" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="09:40:31.352-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="272" file="util.cpp:4269">
+<![LOG[Commandline: "C:\_SMSTaskSequence\Packages\P11008AD\AppInstall.cmd"
+Working directory: C:\_SMSTaskSequence\Packages\P11008AD\
+Interactive: 0
+Window mode: 5]LOG]!><time="09:40:31.368-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4072" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 3152 for installation]LOG]!><time="09:40:31.368-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4072" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 3152, thread id 3080]LOG]!><time="09:40:31.368-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="272" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = -1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="09:40:35.149-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4220" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="09:40:35.149-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="4220" file="util.cpp:4269">
+<![LOG[Commandline: "C:\_SMSTaskSequence\Packages\P1100509\AppInstall.cmd"
+Working directory: C:\_SMSTaskSequence\Packages\P1100509\
+Interactive: 0
+Window mode: 5]LOG]!><time="09:40:35.164-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4772" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 4824 for installation]LOG]!><time="09:40:35.164-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4772" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 4824, thread id 3904]LOG]!><time="09:40:35.164-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4220" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = -1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="09:40:39.117-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="3060" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="09:40:39.117-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="3060" file="util.cpp:4269">
+<![LOG[Commandline: "C:\_SMSTaskSequence\Packages\C01012D8\InstallSilent.cmd"
+Working directory: C:\_SMSTaskSequence\Packages\C01012D8\
+Interactive: 0
+Window mode: 0]LOG]!><time="09:40:39.133-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4608" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 4620 for installation]LOG]!><time="09:40:39.148-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4608" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 4620, thread id 2824]LOG]!><time="09:40:39.148-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="3060" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = -1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="09:40:42.976-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4220" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="09:40:42.976-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="4220" file="util.cpp:4269">
+<![LOG[Commandline: "C:\_SMSTaskSequence\Packages\P11005DD\AppInstall.cmd"
+Working directory: C:\_SMSTaskSequence\Packages\P11005DD\
+Interactive: 0
+Window mode: 5]LOG]!><time="09:40:42.992-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4412" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 4404 for installation]LOG]!><time="09:40:43.007-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4412" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 4404, thread id 4704]LOG]!><time="09:40:43.007-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4220" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = -1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="09:40:58.762-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4220" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="09:40:58.762-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="4220" file="util.cpp:4269">
+<![LOG[Commandline: "C:\_SMSTaskSequence\Packages\P11006CB\AppInstall.cmd"
+Working directory: C:\_SMSTaskSequence\Packages\P11006CB\
+Interactive: 0
+Window mode: 5]LOG]!><time="09:40:58.778-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4432" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 3824 for installation]LOG]!><time="09:40:58.793-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4432" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 3824, thread id 4408]LOG]!><time="09:40:58.793-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4220" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = -1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="09:41:13.430-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="3060" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="09:41:13.430-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="3060" file="util.cpp:4269">
+<![LOG[Commandline: "C:\_SMSTaskSequence\Packages\P1100555\AppInstall.cmd"
+Working directory: C:\_SMSTaskSequence\Packages\P1100555\
+Interactive: 0
+Window mode: 5]LOG]!><time="09:41:13.446-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4768" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 4728 for installation]LOG]!><time="09:41:13.446-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4768" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 4728, thread id 4748]LOG]!><time="09:41:13.446-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="3060" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = -1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="09:41:16.427-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4220" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="09:41:16.427-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="4220" file="util.cpp:4269">
+<![LOG[Commandline: "C:\WINDOWS\system32\msiexec.exe" /i "InstallScript engine.msi" ALLUSERS="1" REBOOT="Suppress" /qb!
+Working directory: C:\_SMSTaskSequence\Packages\C0100349\
+Interactive: 0
+Window mode: 5]LOG]!><time="09:41:16.427-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4512" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 5076 for installation]LOG]!><time="09:41:16.443-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4512" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 5076, thread id 5088]LOG]!><time="09:41:16.443-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4220" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = -1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="09:41:49.408-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="3060" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="09:41:49.408-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="3060" file="util.cpp:4269">
+<![LOG[Commandline: "C:\_SMSTaskSequence\Packages\P1100180\setup.exe" /config SilentInstallConfig.xml
+Working directory: C:\_SMSTaskSequence\Packages\P1100180\
+Interactive: 0
+Window mode: 0]LOG]!><time="09:41:49.423-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4800" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 4832 for installation]LOG]!><time="09:41:49.470-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4800" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 4832, thread id 4996]LOG]!><time="09:41:49.470-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="3060" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = -1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="09:44:18.702-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="3060" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="09:44:18.702-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="3060" file="util.cpp:4269">
+<![LOG[Commandline: "C:\_SMSTaskSequence\Packages\P11005E3\AppInstall.cmd"
+Working directory: C:\_SMSTaskSequence\Packages\P11005E3\
+Interactive: 0
+Window mode: 5]LOG]!><time="09:44:18.718-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4512" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 4204 for installation]LOG]!><time="09:44:18.733-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4512" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 4204, thread id 3980]LOG]!><time="09:44:18.733-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="3060" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = -1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="09:44:22.027-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="3060" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="09:44:22.027-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="3060" file="util.cpp:4269">
+<![LOG[Commandline: "C:\_SMSTaskSequence\Packages\P11006FB\AppInstall.cmd"
+Working directory: C:\_SMSTaskSequence\Packages\P11006FB\
+Interactive: 0
+Window mode: 5]LOG]!><time="09:44:22.042-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="5028" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 3484 for installation]LOG]!><time="09:44:22.058-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="5028" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 3484, thread id 2812]LOG]!><time="09:44:22.058-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="3060" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = -1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="09:45:01.532-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="1136" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="09:45:01.532-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="1136" file="util.cpp:4269">
+<![LOG[Commandline: "C:\_SMSTaskSequence\Packages\P1100496\AppInstall.cmd"
+Working directory: C:\_SMSTaskSequence\Packages\P1100496\
+Interactive: 0
+Window mode: 5]LOG]!><time="09:45:01.547-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4760" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 276 for installation]LOG]!><time="09:45:01.563-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4760" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 276, thread id 3736]LOG]!><time="09:45:01.563-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="1136" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = -1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="09:46:42.470-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="3060" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="09:46:42.470-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="3060" file="util.cpp:4269">
+<![LOG[Commandline: "C:\_SMSTaskSequence\Packages\P1100809\AppInstall.cmd"
+Working directory: C:\_SMSTaskSequence\Packages\P1100809\
+Interactive: 0
+Window mode: 5]LOG]!><time="09:46:42.485-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="1444" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 940 for installation]LOG]!><time="09:46:42.501-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="1444" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 940, thread id 1068]LOG]!><time="09:46:42.501-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="3060" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = -1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="09:46:47.057-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4836" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="09:46:47.057-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="4836" file="util.cpp:4269">
+<![LOG[Commandline: "C:\WINDOWS\system32\msiexec.exe" /i "Setup.msi" ALLUSERS="1" REBOOT="ReallySuppress" /qb!
+Working directory: C:\_SMSTaskSequence\Packages\C0100727\
+Interactive: 0
+Window mode: 5]LOG]!><time="09:46:47.073-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="3492" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 4928 for installation]LOG]!><time="09:46:47.088-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="3492" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 4928, thread id 3900]LOG]!><time="09:46:47.088-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4836" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = -1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="09:46:49.054-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4836" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="09:46:49.054-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="4836" file="util.cpp:4269">
+<![LOG[Commandline: "C:\WINDOWS\system32\msiexec.exe" /i "My Workplace.msi" ALLUSERS=1 /qb!
+Working directory: C:\_SMSTaskSequence\Packages\C0100B37\
+Interactive: 0
+Window mode: 5]LOG]!><time="09:46:49.070-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4936" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 4824 for installation]LOG]!><time="09:46:49.070-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4936" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 4824, thread id 4160]LOG]!><time="09:46:49.070-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4836" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = -1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="09:46:50.583-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="3060" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="09:46:50.583-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="3060" file="util.cpp:4269">
+<![LOG[Commandline: "C:\WINDOWS\system32\wscript.exe" "InstTD.vbs" /action:INSTALL
+Working directory: C:\_SMSTaskSequence\Packages\C01005B9\
+Interactive: 0
+Window mode: 5]LOG]!><time="09:46:50.599-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="3344" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 3764 for installation]LOG]!><time="09:46:50.614-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="3344" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 3764, thread id 392]LOG]!><time="09:46:50.614-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="3060" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = -1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="09:46:53.314-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="3060" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="09:46:53.314-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="3060" file="util.cpp:4269">
+<![LOG[Commandline: "C:\WINDOWS\system32\msiexec.exe" /i "Control\ControlSetup.msi" ALLUSERS="1" REBOOT="ReallySuppress" /qb!
+Working directory: C:\_SMSTaskSequence\Packages\C01006D9\
+Interactive: 0
+Window mode: 5]LOG]!><time="09:46:53.329-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4656" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 2808 for installation]LOG]!><time="09:46:53.345-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4656" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 2808, thread id 1892]LOG]!><time="09:46:53.345-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="3060" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = -1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="09:46:56.091-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4836" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="09:46:56.091-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="4836" file="util.cpp:4269">
+<![LOG[Commandline: "C:\WINDOWS\system32\msiexec.exe" /i "WebDGN.msi" ALLUSERS="1" REBOOT="ReallySuppress" /qb!
+Working directory: C:\_SMSTaskSequence\Packages\C01006D8\
+Interactive: 0
+Window mode: 5]LOG]!><time="09:46:56.107-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="3392" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 4828 for installation]LOG]!><time="09:46:56.122-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="3392" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 4828, thread id 3936]LOG]!><time="09:46:56.122-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4836" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = -1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="09:46:58.478-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4836" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="09:46:58.478-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="4836" file="util.cpp:4269">
+<![LOG[Commandline: "C:\_SMSTaskSequence\Packages\P11005F8\1_McAfeeAgent_5.0.4_TS.cmd"
+Working directory: C:\_SMSTaskSequence\Packages\P11005F8\
+Interactive: 0
+Window mode: 5]LOG]!><time="09:46:58.494-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="764" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 3184 for installation]LOG]!><time="09:46:58.494-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="764" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 3184, thread id 3464]LOG]!><time="09:46:58.494-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4836" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = -1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="09:48:23.296-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="3024" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="09:48:23.296-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="3024" file="util.cpp:4269">
+<![LOG[Commandline: "C:\_SMSTaskSequence\Packages\P1100667\Install.cmd"
+Working directory: C:\_SMSTaskSequence\Packages\P1100667\
+Interactive: 0
+Window mode: 5]LOG]!><time="09:48:23.327-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="3120" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 4452 for installation]LOG]!><time="09:48:23.343-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="3120" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 4452, thread id 4904]LOG]!><time="09:48:23.343-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="3024" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = -1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="09:57:35.922-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4608" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="09:57:35.922-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="4608" file="util.cpp:4269">
+<![LOG[Commandline: "C:\_SMSTaskSequence\Packages\C0100F69\InstallSilent.cmd"
+Working directory: C:\_SMSTaskSequence\Packages\C0100F69\
+Interactive: 0
+Window mode: 0]LOG]!><time="09:57:35.969-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="5588" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 5608 for installation]LOG]!><time="09:57:35.985-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="5588" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 5608, thread id 5612]LOG]!><time="09:57:35.985-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4608" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = -1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="10:04:39.846-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="5504" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="10:04:39.846-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="5504" file="util.cpp:4269">
+<![LOG[Commandline: "C:\_SMSTaskSequence\Packages\P11005D8\AppInstall.cmd"
+Working directory: C:\_SMSTaskSequence\Packages\P11005D8\
+Interactive: 0
+Window mode: 5]LOG]!><time="10:04:39.924-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="6384" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 6404 for installation]LOG]!><time="10:04:39.956-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="6384" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 6404, thread id 6408]LOG]!><time="10:04:39.956-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="5504" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = -1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="10:05:00.480-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4680" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="10:05:00.480-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="4680" file="util.cpp:4269">
+<![LOG[Commandline: "C:\_SMSTaskSequence\Packages\P110066F\InstallSilent.cmd"
+Working directory: C:\_SMSTaskSequence\Packages\P110066F\
+Interactive: 0
+Window mode: 5]LOG]!><time="10:05:00.558-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="7136" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 492 for installation]LOG]!><time="10:05:00.574-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="7136" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 492, thread id 6156]LOG]!><time="10:05:00.574-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4680" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = -1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="10:05:26.858-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4680" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="10:05:26.858-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="4680" file="util.cpp:4269">
+<![LOG[Commandline: "C:\WINDOWS\system32\wscript.exe" "DisableNetBIOSoverTCPIP-Interfaces_all.vbs"
+Working directory: C:\_SMSTaskSequence\Packages\C0100E8A\
+Interactive: 0
+Window mode: 5]LOG]!><time="10:05:26.889-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="7100" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 6148 for installation]LOG]!><time="10:05:26.921-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="7100" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 6148, thread id 2132]LOG]!><time="10:05:26.921-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4680" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = -1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="10:05:28.621-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4680" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="10:05:28.621-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="4680" file="util.cpp:4269">
+<![LOG[Commandline: "C:\_SMSTaskSequence\Packages\P1100707\Copyfile.cmd"
+Working directory: C:\_SMSTaskSequence\Packages\P1100707\
+Interactive: 0
+Window mode: 5]LOG]!><time="10:05:28.637-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="7092" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 4396 for installation]LOG]!><time="10:05:28.653-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="7092" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 4396, thread id 7000]LOG]!><time="10:05:28.653-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="4680" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = -1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="10:15:24.456-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="6576" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="10:15:24.456-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="6576" file="util.cpp:4269">
+<![LOG[Commandline: "C:\WINDOWS\ccmcache\6\InstallSilent_x64.cmd"
+Working directory: C:\WINDOWS\ccmcache\6\
+Interactive: 0
+Window mode: 5]LOG]!><time="10:15:24.689-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="6888" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 6796 for installation]LOG]!><time="10:15:24.736-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="6888" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 6796, thread id 6824]LOG]!><time="10:15:24.736-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="6576" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = -1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="10:15:50.738-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="5224" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="10:15:50.738-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="5224" file="util.cpp:4269">
+<![LOG[Commandline: "C:\WINDOWS\ccmcache\5\InstMultiPkg.exe" /silent
+Working directory: C:\WINDOWS\ccmcache\5\
+Interactive: 0
+Window mode: 5]LOG]!><time="10:15:50.770-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="6852" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 620 for installation]LOG]!><time="10:15:50.785-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="6852" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 620, thread id 4420]LOG]!><time="10:15:50.801-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="5224" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = -1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="10:16:22.402-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="5224" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="10:16:22.402-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="5224" file="util.cpp:4269">
+<![LOG[Commandline: "C:\WINDOWS\ccmcache\9\Install_x64.cmd"
+Working directory: C:\WINDOWS\ccmcache\9\
+Interactive: 0
+Window mode: 5]LOG]!><time="10:16:22.434-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="1728" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 5964 for installation]LOG]!><time="10:16:22.434-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="1728" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 5964, thread id 3964]LOG]!><time="10:16:22.449-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="5224" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = -1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="10:18:45.852-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="6580" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="10:18:45.852-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="6580" file="util.cpp:4269">
+<![LOG[Commandline: "C:\WINDOWS\ccmcache\j\AppInstall.cmd"
+Working directory: C:\WINDOWS\ccmcache\j
+Interactive: 0
+Window mode: 0]LOG]!><time="10:18:45.883-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="6776" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 6736 for installation]LOG]!><time="10:18:45.883-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="6776" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 6736, thread id 6452]LOG]!><time="10:18:45.883-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="6580" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = -1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="10:20:12.662-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="3636" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="10:20:12.662-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="3636" file="util.cpp:4269">
+<![LOG[Commandline: "C:\WINDOWS\ccmcache\7\HPInstaller.exe" /S
+Working directory: C:\WINDOWS\ccmcache\7\
+Interactive: 0
+Window mode: 5]LOG]!><time="10:20:12.693-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="6600" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 6624 for installation]LOG]!><time="10:20:12.818-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="6600" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 6624, thread id 6628]LOG]!><time="10:20:12.834-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="3636" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = -1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="10:21:00.636-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="6092" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="10:21:00.636-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="6092" file="util.cpp:4269">
+<![LOG[Commandline: "C:\WINDOWS\ccmcache\4\InstMultiPkg.exe" /silent
+Working directory: C:\WINDOWS\ccmcache\4\
+Interactive: 0
+Window mode: 5]LOG]!><time="10:21:00.667-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="7000" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 1344 for installation]LOG]!><time="10:21:00.698-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="7000" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 1344, thread id 3372]LOG]!><time="10:21:00.698-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="6092" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = -1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="10:21:54.229-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="6092" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="10:21:54.229-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="6092" file="util.cpp:4269">
+<![LOG[Commandline: "C:\WINDOWS\ccmcache\8\InstMultiPkg.exe" /silent
+Working directory: C:\WINDOWS\ccmcache\8\
+Interactive: 0
+Window mode: 5]LOG]!><time="10:21:54.260-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="2448" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 6516 for installation]LOG]!><time="10:21:54.276-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="2448" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 6516, thread id 7032]LOG]!><time="10:21:54.276-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="6092" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = -1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="10:24:20.538-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="3636" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="10:24:20.538-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="3636" file="util.cpp:4269">
+<![LOG[Commandline: "C:\WINDOWS\ccmcache\b\Setup.exe" /s /q
+Working directory: C:\WINDOWS\ccmcache\b\
+Interactive: 0
+Window mode: 5]LOG]!><time="10:24:20.663-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="3156" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 2460 for installation]LOG]!><time="10:24:20.710-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="3156" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 2460, thread id 1056]LOG]!><time="10:24:20.710-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="3636" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = 1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="10:27:13.762-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="7216" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="10:27:13.762-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="7216" file="util.cpp:4269">
+<![LOG[Commandline: "C:\WINDOWS\system32\cscript.exe" Enable_wlan_Switching.vbs
+Working directory: C:\WINDOWS\ccmcache\c\
+Interactive: 0
+Window mode: 0]LOG]!><time="10:27:13.794-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="7308" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 4844 for installation]LOG]!><time="10:27:13.809-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="7308" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 4844, thread id 4388]LOG]!><time="10:27:13.809-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="7216" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = 1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="10:27:16.821-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="7216" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="10:27:16.821-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="7216" file="util.cpp:4269">
+<![LOG[Commandline: "C:\WINDOWS\ccmcache\d\ccmsetup.exe" /AutoUpgrade /UpgradePackageVersion:4
+Working directory: C:\WINDOWS\ccmcache\d\
+Interactive: 0
+Window mode: 0]LOG]!><time="10:27:16.852-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="8932" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 8504 for installation]LOG]!><time="10:27:16.868-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="8932" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 8504, thread id 2068]LOG]!><time="10:27:16.868-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="7216" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = 1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="10:27:19.630-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="7216" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="10:27:19.630-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="7216" file="util.cpp:4269">
+<![LOG[Commandline: "C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe" -ExecutionPolicy Bypass -file .\Appv5_fix.ps1
+Working directory: C:\WINDOWS\ccmcache\e\
+Interactive: 0
+Window mode: 0]LOG]!><time="10:27:19.645-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="8536" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 9224 for installation]LOG]!><time="10:27:19.676-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="8536" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 9224, thread id 9228]LOG]!><time="10:27:19.676-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="7216" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = 1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="10:27:22.001-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="1432" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="10:27:22.001-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="1432" file="util.cpp:4269">
+<![LOG[Commandline: "C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe" -ExecutionPolicy Bypass -file .\Appv46_fix.ps1
+Working directory: C:\WINDOWS\ccmcache\f\
+Interactive: 0
+Window mode: 0]LOG]!><time="10:27:22.033-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="9340" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 9360 for installation]LOG]!><time="10:27:22.033-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="9340" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 9360, thread id 9364]LOG]!><time="10:27:22.033-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="1432" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = 1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="10:27:23.109-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="7216" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="10:27:23.109-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="7216" file="util.cpp:4269">
+<![LOG[Commandline: "C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe" -ExecutionPolicy Bypass -file .\Appv5_startup_fix.ps1
+Working directory: C:\WINDOWS\ccmcache\g\
+Interactive: 0
+Window mode: 0]LOG]!><time="10:27:23.125-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="9468" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 9488 for installation]LOG]!><time="10:27:23.140-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="9468" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 9488, thread id 9492]LOG]!><time="10:27:23.140-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="7216" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = 1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="10:27:24.514-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="1432" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="10:27:24.514-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="1432" file="util.cpp:4269">
+<![LOG[Commandline: "C:\WINDOWS\ccmcache\h\AppVRegFixKB2984972_x64.bat"
+Working directory: C:\WINDOWS\ccmcache\h\
+Interactive: 0
+Window mode: 5]LOG]!><time="10:27:24.545-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="9616" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 9636 for installation]LOG]!><time="10:27:24.607-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="9616" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 9636, thread id 9640]LOG]!><time="10:27:24.607-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="1432" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = 1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="10:27:25.200-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="3732" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="10:27:25.200-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="3732" file="util.cpp:4269">
+<![LOG[Commandline: "C:\WINDOWS\ccmcache\i\InstallSilent_x64.cmd"
+Working directory: C:\WINDOWS\ccmcache\i\
+Interactive: 0
+Window mode: 5]LOG]!><time="10:27:25.216-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="9680" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 9700 for installation]LOG]!><time="10:27:25.231-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="9680" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 9700, thread id 9704]LOG]!><time="10:27:25.231-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="3732" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = 1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="10:27:39.824-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="7216" file="ccm32bitwrapper.cpp:122">
+<![LOG[CcmCreateProcess: Running from CcmExec or CcmExec not treated as managed installer; calling CreateProcess directly.]LOG]!><time="10:27:39.824-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="0" thread="7216" file="util.cpp:4269">
+<![LOG[Commandline: "C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe" -ExecutionPolicy Bypass -file .\OneDrive4B_shortcut.ps1
+Working directory: C:\WINDOWS\ccmcache\a\
+Interactive: 0
+Window mode: 0]LOG]!><time="10:27:39.839-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="9460" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 9412 for installation]LOG]!><time="10:27:39.855-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="9460" file="ccm32bitlauncher.cpp:372">
+<![LOG[Ccm32BitLaucher created: process id 9412, thread id 10024]LOG]!><time="10:27:39.855-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="7216" file="ccm32bitwrapper.cpp:384">
+<![LOG[SessionId = 1; SystemContext = 1; Interactive = 1; UseNAA = 0]LOG]!><time="13:05:52.163-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="5776" file="ccm32bitwrapper.cpp:122">
+<![LOG[Commandline: "C:\WINDOWS\system32\msiexec.exe" /i "PPactiveXFix.msi" ALLUSERS=1 /qb!
+Working directory: C:\WINDOWS\ccmcache\1q\
+Interactive: 1
+Window mode: 5]LOG]!><time="13:05:52.282-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="10196" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 7932 for installation]LOG]!><time="13:05:52.308-60" date="11-10-2017" component="Ccm32BitLauncher" context="" type="1" thread="10196" file="ccm32bitlauncher.cpp:372">
+<![LOG[SessionId = -1; SystemContext = 1; Interactive = 1; UseNAA = 0]LOG]!><time="12:47:30.485-60" date="12-11-2017" component="Ccm32BitLauncher" context="" type="1" thread="6728" file="ccm32bitwrapper.cpp:122">
+<![LOG[Commandline: "C:\WINDOWS\system32\msiexec.exe" /i "IT Order & Delivery.msi" ALLUSERS=1 /qb-!
+Working directory: C:\WINDOWS\ccmcache\1r\
+Interactive: 1
+Window mode: 5]LOG]!><time="12:47:30.672-60" date="12-11-2017" component="Ccm32BitLauncher" context="" type="1" thread="1372" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 6168 for installation]LOG]!><time="12:47:30.703-60" date="12-11-2017" component="Ccm32BitLauncher" context="" type="1" thread="1372" file="ccm32bitlauncher.cpp:372">
+<![LOG[SessionId = 1; SystemContext = 0; Interactive = 1; UseNAA = 0]LOG]!><time="12:51:14.738-60" date="12-11-2017" component="Ccm32BitLauncher" context="" type="1" thread="1516" file="ccm32bitwrapper.cpp:122">
+<![LOG[Commandline: "C:\WINDOWS\ccmcache\1s\AppInstall.cmd"
+Working directory: C:\WINDOWS\ccmcache\1s
+Interactive: 1
+Window mode: 0]LOG]!><time="12:51:15.768-60" date="12-11-2017" component="Ccm32BitLauncher" context="" type="1" thread="6932" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 7424 for installation]LOG]!><time="12:51:16.485-60" date="12-11-2017" component="Ccm32BitLauncher" context="" type="1" thread="6932" file="ccm32bitlauncher.cpp:372">
+<![LOG[SessionId = 1; SystemContext = 0; Interactive = 1; UseNAA = 0]LOG]!><time="12:52:44.038-60" date="12-11-2017" component="Ccm32BitLauncher" context="" type="1" thread="7488" file="ccm32bitwrapper.cpp:122">
+<![LOG[Commandline: "C:\WINDOWS\ccmcache\1s\AppInstall.cmd"
+Working directory: C:\WINDOWS\ccmcache\1s
+Interactive: 1
+Window mode: 0]LOG]!><time="12:52:44.158-60" date="12-11-2017" component="Ccm32BitLauncher" context="" type="1" thread="7136" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 8976 for installation]LOG]!><time="12:52:44.277-60" date="12-11-2017" component="Ccm32BitLauncher" context="" type="1" thread="7136" file="ccm32bitlauncher.cpp:372">
+<![LOG[SessionId = 1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="13:34:25.351-60" date="12-11-2017" component="Ccm32BitLauncher" context="" type="1" thread="4868" file="ccm32bitwrapper.cpp:122">
+<![LOG[Commandline: "C:\WINDOWS\ccmcache\23\Install.cmd"
+Working directory: C:\WINDOWS\ccmcache\23\
+Interactive: 0
+Window mode: 5]LOG]!><time="13:34:25.554-60" date="12-11-2017" component="Ccm32BitLauncher" context="" type="1" thread="9884" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 2984 for installation]LOG]!><time="13:34:25.601-60" date="12-11-2017" component="Ccm32BitLauncher" context="" type="1" thread="9884" file="ccm32bitlauncher.cpp:372">
+<![LOG[SessionId = 1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="13:34:47.675-60" date="12-11-2017" component="Ccm32BitLauncher" context="" type="1" thread="9964" file="ccm32bitwrapper.cpp:122">
+<![LOG[Commandline: "C:\WINDOWS\ccmcache\21\Install.cmd"
+Working directory: C:\WINDOWS\ccmcache\21\
+Interactive: 0
+Window mode: 5]LOG]!><time="13:34:47.722-60" date="12-11-2017" component="Ccm32BitLauncher" context="" type="1" thread="9848" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 2448 for installation]LOG]!><time="13:34:47.737-60" date="12-11-2017" component="Ccm32BitLauncher" context="" type="1" thread="9848" file="ccm32bitlauncher.cpp:372">
+<![LOG[SessionId = 1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="13:37:04.175-60" date="12-11-2017" component="Ccm32BitLauncher" context="" type="1" thread="7408" file="ccm32bitwrapper.cpp:122">
+<![LOG[Commandline: "C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe" -ExecutionPolicy Bypass -file .\fw_check.ps1
+Working directory: C:\WINDOWS\ccmcache\22\
+Interactive: 0
+Window mode: 0]LOG]!><time="13:37:04.269-60" date="12-11-2017" component="Ccm32BitLauncher" context="" type="1" thread="8608" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 4320 for installation]LOG]!><time="13:37:04.347-60" date="12-11-2017" component="Ccm32BitLauncher" context="" type="1" thread="8608" file="ccm32bitlauncher.cpp:372">
+<![LOG[SessionId = 1; SystemContext = 0; Interactive = 1; UseNAA = 0]LOG]!><time="14:18:13.860-60" date="12-11-2017" component="Ccm32BitLauncher" context="" type="1" thread="2940" file="ccm32bitwrapper.cpp:122">
+<![LOG[Commandline: "C:\WINDOWS\ccmcache\1s\AppInstall.cmd"
+Working directory: C:\WINDOWS\ccmcache\1s
+Interactive: 1
+Window mode: 0]LOG]!><time="14:18:13.969-60" date="12-11-2017" component="Ccm32BitLauncher" context="" type="1" thread="7800" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 3152 for installation]LOG]!><time="14:18:13.984-60" date="12-11-2017" component="Ccm32BitLauncher" context="" type="1" thread="7800" file="ccm32bitlauncher.cpp:372">
+<![LOG[SessionId = 1; SystemContext = 0; Interactive = 1; UseNAA = 0]LOG]!><time="14:28:13.943-60" date="12-11-2017" component="Ccm32BitLauncher" context="" type="1" thread="1884" file="ccm32bitwrapper.cpp:122">
+<![LOG[Commandline: "C:\WINDOWS\system32\msiexec.exe" /i MicrosoftFixit51029.msi /quiet
+Working directory: C:\WINDOWS\ccmcache\24\
+Interactive: 1
+Window mode: 5]LOG]!><time="14:28:13.975-60" date="12-11-2017" component="Ccm32BitLauncher" context="" type="1" thread="6244" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 4408 for installation]LOG]!><time="14:28:13.988-60" date="12-11-2017" component="Ccm32BitLauncher" context="" type="1" thread="6244" file="ccm32bitlauncher.cpp:372">
+<![LOG[SessionId = 1; SystemContext = 0; Interactive = 1; UseNAA = 0]LOG]!><time="14:28:33.438-60" date="12-11-2017" component="Ccm32BitLauncher" context="" type="1" thread="5876" file="ccm32bitwrapper.cpp:122">
+<![LOG[Commandline: "C:\WINDOWS\ccmcache\1s\AppInstall.cmd"
+Working directory: C:\WINDOWS\ccmcache\1s
+Interactive: 1
+Window mode: 0]LOG]!><time="14:28:33.477-60" date="12-11-2017" component="Ccm32BitLauncher" context="" type="1" thread="1760" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 7052 for installation]LOG]!><time="14:28:33.488-60" date="12-11-2017" component="Ccm32BitLauncher" context="" type="1" thread="1760" file="ccm32bitlauncher.cpp:372">
+<![LOG[SessionId = -1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="15:47:47.545-60" date="12-11-2017" component="Ccm32BitLauncher" context="" type="1" thread="7856" file="ccm32bitwrapper.cpp:122">
+<![LOG[Commandline: "C:\WINDOWS\ccmcache\k\AppInstall.cmd"
+Working directory: C:\WINDOWS\ccmcache\k
+Interactive: 0
+Window mode: 0]LOG]!><time="15:47:47.716-60" date="12-11-2017" component="Ccm32BitLauncher" context="" type="1" thread="4700" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 4128 for installation]LOG]!><time="15:47:47.729-60" date="12-11-2017" component="Ccm32BitLauncher" context="" type="1" thread="4700" file="ccm32bitlauncher.cpp:372">
+<![LOG[SessionId = 1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="14:45:48.155-60" date="12-17-2017" component="Ccm32BitLauncher" context="" type="1" thread="5040" file="ccm32bitwrapper.cpp:122">
+<![LOG[Commandline: "C:\WINDOWS\ccmcache\25\Install.cmd"
+Working directory: C:\WINDOWS\ccmcache\25\
+Interactive: 0
+Window mode: 0]LOG]!><time="14:45:48.217-60" date="12-17-2017" component="Ccm32BitLauncher" context="" type="1" thread="7656" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 7680 for installation]LOG]!><time="14:45:48.248-60" date="12-17-2017" component="Ccm32BitLauncher" context="" type="1" thread="7656" file="ccm32bitlauncher.cpp:372">
+<![LOG[SessionId = 1; SystemContext = 0; Interactive = 1; UseNAA = 0]LOG]!><time="14:46:11.929-60" date="12-17-2017" component="Ccm32BitLauncher" context="" type="1" thread="3500" file="ccm32bitwrapper.cpp:122">
+<![LOG[Commandline: "C:\WINDOWS\ccmcache\1s\AppInstall.cmd"
+Working directory: C:\WINDOWS\ccmcache\1s
+Interactive: 1
+Window mode: 0]LOG]!><time="14:46:11.976-60" date="12-17-2017" component="Ccm32BitLauncher" context="" type="1" thread="1952" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 3260 for installation]LOG]!><time="14:46:11.976-60" date="12-17-2017" component="Ccm32BitLauncher" context="" type="1" thread="1952" file="ccm32bitlauncher.cpp:372">
+<![LOG[SessionId = 1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="12:56:36.583-60" date="01-22-2018" component="Ccm32BitLauncher" context="" type="1" thread="1936" file="ccm32bitwrapper.cpp:122">
+<![LOG[Commandline: "C:\WINDOWS\ccmcache\1r\UninstallSilent.cmd"
+Working directory: C:\WINDOWS\ccmcache\1r\
+Interactive: 0
+Window mode: 0]LOG]!><time="12:56:36.724-60" date="01-22-2018" component="Ccm32BitLauncher" context="" type="1" thread="6096" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 5864 for installation]LOG]!><time="12:56:36.755-60" date="01-22-2018" component="Ccm32BitLauncher" context="" type="1" thread="6096" file="ccm32bitlauncher.cpp:372">
+<![LOG[SessionId = -1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="11:25:59.942-60" date="01-24-2018" component="Ccm32BitLauncher" context="" type="1" thread="9100" file="ccm32bitwrapper.cpp:122">
+<![LOG[Commandline: "C:\WINDOWS\ccmcache\39\AppInstall.cmd"
+Working directory: C:\WINDOWS\ccmcache\39
+Interactive: 0
+Window mode: 0]LOG]!><time="11:25:59.982-60" date="01-24-2018" component="Ccm32BitLauncher" context="" type="1" thread="7292" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 1560 for installation]LOG]!><time="11:25:59.992-60" date="01-24-2018" component="Ccm32BitLauncher" context="" type="1" thread="7292" file="ccm32bitlauncher.cpp:372">
+<![LOG[SessionId = -1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="07:28:15.087-60" date="01-25-2018" component="Ccm32BitLauncher" context="" type="1" thread="5180" file="ccm32bitwrapper.cpp:122">
+<![LOG[Commandline: "C:\WINDOWS\ccmcache\39\AppInstall.cmd"
+Working directory: C:\WINDOWS\ccmcache\39
+Interactive: 0
+Window mode: 0]LOG]!><time="07:28:15.134-60" date="01-25-2018" component="Ccm32BitLauncher" context="" type="1" thread="6444" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 156 for installation]LOG]!><time="07:28:15.147-60" date="01-25-2018" component="Ccm32BitLauncher" context="" type="1" thread="6444" file="ccm32bitlauncher.cpp:372">
+<![LOG[SessionId = -1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="11:21:46.449-60" date="01-25-2018" component="Ccm32BitLauncher" context="" type="1" thread="10668" file="ccm32bitwrapper.cpp:122">
+<![LOG[Commandline: "C:\WINDOWS\ccmcache\39\AppInstall.cmd"
+Working directory: C:\WINDOWS\ccmcache\39
+Interactive: 0
+Window mode: 0]LOG]!><time="11:21:46.483-60" date="01-25-2018" component="Ccm32BitLauncher" context="" type="1" thread="12572" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 13128 for installation]LOG]!><time="11:21:46.496-60" date="01-25-2018" component="Ccm32BitLauncher" context="" type="1" thread="12572" file="ccm32bitlauncher.cpp:372">
+<![LOG[SessionId = -1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="14:32:12.213-60" date="01-25-2018" component="Ccm32BitLauncher" context="" type="1" thread="2996" file="ccm32bitwrapper.cpp:122">
+<![LOG[Commandline: "C:\WINDOWS\ccmcache\39\AppInstall.cmd"
+Working directory: C:\WINDOWS\ccmcache\39
+Interactive: 0
+Window mode: 0]LOG]!><time="14:32:12.293-60" date="01-25-2018" component="Ccm32BitLauncher" context="" type="1" thread="14860" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 13532 for installation]LOG]!><time="14:32:12.310-60" date="01-25-2018" component="Ccm32BitLauncher" context="" type="1" thread="14860" file="ccm32bitlauncher.cpp:372">
+<![LOG[SessionId = -1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="07:23:24.589-60" date="01-27-2018" component="Ccm32BitLauncher" context="" type="1" thread="6952" file="ccm32bitwrapper.cpp:122">
+<![LOG[Commandline: "C:\WINDOWS\ccmcache\39\AppInstall.cmd"
+Working directory: C:\WINDOWS\ccmcache\39
+Interactive: 0
+Window mode: 0]LOG]!><time="07:23:24.718-60" date="01-27-2018" component="Ccm32BitLauncher" context="" type="1" thread="6984" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 8420 for installation]LOG]!><time="07:23:24.741-60" date="01-27-2018" component="Ccm32BitLauncher" context="" type="1" thread="6984" file="ccm32bitlauncher.cpp:372">
+<![LOG[SessionId = 1; SystemContext = 0; Interactive = 1; UseNAA = 0]LOG]!><time="06:50:22.978-60" date="02-01-2018" component="Ccm32BitLauncher" context="" type="1" thread="8336" file="ccm32bitwrapper.cpp:122">
+<![LOG[Commandline: "C:\WINDOWS\System32\WScript.exe" "C:\WINDOWS\DLM\GenerateLinks.vbs"
+Working directory: C:\WINDOWS\ccmcache\3j\
+Interactive: 1
+Window mode: 5]LOG]!><time="06:50:23.031-60" date="02-01-2018" component="Ccm32BitLauncher" context="" type="1" thread="12836" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 1664 for installation]LOG]!><time="06:50:23.047-60" date="02-01-2018" component="Ccm32BitLauncher" context="" type="1" thread="12836" file="ccm32bitlauncher.cpp:372">
+<![LOG[SessionId = 1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="04:36:42.336-60" date="03-06-2018" component="Ccm32BitLauncher" context="" type="1" thread="3576" file="ccm32bitwrapper.cpp:122">
+<![LOG[Commandline: "C:\WINDOWS\ccmcache\4b\ccmsetup.exe" /AutoUpgrade /UpgradePackageVersion:4
+Working directory: C:\WINDOWS\ccmcache\4b\
+Interactive: 0
+Window mode: 0]LOG]!><time="04:36:42.454-60" date="03-06-2018" component="Ccm32BitLauncher" context="" type="1" thread="8524" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 2432 for installation]LOG]!><time="04:36:42.611-60" date="03-06-2018" component="Ccm32BitLauncher" context="" type="1" thread="8524" file="ccm32bitlauncher.cpp:372">
+<![LOG[SessionId = 1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="08:43:59.569-60" date="03-08-2018" component="Ccm32BitLauncher" context="" type="1" thread="3052" file="ccm32bitwrapper.cpp:122">
+<![LOG[Commandline: "C:\WINDOWS\ccmsetup\ccmsetup.exe" /autoupgrade /PerformUpgrade
+Working directory: C:\WINDOWS\ccmsetup\
+Interactive: 0
+Window mode: 0]LOG]!><time="08:43:59.620-60" date="03-08-2018" component="Ccm32BitLauncher" context="" type="1" thread="10620" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 11288 for installation]LOG]!><time="08:43:59.635-60" date="03-08-2018" component="Ccm32BitLauncher" context="" type="1" thread="10620" file="ccm32bitlauncher.cpp:372">
+<![LOG[SessionId = 1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="06:39:13.659-60" date="03-16-2018" component="Ccm32BitLauncher" context="" type="1" thread="6116" file="Ccm32BitWrapper.cpp:122">
+<![LOG[Commandline: "C:\WINDOWS\ccmcache\4p\Install.cmd"
+Working directory: C:\WINDOWS\ccmcache\4p\
+Interactive: 0
+Window mode: 0]LOG]!><time="06:39:13.779-60" date="03-16-2018" component="Ccm32BitLauncher" context="" type="1" thread="1356" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 8864 for installation]LOG]!><time="06:39:13.799-60" date="03-16-2018" component="Ccm32BitLauncher" context="" type="1" thread="1356" file="ccm32bitlauncher.cpp:372">
+<![LOG[SessionId = 1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="06:20:41.598-120" date="05-10-2018" component="Ccm32BitLauncher" context="" type="1" thread="41840" file="Ccm32BitWrapper.cpp:122">
+<![LOG[Commandline: "C:\WINDOWS\ccmcache\9a\ccmsetup.exe" /AutoUpgrade /UpgradePackageVersion:4
+Working directory: C:\WINDOWS\ccmcache\9a\
+Interactive: 0
+Window mode: 0]LOG]!><time="06:20:41.672-120" date="05-10-2018" component="Ccm32BitLauncher" context="" type="1" thread="35412" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 41368 for installation]LOG]!><time="06:20:41.833-120" date="05-10-2018" component="Ccm32BitLauncher" context="" type="1" thread="35412" file="ccm32bitlauncher.cpp:372">
+<![LOG[SessionId = 1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="06:19:05.860-120" date="05-14-2018" component="Ccm32BitLauncher" context="" type="1" thread="1614104" file="Ccm32BitWrapper.cpp:122">
+<![LOG[Commandline: "C:\WINDOWS\ccmsetup\ccmsetup.exe" /autoupgrade /PerformUpgrade
+Working directory: C:\WINDOWS\ccmsetup\
+Interactive: 0
+Window mode: 0]LOG]!><time="06:19:05.947-120" date="05-14-2018" component="Ccm32BitLauncher" context="" type="1" thread="1620500" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 1620520 for installation]LOG]!><time="06:19:05.965-120" date="05-14-2018" component="Ccm32BitLauncher" context="" type="1" thread="1620500" file="ccm32bitlauncher.cpp:372">
+<![LOG[SessionId = 1; SystemContext = 1; Interactive = 1; UseNAA = 0]LOG]!><time="12:55:47.834-120" date="05-14-2018" component="Ccm32BitLauncher" context="" type="1" thread="403844" file="Ccm32BitWrapper.cpp:122">
+<![LOG[Commandline: "C:\WINDOWS\System32\WScript.exe" "\\dp22tssehanz2.tcad.telia.se\smspkgd$\c010115c\Uninstall_Products.vbs" {4A03706F-666A-4037-7777-5F2748764D10}
+Working directory: \\dp22tssehanz2.tcad.telia.se\smspkgd$\c010115c\
+Interactive: 1
+Window mode: 5]LOG]!><time="12:55:47.947-120" date="05-14-2018" component="Ccm32BitLauncher" context="" type="1" thread="415304" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 413760 for installation]LOG]!><time="12:55:47.974-120" date="05-14-2018" component="Ccm32BitLauncher" context="" type="1" thread="415304" file="ccm32bitlauncher.cpp:372">
+<![LOG[SessionId = 1; SystemContext = 1; Interactive = 1; UseNAA = 0]LOG]!><time="20:00:59.634-120" date="05-17-2018" component="Ccm32BitLauncher" context="" type="1" thread="1840624" file="Ccm32BitWrapper.cpp:122">
+<![LOG[Commandline: "C:\WINDOWS\ccmcache\9g\Installer.exe" "Office Templates" "winword.exe"
+Working directory: C:\WINDOWS\ccmcache\9g
+Interactive: 1
+Window mode: 0]LOG]!><time="20:00:59.865-120" date="05-17-2018" component="Ccm32BitLauncher" context="" type="1" thread="1841208" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 1842000 for installation]LOG]!><time="20:01:00.267-120" date="05-17-2018" component="Ccm32BitLauncher" context="" type="1" thread="1841208" file="ccm32bitlauncher.cpp:372">
+<![LOG[SessionId = 1; SystemContext = 0; Interactive = 1; UseNAA = 0]LOG]!><time="11:29:41.186-120" date="05-18-2018" component="Ccm32BitLauncher" context="" type="1" thread="15964" file="Ccm32BitWrapper.cpp:122">
+<![LOG[Commandline: "C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe" -ExecutionPolicy Bypass -file .\OneDrive_Forced.ps1
+Working directory: C:\WINDOWS\ccmcache\9h\
+Interactive: 1
+Window mode: 0]LOG]!><time="11:29:41.236-120" date="05-18-2018" component="Ccm32BitLauncher" context="" type="1" thread="16720" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 10312 for installation]LOG]!><time="11:29:41.246-120" date="05-18-2018" component="Ccm32BitLauncher" context="" type="1" thread="16720" file="ccm32bitlauncher.cpp:372">
+<![LOG[SessionId = -1; SystemContext = 1; Interactive = 0; UseNAA = 0]LOG]!><time="13:31:32.167-120" date="10-03-2018" component="Ccm32BitLauncher" context="" type="1" thread="10856" file="Ccm32BitWrapper.cpp:122">
+<![LOG[Commandline: "C:\WINDOWS\ccmcache\as\AppInstall.cmd"
+Working directory: C:\WINDOWS\ccmcache\as
+Interactive: 0
+Window mode: 0]LOG]!><time="13:31:32.231-120" date="10-03-2018" component="Ccm32BitLauncher" context="" type="1" thread="1648" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 3048 for installation]LOG]!><time="13:31:32.247-120" date="10-03-2018" component="Ccm32BitLauncher" context="" type="1" thread="1648" file="ccm32bitlauncher.cpp:372">
+<![LOG[SessionId = 1; SystemContext = 1; Interactive = 1; UseNAA = 0]LOG]!><time="13:31:42.809-120" date="10-03-2018" component="Ccm32BitLauncher" context="" type="1" thread="10856" file="Ccm32BitWrapper.cpp:122">
+<![LOG[Commandline: "C:\WINDOWS\ccmcache\at\Installer.exe" "Office Addins" "outlook.exe"
+Working directory: C:\WINDOWS\ccmcache\at
+Interactive: 1
+Window mode: 0]LOG]!><time="13:31:42.856-120" date="10-03-2018" component="Ccm32BitLauncher" context="" type="1" thread="1200" file="ccm32bitlauncher.cpp:332">
+<![LOG[Launched process 10432 for installation]LOG]!><time="13:31:43.015-120" date="10-03-2018" component="Ccm32BitLauncher" context="" type="1" thread="1200" file="ccm32bitlauncher.cpp:372">

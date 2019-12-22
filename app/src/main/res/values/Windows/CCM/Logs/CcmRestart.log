@@ -1,0 +1,63 @@
+﻿<![LOG[Initializing CcmRestart task.]LOG]!><time="10:09:49.033-60" date="11-10-2017" component="CcmRestart" context="" type="1" thread="6560" file="ccmrestart.cpp:455">
+<![LOG[Setting default logging component for process.]LOG]!><time="10:09:49.033-60" date="11-10-2017" component="CcmRestart" context="" type="1" thread="6560" file="ccmrestart.cpp:64">
+<![LOG[Creating CcmRestart process mutex.]LOG]!><time="10:09:49.033-60" date="11-10-2017" component="CcmRestart" context="" type="1" thread="6560" file="ccmrestart.cpp:74">
+<![LOG[CcmRestart task initializiation succeeded.]LOG]!><time="10:09:49.049-60" date="11-10-2017" component="CcmRestart" context="" type="1" thread="6560" file="ccmrestart.cpp:465">
+<![LOG[Command line is: C:\WINDOWS\CCM\CcmRestart.exe]LOG]!><time="10:09:49.049-60" date="11-10-2017" component="CcmRestart" context="" type="0" thread="6560" file="ccmrestart.cpp:208">
+<![LOG[No arguments specified.]LOG]!><time="10:09:49.049-60" date="11-10-2017" component="CcmRestart" context="" type="0" thread="6560" file="ccmrestart.cpp:218">
+<![LOG[Stopped the service 'CcmExec' successfully]LOG]!><time="10:09:49.563-60" date="11-10-2017" component="CcmRestart" context="" type="1" thread="6560" file="servicecontrol.cpp:267">
+<![LOG[CcmExec has been successfully restarted.]LOG]!><time="10:09:50.125-60" date="11-10-2017" component="CcmRestart" context="" type="1" thread="6560" file="ccmrestart.cpp:175">
+<![LOG[Initializing CcmRestart task.]LOG]!><time="10:11:36.978-60" date="11-10-2017" component="CcmRestart" context="" type="1" thread="5812" file="ccmrestart.cpp:455">
+<![LOG[Setting default logging component for process.]LOG]!><time="10:11:36.978-60" date="11-10-2017" component="CcmRestart" context="" type="1" thread="5812" file="ccmrestart.cpp:64">
+<![LOG[Creating CcmRestart process mutex.]LOG]!><time="10:11:36.978-60" date="11-10-2017" component="CcmRestart" context="" type="1" thread="5812" file="ccmrestart.cpp:74">
+<![LOG[CcmRestart task initializiation succeeded.]LOG]!><time="10:11:36.978-60" date="11-10-2017" component="CcmRestart" context="" type="1" thread="5812" file="ccmrestart.cpp:465">
+<![LOG[Command line is: C:\WINDOWS\CCM\CcmRestart.exe]LOG]!><time="10:11:36.978-60" date="11-10-2017" component="CcmRestart" context="" type="0" thread="5812" file="ccmrestart.cpp:208">
+<![LOG[No arguments specified.]LOG]!><time="10:11:36.978-60" date="11-10-2017" component="CcmRestart" context="" type="0" thread="5812" file="ccmrestart.cpp:218">
+<![LOG[Stopped the service 'CcmExec' successfully]LOG]!><time="10:12:24.859-60" date="11-10-2017" component="CcmRestart" context="" type="1" thread="5812" file="servicecontrol.cpp:267">
+<![LOG[CcmExec has been successfully restarted.]LOG]!><time="10:12:25.436-60" date="11-10-2017" component="CcmRestart" context="" type="1" thread="5812" file="ccmrestart.cpp:175">
+<![LOG[Initializing CcmRestart task.]LOG]!><time="10:37:37.545-60" date="11-10-2017" component="CcmRestart" context="" type="1" thread="6456" file="ccmrestart.cpp:455">
+<![LOG[Setting default logging component for process.]LOG]!><time="10:37:37.545-60" date="11-10-2017" component="CcmRestart" context="" type="1" thread="6456" file="ccmrestart.cpp:64">
+<![LOG[Creating CcmRestart process mutex.]LOG]!><time="10:37:37.545-60" date="11-10-2017" component="CcmRestart" context="" type="1" thread="6456" file="ccmrestart.cpp:74">
+<![LOG[CcmRestart task initializiation succeeded.]LOG]!><time="10:37:37.545-60" date="11-10-2017" component="CcmRestart" context="" type="1" thread="6456" file="ccmrestart.cpp:465">
+<![LOG[Command line is: C:\WINDOWS\CCM\CcmRestart.exe /deleteoutgoingqueues /updatedtstimeouts]LOG]!><time="10:37:37.545-60" date="11-10-2017" component="CcmRestart" context="" type="0" thread="6456" file="ccmrestart.cpp:208">
+<![LOG[/deleteoutgoingqueues option found.]LOG]!><time="10:37:37.545-60" date="11-10-2017" component="CcmRestart" context="" type="0" thread="6456" file="ccmrestart.cpp:241">
+<![LOG[/updatedtstimeouts option found.]LOG]!><time="10:37:37.545-60" date="11-10-2017" component="CcmRestart" context="" type="0" thread="6456" file="ccmrestart.cpp:246">
+<![LOG[Trying to update unmanaged DTS jobs with new timeout.]LOG]!><time="10:37:37.545-60" date="11-10-2017" component="CcmRestart" context="" type="1" thread="6456" file="ccmrestart.cpp:282">
+<![LOG[spDTS->HandleHostChange(c_dwUpdatedDTSJobTimeout), HRESULT=87d00200 (e:\nts_sccm_release\sms\framework\messaging\ccmrestart\ccmrestart.cpp,403)]LOG]!><time="10:37:37.560-60" date="11-10-2017" component="CcmRestart" context="" type="0" thread="6456" file="ccmrestart.cpp:403">
+<![LOG[Failed to update timeout on DTS jobs. (0x87d00200)]LOG]!><time="10:37:37.560-60" date="11-10-2017" component="CcmRestart" context="" type="2" thread="6456" file="ccmrestart.cpp:413">
+<![LOG[Stopped the service 'CcmExec' successfully]LOG]!><time="10:37:38.076-60" date="11-10-2017" component="CcmRestart" context="" type="1" thread="6456" file="servicecontrol.cpp:267">
+<![LOG[Trying to delete outgoing message queues.]LOG]!><time="10:37:38.076-60" date="11-10-2017" component="CcmRestart" context="" type="1" thread="6456" file="ccmrestart.cpp:290">
+<![LOG[Deleting outgoing message queue directory 'C:\WINDOWS\CCM\ServiceData\Messaging\OutgoingQueues'.]LOG]!><time="10:37:38.076-60" date="11-10-2017" component="CcmRestart" context="" type="1" thread="6456" file="ccmrestart.cpp:353">
+<![LOG[Deleted outgoing message queues.]LOG]!><time="10:37:38.091-60" date="11-10-2017" component="CcmRestart" context="" type="1" thread="6456" file="ccmrestart.cpp:371">
+<![LOG[CcmExec has been successfully restarted.]LOG]!><time="10:37:38.638-60" date="11-10-2017" component="CcmRestart" context="" type="1" thread="6456" file="ccmrestart.cpp:175">
+<![LOG[Initializing CcmRestart task.]LOG]!><time="09:05:25.355-60" date="03-08-2018" component="CcmRestart" context="" type="1" thread="11984" file="ccmrestart.cpp:455">
+<![LOG[Setting default logging component for process.]LOG]!><time="09:05:25.376-60" date="03-08-2018" component="CcmRestart" context="" type="1" thread="11984" file="ccmrestart.cpp:64">
+<![LOG[Creating CcmRestart process mutex.]LOG]!><time="09:05:25.376-60" date="03-08-2018" component="CcmRestart" context="" type="1" thread="11984" file="ccmrestart.cpp:74">
+<![LOG[CcmRestart task initializiation succeeded.]LOG]!><time="09:05:25.377-60" date="03-08-2018" component="CcmRestart" context="" type="1" thread="11984" file="ccmrestart.cpp:465">
+<![LOG[Trying to update unmanaged DTS jobs with new timeout.]LOG]!><time="09:05:25.378-60" date="03-08-2018" component="CcmRestart" context="" type="1" thread="11984" file="ccmrestart.cpp:282">
+<![LOG[Failed to update timeout on DTS jobs. (0x87d00200)]LOG]!><time="09:05:25.457-60" date="03-08-2018" component="CcmRestart" context="" type="2" thread="11984" file="ccmrestart.cpp:413">
+<![LOG[Stopped the service 'CcmExec' successfully]LOG]!><time="09:06:13.507-60" date="03-08-2018" component="CcmRestart" context="" type="1" thread="11984" file="ServiceControl.cpp:267">
+<![LOG[Trying to delete outgoing message queues.]LOG]!><time="09:06:13.507-60" date="03-08-2018" component="CcmRestart" context="" type="1" thread="11984" file="ccmrestart.cpp:290">
+<![LOG[Deleting outgoing message queue directory 'C:\WINDOWS\CCM\ServiceData\Messaging\OutgoingQueues'.]LOG]!><time="09:06:13.538-60" date="03-08-2018" component="CcmRestart" context="" type="1" thread="11984" file="ccmrestart.cpp:353">
+<![LOG[Deleted outgoing message queues.]LOG]!><time="09:06:13.573-60" date="03-08-2018" component="CcmRestart" context="" type="1" thread="11984" file="ccmrestart.cpp:371">
+<![LOG[CcmExec has been successfully restarted.]LOG]!><time="09:06:14.108-60" date="03-08-2018" component="CcmRestart" context="" type="1" thread="11984" file="ccmrestart.cpp:175">
+<![LOG[Initializing CcmRestart task.]LOG]!><time="06:32:11.342-120" date="05-14-2018" component="CcmRestart" context="" type="1" thread="1649492" file="ccmrestart.cpp:455">
+<![LOG[Setting default logging component for process.]LOG]!><time="06:32:11.359-120" date="05-14-2018" component="CcmRestart" context="" type="1" thread="1649492" file="ccmrestart.cpp:64">
+<![LOG[Creating CcmRestart process mutex.]LOG]!><time="06:32:11.359-120" date="05-14-2018" component="CcmRestart" context="" type="1" thread="1649492" file="ccmrestart.cpp:74">
+<![LOG[CcmRestart task initializiation succeeded.]LOG]!><time="06:32:11.361-120" date="05-14-2018" component="CcmRestart" context="" type="1" thread="1649492" file="ccmrestart.cpp:465">
+<![LOG[Trying to update unmanaged DTS jobs with new timeout.]LOG]!><time="06:32:11.361-120" date="05-14-2018" component="CcmRestart" context="" type="1" thread="1649492" file="ccmrestart.cpp:282">
+<![LOG[Failed to update timeout on DTS jobs. (0x87d00200)]LOG]!><time="06:32:11.402-120" date="05-14-2018" component="CcmRestart" context="" type="2" thread="1649492" file="ccmrestart.cpp:413">
+<![LOG[Stopped the service 'CcmExec' successfully]LOG]!><time="06:33:01.417-120" date="05-14-2018" component="CcmRestart" context="" type="1" thread="1649492" file="ServiceControl.cpp:267">
+<![LOG[Trying to delete outgoing message queues.]LOG]!><time="06:33:01.417-120" date="05-14-2018" component="CcmRestart" context="" type="1" thread="1649492" file="ccmrestart.cpp:290">
+<![LOG[Deleting outgoing message queue directory 'C:\WINDOWS\CCM\ServiceData\Messaging\OutgoingQueues'.]LOG]!><time="06:33:01.428-120" date="05-14-2018" component="CcmRestart" context="" type="1" thread="1649492" file="ccmrestart.cpp:353">
+<![LOG[Deleted outgoing message queues.]LOG]!><time="06:33:01.451-120" date="05-14-2018" component="CcmRestart" context="" type="1" thread="1649492" file="ccmrestart.cpp:371">
+<![LOG[CcmExec has been successfully restarted.]LOG]!><time="06:33:01.981-120" date="05-14-2018" component="CcmRestart" context="" type="1" thread="1649492" file="ccmrestart.cpp:175">
+<![LOG[Initializing CcmRestart task.]LOG]!><time="13:26:21.234-120" date="10-03-2018" component="CcmRestart" context="" type="1" thread="10016" file="ccmrestart.cpp:455">
+<![LOG[Setting default logging component for process.]LOG]!><time="13:26:21.234-120" date="10-03-2018" component="CcmRestart" context="" type="1" thread="10016" file="ccmrestart.cpp:64">
+<![LOG[Creating CcmRestart process mutex.]LOG]!><time="13:26:21.234-120" date="10-03-2018" component="CcmRestart" context="" type="1" thread="10016" file="ccmrestart.cpp:74">
+<![LOG[CcmRestart task initializiation succeeded.]LOG]!><time="13:26:21.234-120" date="10-03-2018" component="CcmRestart" context="" type="1" thread="10016" file="ccmrestart.cpp:465">
+<![LOG[Trying to update unmanaged DTS jobs with new timeout.]LOG]!><time="13:26:21.234-120" date="10-03-2018" component="CcmRestart" context="" type="1" thread="10016" file="ccmrestart.cpp:282">
+<![LOG[Stopped the service 'CcmExec' successfully]LOG]!><time="13:28:42.081-120" date="10-03-2018" component="CcmRestart" context="" type="1" thread="10016" file="ServiceControl.cpp:267">
+<![LOG[Trying to delete outgoing message queues.]LOG]!><time="13:28:42.081-120" date="10-03-2018" component="CcmRestart" context="" type="1" thread="10016" file="ccmrestart.cpp:290">
+<![LOG[Deleting outgoing message queue directory 'C:\WINDOWS\CCM\ServiceData\Messaging\OutgoingQueues'.]LOG]!><time="13:28:42.081-120" date="10-03-2018" component="CcmRestart" context="" type="1" thread="10016" file="ccmrestart.cpp:353">
+<![LOG[Deleted outgoing message queues.]LOG]!><time="13:28:42.113-120" date="10-03-2018" component="CcmRestart" context="" type="1" thread="10016" file="ccmrestart.cpp:371">
+<![LOG[CcmExec has been successfully restarted.]LOG]!><time="13:28:42.654-120" date="10-03-2018" component="CcmRestart" context="" type="1" thread="10016" file="ccmrestart.cpp:175">

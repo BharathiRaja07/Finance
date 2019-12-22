@@ -1,0 +1,20 @@
+﻿<![LOG[Software Distribution site settings (CCM_SoftwareDistributionClientConfig) policy does not yet exist on the client.
+If the client is not yet registered, this is expected behavior.]LOG]!><time="05:21:51.648-120" date="04-14-2019" component="smscliui" context="" type="2" thread="11968" file="softdistpolicy.cpp:1537">
+<![LOG[Software Distribution site settings (CCM_SoftwareDistributionClientConfig) policy does not yet exist on the client.
+If the client is not yet registered, this is expected behavior.]LOG]!><time="05:21:51.672-120" date="04-14-2019" component="smscliui" context="" type="2" thread="11968" file="softdistpolicy.cpp:1537">
+<![LOG[CSMSARPPub::GetAppsFromUIResMgr - Advertising 0 applications in ARP]LOG]!><time="05:21:51.681-120" date="04-14-2019" component="smscliui" context="" type="1" thread="11968" file="smspublisher.cpp:528">
+<![LOG[Software Distribution site settings (CCM_SoftwareDistributionClientConfig) policy does not yet exist on the client.
+If the client is not yet registered, this is expected behavior.]LOG]!><time="05:21:51.921-120" date="04-14-2019" component="smscliui" context="" type="2" thread="11968" file="softdistpolicy.cpp:1537">
+<![LOG[Software Distribution site settings (CCM_SoftwareDistributionClientConfig) policy does not yet exist on the client.
+If the client is not yet registered, this is expected behavior.]LOG]!><time="05:21:51.979-120" date="04-14-2019" component="smscliui" context="" type="2" thread="11968" file="softdistpolicy.cpp:1537">
+<![LOG[CSMSARPPub::GetAppsFromUIResMgr - Advertising 0 applications in ARP]LOG]!><time="05:21:51.997-120" date="04-14-2019" component="smscliui" context="" type="1" thread="11968" file="smspublisher.cpp:528">
+<![LOG[Software Distribution site settings (CCM_SoftwareDistributionClientConfig) policy does not yet exist on the client.
+If the client is not yet registered, this is expected behavior.]LOG]!><time="05:21:54.612-120" date="04-14-2019" component="smscliui" context="" type="2" thread="11956" file="softdistpolicy.cpp:1537">
+<![LOG[Software Distribution site settings (CCM_SoftwareDistributionClientConfig) policy does not yet exist on the client.
+If the client is not yet registered, this is expected behavior.]LOG]!><time="05:21:54.637-120" date="04-14-2019" component="smscliui" context="" type="2" thread="11956" file="softdistpolicy.cpp:1537">
+<![LOG[CSMSARPPub::GetAppsFromUIResMgr - Advertising 0 applications in ARP]LOG]!><time="05:21:54.695-120" date="04-14-2019" component="smscliui" context="" type="1" thread="11956" file="smspublisher.cpp:528">
+<![LOG[Software Distribution site settings (CCM_SoftwareDistributionClientConfig) policy does not yet exist on the client.
+If the client is not yet registered, this is expected behavior.]LOG]!><time="05:21:54.735-120" date="04-14-2019" component="smscliui" context="" type="2" thread="2052" file="softdistpolicy.cpp:1537">
+<![LOG[Software Distribution site settings (CCM_SoftwareDistributionClientConfig) policy does not yet exist on the client.
+If the client is not yet registered, this is expected behavior.]LOG]!><time="05:21:54.760-120" date="04-14-2019" component="smscliui" context="" type="2" thread="2052" file="softdistpolicy.cpp:1537">
+<![LOG[CSMSARPPub::GetAppsFromUIResMgr - Advertising 0 applications in ARP]LOG]!><time="05:21:54.768-120" date="04-14-2019" component="smscliui" context="" type="1" thread="2052" file="smspublisher.cpp:528">

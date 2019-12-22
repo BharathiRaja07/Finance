@@ -1,0 +1,574 @@
+﻿<![LOG[In CM BITS Manager startup task.]LOG]!><time="09:25:08.615-60" date="11-10-2017" component="CMBITSManager" context="" type="0" thread="3372" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="09:25:08.615-60" date="11-10-2017" component="CMBITSManager" context="" type="1" thread="3372" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="09:33:52.342-60" date="11-10-2017" component="CMBITSManager" context="" type="0" thread="3416" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="09:33:52.357-60" date="11-10-2017" component="CMBITSManager" context="" type="1" thread="3416" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="09:37:32.963-60" date="11-10-2017" component="CMBITSManager" context="" type="0" thread="3504" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="09:37:32.963-60" date="11-10-2017" component="CMBITSManager" context="" type="1" thread="3504" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="09:57:29.133-60" date="11-10-2017" component="CMBITSManager" context="" type="0" thread="5184" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="09:57:29.133-60" date="11-10-2017" component="CMBITSManager" context="" type="1" thread="5184" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="10:00:54.018-60" date="11-10-2017" component="CMBITSManager" context="" type="0" thread="2268" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="10:00:54.018-60" date="11-10-2017" component="CMBITSManager" context="" type="1" thread="2268" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="10:04:20.806-60" date="11-10-2017" component="CMBITSManager" context="" type="0" thread="6064" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="10:04:20.806-60" date="11-10-2017" component="CMBITSManager" context="" type="1" thread="6064" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="10:09:12.791-60" date="11-10-2017" component="CMBITSManager" context="" type="0" thread="5924" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="10:09:12.807-60" date="11-10-2017" component="CMBITSManager" context="" type="1" thread="5924" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="10:10:56.806-60" date="11-10-2017" component="CMBITSManager" context="" type="0" thread="6184" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="10:10:56.806-60" date="11-10-2017" component="CMBITSManager" context="" type="1" thread="6184" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="10:12:29.336-60" date="11-10-2017" component="CMBITSManager" context="" type="0" thread="3352" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="10:12:29.336-60" date="11-10-2017" component="CMBITSManager" context="" type="1" thread="3352" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="10:20:04.935-60" date="11-10-2017" component="CMBITSManager" context="" type="0" thread="2908" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="10:20:04.950-60" date="11-10-2017" component="CMBITSManager" context="" type="1" thread="2908" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="10:37:45.295-60" date="11-10-2017" component="CMBITSManager" context="" type="0" thread="11620" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="10:37:45.310-60" date="11-10-2017" component="CMBITSManager" context="" type="1" thread="11620" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="10:40:45.906-60" date="11-10-2017" component="CMBITSManager" context="" type="0" thread="6760" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="10:40:45.906-60" date="11-10-2017" component="CMBITSManager" context="" type="1" thread="6760" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="12:47:24.293-60" date="12-11-2017" component="CMBITSManager" context="" type="0" thread="6728" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="12:47:24.293-60" date="12-11-2017" component="CMBITSManager" context="" type="1" thread="6728" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="12:57:02.279-60" date="12-11-2017" component="CMBITSManager" context="" type="0" thread="6360" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="12:57:02.279-60" date="12-11-2017" component="CMBITSManager" context="" type="1" thread="6360" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="13:16:04.317-60" date="12-11-2017" component="CMBITSManager" context="" type="0" thread="4172" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="13:16:04.317-60" date="12-11-2017" component="CMBITSManager" context="" type="1" thread="4172" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="13:40:52.942-60" date="12-11-2017" component="CMBITSManager" context="" type="0" thread="4764" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="13:40:52.942-60" date="12-11-2017" component="CMBITSManager" context="" type="1" thread="4764" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="15:36:54.466-60" date="12-11-2017" component="CMBITSManager" context="" type="0" thread="324" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="15:36:54.481-60" date="12-11-2017" component="CMBITSManager" context="" type="1" thread="324" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="14:45:44.738-60" date="12-17-2017" component="CMBITSManager" context="" type="0" thread="6492" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="14:45:44.754-60" date="12-17-2017" component="CMBITSManager" context="" type="1" thread="6492" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="15:19:27.696-60" date="12-17-2017" component="CMBITSManager" context="" type="0" thread="8908" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="15:19:27.696-60" date="12-17-2017" component="CMBITSManager" context="" type="1" thread="8908" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="13:13:24.063-60" date="12-18-2017" component="CMBITSManager" context="" type="0" thread="8204" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="13:13:24.094-60" date="12-18-2017" component="CMBITSManager" context="" type="1" thread="8204" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="13:34:04.571-60" date="12-18-2017" component="CMBITSManager" context="" type="0" thread="5724" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="13:34:04.587-60" date="12-18-2017" component="CMBITSManager" context="" type="1" thread="5724" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="07:48:18.021-60" date="12-25-2017" component="CMBITSManager" context="" type="0" thread="6428" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="07:48:18.036-60" date="12-25-2017" component="CMBITSManager" context="" type="1" thread="6428" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="06:07:09.566-60" date="12-26-2017" component="CMBITSManager" context="" type="0" thread="3392" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="06:07:09.581-60" date="12-26-2017" component="CMBITSManager" context="" type="1" thread="3392" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="10:19:33.483-60" date="12-26-2017" component="CMBITSManager" context="" type="0" thread="10192" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="10:19:33.489-60" date="12-26-2017" component="CMBITSManager" context="" type="1" thread="10192" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="11:14:39.386-60" date="12-26-2017" component="CMBITSManager" context="" type="0" thread="768" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="11:14:39.401-60" date="12-26-2017" component="CMBITSManager" context="" type="1" thread="768" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="05:22:21.190-60" date="12-27-2017" component="CMBITSManager" context="" type="0" thread="7912" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="05:22:21.205-60" date="12-27-2017" component="CMBITSManager" context="" type="1" thread="7912" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="08:12:48.610-60" date="12-27-2017" component="CMBITSManager" context="" type="0" thread="3732" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="08:12:48.626-60" date="12-27-2017" component="CMBITSManager" context="" type="1" thread="3732" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="06:51:04.436-60" date="12-28-2017" component="CMBITSManager" context="" type="0" thread="3864" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="06:51:04.446-60" date="12-28-2017" component="CMBITSManager" context="" type="1" thread="3864" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="14:56:40.779-60" date="12-30-2017" component="CMBITSManager" context="" type="0" thread="8892" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="14:56:40.795-60" date="12-30-2017" component="CMBITSManager" context="" type="1" thread="8892" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="04:55:13.161-60" date="12-31-2017" component="CMBITSManager" context="" type="0" thread="9180" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="04:55:13.172-60" date="12-31-2017" component="CMBITSManager" context="" type="1" thread="9180" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="06:08:54.565-60" date="01-02-2018" component="CMBITSManager" context="" type="0" thread="7152" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="06:08:54.573-60" date="01-02-2018" component="CMBITSManager" context="" type="1" thread="7152" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="06:17:52.188-60" date="01-02-2018" component="CMBITSManager" context="" type="0" thread="7344" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="06:17:52.199-60" date="01-02-2018" component="CMBITSManager" context="" type="1" thread="7344" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="07:25:01.425-60" date="01-04-2018" component="CMBITSManager" context="" type="0" thread="5448" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="07:25:01.445-60" date="01-04-2018" component="CMBITSManager" context="" type="1" thread="5448" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="05:55:30.922-60" date="01-05-2018" component="CMBITSManager" context="" type="0" thread="9732" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="05:55:30.939-60" date="01-05-2018" component="CMBITSManager" context="" type="1" thread="9732" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="07:03:26.012-60" date="01-08-2018" component="CMBITSManager" context="" type="0" thread="8560" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="07:03:26.027-60" date="01-08-2018" component="CMBITSManager" context="" type="1" thread="8560" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="07:06:34.781-60" date="01-09-2018" component="CMBITSManager" context="" type="0" thread="9712" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="07:06:34.791-60" date="01-09-2018" component="CMBITSManager" context="" type="1" thread="9712" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="05:42:49.524-60" date="01-11-2018" component="CMBITSManager" context="" type="0" thread="7604" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="05:42:49.540-60" date="01-11-2018" component="CMBITSManager" context="" type="1" thread="7604" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="10:44:48.761-60" date="01-11-2018" component="CMBITSManager" context="" type="0" thread="4064" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="10:44:48.761-60" date="01-11-2018" component="CMBITSManager" context="" type="1" thread="4064" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="07:53:12.912-60" date="01-12-2018" component="CMBITSManager" context="" type="0" thread="3092" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="07:53:12.922-60" date="01-12-2018" component="CMBITSManager" context="" type="1" thread="3092" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="04:18:39.382-60" date="01-13-2018" component="CMBITSManager" context="" type="0" thread="1452" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="04:18:39.398-60" date="01-13-2018" component="CMBITSManager" context="" type="1" thread="1452" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="07:11:46.714-60" date="01-17-2018" component="CMBITSManager" context="" type="0" thread="8884" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="07:11:46.714-60" date="01-17-2018" component="CMBITSManager" context="" type="1" thread="8884" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="05:19:02.492-60" date="01-19-2018" component="CMBITSManager" context="" type="0" thread="3128" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="05:19:02.508-60" date="01-19-2018" component="CMBITSManager" context="" type="1" thread="3128" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="14:00:14.268-60" date="01-19-2018" component="CMBITSManager" context="" type="0" thread="8528" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="14:00:14.278-60" date="01-19-2018" component="CMBITSManager" context="" type="1" thread="8528" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="10:24:34.244-60" date="01-23-2018" component="CMBITSManager" context="" type="0" thread="5548" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="10:24:34.260-60" date="01-23-2018" component="CMBITSManager" context="" type="1" thread="5548" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="07:24:38.899-60" date="01-24-2018" component="CMBITSManager" context="" type="0" thread="8688" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="07:24:38.899-60" date="01-24-2018" component="CMBITSManager" context="" type="1" thread="8688" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="08:40:50.539-60" date="01-24-2018" component="CMBITSManager" context="" type="0" thread="3616" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="08:40:50.539-60" date="01-24-2018" component="CMBITSManager" context="" type="1" thread="3616" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="11:18:08.324-60" date="01-24-2018" component="CMBITSManager" context="" type="0" thread="2592" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="11:18:08.334-60" date="01-24-2018" component="CMBITSManager" context="" type="1" thread="2592" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="06:04:43.864-60" date="01-25-2018" component="CMBITSManager" context="" type="0" thread="1136" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="06:04:43.880-60" date="01-25-2018" component="CMBITSManager" context="" type="1" thread="1136" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="07:22:51.824-60" date="01-27-2018" component="CMBITSManager" context="" type="0" thread="728" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="07:22:51.902-60" date="01-27-2018" component="CMBITSManager" context="" type="1" thread="728" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="05:20:04.827-60" date="01-30-2018" component="CMBITSManager" context="" type="0" thread="8552" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="05:20:04.827-60" date="01-30-2018" component="CMBITSManager" context="" type="1" thread="8552" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="12:02:43.199-60" date="01-31-2018" component="CMBITSManager" context="" type="0" thread="9004" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="12:02:43.209-60" date="01-31-2018" component="CMBITSManager" context="" type="1" thread="9004" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="07:36:32.907-60" date="02-02-2018" component="CMBITSManager" context="" type="0" thread="5528" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="07:36:32.917-60" date="02-02-2018" component="CMBITSManager" context="" type="1" thread="5528" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="04:28:14.785-60" date="02-05-2018" component="CMBITSManager" context="" type="0" thread="8372" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="04:28:14.801-60" date="02-05-2018" component="CMBITSManager" context="" type="1" thread="8372" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="10:20:30.253-60" date="02-16-2018" component="CMBITSManager" context="" type="0" thread="4588" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="10:20:30.253-60" date="02-16-2018" component="CMBITSManager" context="" type="1" thread="4588" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="08:44:49.810-60" date="02-17-2018" component="CMBITSManager" context="" type="0" thread="2052" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="08:44:49.825-60" date="02-17-2018" component="CMBITSManager" context="" type="1" thread="2052" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="08:49:30.609-60" date="02-17-2018" component="CMBITSManager" context="" type="0" thread="3308" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="08:49:30.625-60" date="02-17-2018" component="CMBITSManager" context="" type="1" thread="3308" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="15:28:01.466-60" date="02-22-2018" component="CMBITSManager" context="" type="0" thread="9712" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="15:28:01.482-60" date="02-22-2018" component="CMBITSManager" context="" type="1" thread="9712" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="09:12:27.531-60" date="02-25-2018" component="CMBITSManager" context="" type="0" thread="2076" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="09:12:27.531-60" date="02-25-2018" component="CMBITSManager" context="" type="1" thread="2076" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="14:17:00.449-60" date="02-25-2018" component="CMBITSManager" context="" type="0" thread="5500" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="14:17:00.464-60" date="02-25-2018" component="CMBITSManager" context="" type="1" thread="5500" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="12:25:16.950-60" date="02-26-2018" component="CMBITSManager" context="" type="0" thread="7500" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="12:25:16.997-60" date="02-26-2018" component="CMBITSManager" context="" type="1" thread="7500" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="05:04:29.995-60" date="02-27-2018" component="CMBITSManager" context="" type="0" thread="3572" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="05:04:30.010-60" date="02-27-2018" component="CMBITSManager" context="" type="1" thread="3572" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="05:30:52.553-60" date="02-28-2018" component="CMBITSManager" context="" type="0" thread="7668" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="05:30:52.563-60" date="02-28-2018" component="CMBITSManager" context="" type="1" thread="7668" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="02:41:37.977-60" date="03-01-2018" component="CMBITSManager" context="" type="0" thread="8232" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="02:41:38.008-60" date="03-01-2018" component="CMBITSManager" context="" type="1" thread="8232" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="05:02:32.343-60" date="03-02-2018" component="CMBITSManager" context="" type="0" thread="5772" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="05:02:32.353-60" date="03-02-2018" component="CMBITSManager" context="" type="1" thread="5772" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="04:13:41.772-60" date="03-05-2018" component="CMBITSManager" context="" type="0" thread="6072" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="04:13:41.787-60" date="03-05-2018" component="CMBITSManager" context="" type="1" thread="6072" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="04:04:06.913-60" date="03-06-2018" component="CMBITSManager" context="" type="0" thread="2452" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="04:04:06.929-60" date="03-06-2018" component="CMBITSManager" context="" type="1" thread="2452" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="04:20:27.027-60" date="03-06-2018" component="CMBITSManager" context="" type="0" thread="10164" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="04:20:27.037-60" date="03-06-2018" component="CMBITSManager" context="" type="1" thread="10164" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="05:20:40.825-60" date="03-07-2018" component="CMBITSManager" context="" type="0" thread="8348" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="05:20:40.841-60" date="03-07-2018" component="CMBITSManager" context="" type="1" thread="8348" file="startuptask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="09:05:25.366-60" date="03-08-2018" component="CMBITSManager" context="" type="0" thread="12456" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="09:05:25.377-60" date="03-08-2018" component="CMBITSManager" context="" type="1" thread="12456" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="09:06:34.485-60" date="03-08-2018" component="CMBITSManager" context="" type="0" thread="1492" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="09:06:34.501-60" date="03-08-2018" component="CMBITSManager" context="" type="1" thread="1492" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="04:52:46.117-60" date="03-12-2018" component="CMBITSManager" context="" type="0" thread="1364" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="04:52:46.133-60" date="03-12-2018" component="CMBITSManager" context="" type="1" thread="1364" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="05:27:11.966-60" date="03-14-2018" component="CMBITSManager" context="" type="0" thread="8188" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="05:27:11.986-60" date="03-14-2018" component="CMBITSManager" context="" type="1" thread="8188" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="05:06:02.111-60" date="03-15-2018" component="CMBITSManager" context="" type="0" thread="8940" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="05:06:02.111-60" date="03-15-2018" component="CMBITSManager" context="" type="1" thread="8940" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="05:58:15.634-60" date="03-16-2018" component="CMBITSManager" context="" type="0" thread="6220" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="05:58:15.644-60" date="03-16-2018" component="CMBITSManager" context="" type="1" thread="6220" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="05:20:12.125-60" date="03-20-2018" component="CMBITSManager" context="" type="0" thread="1232" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="05:20:12.156-60" date="03-20-2018" component="CMBITSManager" context="" type="1" thread="1232" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="05:26:27.607-60" date="03-20-2018" component="CMBITSManager" context="" type="0" thread="1956" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="05:26:27.627-60" date="03-20-2018" component="CMBITSManager" context="" type="1" thread="1956" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="09:24:03.803-60" date="03-20-2018" component="CMBITSManager" context="" type="0" thread="6028" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="09:24:03.803-60" date="03-20-2018" component="CMBITSManager" context="" type="1" thread="6028" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="10:42:34.838-60" date="03-20-2018" component="CMBITSManager" context="" type="0" thread="6580" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="10:42:34.864-60" date="03-20-2018" component="CMBITSManager" context="" type="1" thread="6580" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="05:18:11.616-60" date="03-21-2018" component="CMBITSManager" context="" type="0" thread="7928" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="05:18:11.626-60" date="03-21-2018" component="CMBITSManager" context="" type="1" thread="7928" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="06:59:32.805-60" date="03-21-2018" component="CMBITSManager" context="" type="0" thread="1016" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="06:59:32.805-60" date="03-21-2018" component="CMBITSManager" context="" type="1" thread="1016" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="03:39:24.064-60" date="03-22-2018" component="CMBITSManager" context="" type="0" thread="1372" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="03:39:24.080-60" date="03-22-2018" component="CMBITSManager" context="" type="1" thread="1372" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="05:51:48.171-120" date="03-26-2018" component="CMBITSManager" context="" type="0" thread="8392" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="05:51:48.186-120" date="03-26-2018" component="CMBITSManager" context="" type="1" thread="8392" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="07:58:46.534-120" date="03-26-2018" component="CMBITSManager" context="" type="0" thread="10072" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="07:58:46.554-120" date="03-26-2018" component="CMBITSManager" context="" type="1" thread="10072" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="06:50:41.116-120" date="03-28-2018" component="CMBITSManager" context="" type="0" thread="10420" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="06:50:41.131-120" date="03-28-2018" component="CMBITSManager" context="" type="1" thread="10420" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="17:36:12.458-120" date="03-29-2018" component="CMBITSManager" context="" type="0" thread="8612" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="17:36:12.474-120" date="03-29-2018" component="CMBITSManager" context="" type="1" thread="8612" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="04:29:14.212-120" date="03-30-2018" component="CMBITSManager" context="" type="0" thread="2772" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="04:29:14.222-120" date="03-30-2018" component="CMBITSManager" context="" type="1" thread="2772" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="11:59:08.359-120" date="03-31-2018" component="CMBITSManager" context="" type="0" thread="5676" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="11:59:08.452-120" date="03-31-2018" component="CMBITSManager" context="" type="1" thread="5676" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="11:43:38.862-120" date="04-02-2018" component="CMBITSManager" context="" type="0" thread="348" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="11:43:38.877-120" date="04-02-2018" component="CMBITSManager" context="" type="1" thread="348" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="04:39:06.284-120" date="04-04-2018" component="CMBITSManager" context="" type="0" thread="2388" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="04:39:06.299-120" date="04-04-2018" component="CMBITSManager" context="" type="1" thread="2388" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="04:35:54.816-120" date="04-05-2018" component="CMBITSManager" context="" type="0" thread="8832" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="04:35:54.831-120" date="04-05-2018" component="CMBITSManager" context="" type="1" thread="8832" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="11:56:36.228-120" date="04-05-2018" component="CMBITSManager" context="" type="0" thread="9896" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="11:56:36.228-120" date="04-05-2018" component="CMBITSManager" context="" type="1" thread="9896" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="14:12:43.840-120" date="04-05-2018" component="CMBITSManager" context="" type="0" thread="7348" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="14:12:43.856-120" date="04-05-2018" component="CMBITSManager" context="" type="1" thread="7348" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="06:06:04.031-120" date="04-06-2018" component="CMBITSManager" context="" type="0" thread="11108" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="06:06:04.041-120" date="04-06-2018" component="CMBITSManager" context="" type="1" thread="11108" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="06:55:37.059-120" date="04-06-2018" component="CMBITSManager" context="" type="0" thread="6636" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="06:55:37.074-120" date="04-06-2018" component="CMBITSManager" context="" type="1" thread="6636" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="04:37:36.210-120" date="04-09-2018" component="CMBITSManager" context="" type="0" thread="7708" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="04:37:36.226-120" date="04-09-2018" component="CMBITSManager" context="" type="1" thread="7708" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="05:52:15.686-120" date="04-12-2018" component="CMBITSManager" context="" type="0" thread="6160" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="05:52:15.717-120" date="04-12-2018" component="CMBITSManager" context="" type="1" thread="6160" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="04:42:36.412-120" date="04-13-2018" component="CMBITSManager" context="" type="0" thread="10320" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="04:42:36.427-120" date="04-13-2018" component="CMBITSManager" context="" type="1" thread="10320" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="11:47:28.491-120" date="04-16-2018" component="CMBITSManager" context="" type="0" thread="9652" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="11:47:28.507-120" date="04-16-2018" component="CMBITSManager" context="" type="1" thread="9652" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="11:58:01.710-120" date="04-17-2018" component="CMBITSManager" context="" type="0" thread="8860" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="11:58:01.710-120" date="04-17-2018" component="CMBITSManager" context="" type="1" thread="8860" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="11:28:23.190-120" date="04-19-2018" component="CMBITSManager" context="" type="0" thread="9788" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="11:28:23.206-120" date="04-19-2018" component="CMBITSManager" context="" type="1" thread="9788" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="04:39:37.311-120" date="04-20-2018" component="CMBITSManager" context="" type="0" thread="10048" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="04:39:37.327-120" date="04-20-2018" component="CMBITSManager" context="" type="1" thread="10048" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="15:52:24.313-120" date="04-24-2018" component="CMBITSManager" context="" type="0" thread="1456" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="15:52:24.323-120" date="04-24-2018" component="CMBITSManager" context="" type="1" thread="1456" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="03:44:01.557-120" date="04-25-2018" component="CMBITSManager" context="" type="0" thread="9440" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="03:44:01.557-120" date="04-25-2018" component="CMBITSManager" context="" type="1" thread="9440" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="05:34:37.138-120" date="04-27-2018" component="CMBITSManager" context="" type="0" thread="3840" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="05:34:37.154-120" date="04-27-2018" component="CMBITSManager" context="" type="1" thread="3840" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="12:16:14.304-120" date="04-27-2018" component="CMBITSManager" context="" type="0" thread="8696" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="12:16:14.319-120" date="04-27-2018" component="CMBITSManager" context="" type="1" thread="8696" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="04:38:44.485-120" date="05-02-2018" component="CMBITSManager" context="" type="0" thread="10608" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="04:38:44.501-120" date="05-02-2018" component="CMBITSManager" context="" type="1" thread="10608" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="05:54:42.833-120" date="05-06-2018" component="CMBITSManager" context="" type="0" thread="8416" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="05:54:42.849-120" date="05-06-2018" component="CMBITSManager" context="" type="1" thread="8416" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="07:18:40.569-120" date="05-10-2018" component="CMBITSManager" context="" type="0" thread="6952" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="07:18:40.579-120" date="05-10-2018" component="CMBITSManager" context="" type="1" thread="6952" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="06:32:11.339-120" date="05-14-2018" component="CMBITSManager" context="" type="0" thread="1649260" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="06:32:11.350-120" date="05-14-2018" component="CMBITSManager" context="" type="1" thread="1649260" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="06:33:18.757-120" date="05-14-2018" component="CMBITSManager" context="" type="0" thread="1645988" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="06:33:18.764-120" date="05-14-2018" component="CMBITSManager" context="" type="1" thread="1645988" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="07:01:16.324-120" date="05-18-2018" component="CMBITSManager" context="" type="0" thread="2148" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="07:01:16.355-120" date="05-18-2018" component="CMBITSManager" context="" type="1" thread="2148" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="10:21:05.675-120" date="05-21-2018" component="CMBITSManager" context="" type="0" thread="5904" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="10:21:05.690-120" date="05-21-2018" component="CMBITSManager" context="" type="1" thread="5904" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="14:31:53.805-120" date="05-21-2018" component="CMBITSManager" context="" type="0" thread="10100" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="14:31:53.815-120" date="05-21-2018" component="CMBITSManager" context="" type="1" thread="10100" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="06:51:14.613-120" date="05-25-2018" component="CMBITSManager" context="" type="0" thread="8204" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="06:51:14.659-120" date="05-25-2018" component="CMBITSManager" context="" type="1" thread="8204" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="13:57:02.559-120" date="05-25-2018" component="CMBITSManager" context="" type="0" thread="8640" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="13:57:02.559-120" date="05-25-2018" component="CMBITSManager" context="" type="1" thread="8640" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="05:49:39.044-120" date="05-28-2018" component="CMBITSManager" context="" type="0" thread="11236" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="05:49:39.059-120" date="05-28-2018" component="CMBITSManager" context="" type="1" thread="11236" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="12:19:15.181-120" date="05-28-2018" component="CMBITSManager" context="" type="0" thread="8960" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="12:19:15.212-120" date="05-28-2018" component="CMBITSManager" context="" type="1" thread="8960" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="06:02:02.252-120" date="05-29-2018" component="CMBITSManager" context="" type="0" thread="6156" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="06:02:02.261-120" date="05-29-2018" component="CMBITSManager" context="" type="1" thread="6156" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="08:21:01.666-120" date="06-01-2018" component="CMBITSManager" context="" type="0" thread="9076" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="08:21:01.697-120" date="06-01-2018" component="CMBITSManager" context="" type="1" thread="9076" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="12:04:10.672-120" date="06-04-2018" component="CMBITSManager" context="" type="0" thread="9472" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="12:04:10.699-120" date="06-04-2018" component="CMBITSManager" context="" type="1" thread="9472" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="03:59:18.598-120" date="06-05-2018" component="CMBITSManager" context="" type="0" thread="1856" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="03:59:18.614-120" date="06-05-2018" component="CMBITSManager" context="" type="1" thread="1856" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="12:41:27.330-120" date="06-05-2018" component="CMBITSManager" context="" type="0" thread="9308" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="12:41:27.345-120" date="06-05-2018" component="CMBITSManager" context="" type="1" thread="9308" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="03:40:07.271-120" date="06-06-2018" component="CMBITSManager" context="" type="0" thread="8104" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="03:40:07.286-120" date="06-06-2018" component="CMBITSManager" context="" type="1" thread="8104" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="12:08:37.725-120" date="06-07-2018" component="CMBITSManager" context="" type="0" thread="9512" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="12:08:37.740-120" date="06-07-2018" component="CMBITSManager" context="" type="1" thread="9512" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="05:38:23.979-120" date="06-08-2018" component="CMBITSManager" context="" type="0" thread="5672" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="05:38:23.979-120" date="06-08-2018" component="CMBITSManager" context="" type="1" thread="5672" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="12:15:51.448-120" date="06-08-2018" component="CMBITSManager" context="" type="0" thread="5052" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="12:15:52.007-120" date="06-08-2018" component="CMBITSManager" context="" type="1" thread="5052" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="05:36:17.634-120" date="06-11-2018" component="CMBITSManager" context="" type="0" thread="4904" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="05:36:17.650-120" date="06-11-2018" component="CMBITSManager" context="" type="1" thread="4904" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="09:43:16.449-120" date="06-11-2018" component="CMBITSManager" context="" type="0" thread="1032" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="09:43:16.449-120" date="06-11-2018" component="CMBITSManager" context="" type="1" thread="1032" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="11:26:48.620-120" date="06-13-2018" component="CMBITSManager" context="" type="0" thread="9172" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="11:26:48.620-120" date="06-13-2018" component="CMBITSManager" context="" type="1" thread="9172" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="12:09:32.604-120" date="06-13-2018" component="CMBITSManager" context="" type="0" thread="3212" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="12:09:32.635-120" date="06-13-2018" component="CMBITSManager" context="" type="1" thread="3212" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="05:30:02.771-120" date="06-14-2018" component="CMBITSManager" context="" type="0" thread="8712" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="05:30:02.771-120" date="06-14-2018" component="CMBITSManager" context="" type="1" thread="8712" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="13:02:27.781-120" date="06-15-2018" component="CMBITSManager" context="" type="0" thread="1068" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="13:02:27.796-120" date="06-15-2018" component="CMBITSManager" context="" type="1" thread="1068" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="17:09:17.374-120" date="06-17-2018" component="CMBITSManager" context="" type="0" thread="9220" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="17:09:17.374-120" date="06-17-2018" component="CMBITSManager" context="" type="1" thread="9220" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="05:52:07.585-120" date="06-19-2018" component="CMBITSManager" context="" type="0" thread="9772" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="05:52:07.631-120" date="06-19-2018" component="CMBITSManager" context="" type="1" thread="9772" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="11:49:57.906-120" date="06-19-2018" component="CMBITSManager" context="" type="0" thread="2400" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="11:49:57.921-120" date="06-19-2018" component="CMBITSManager" context="" type="1" thread="2400" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="06:08:06.019-120" date="06-21-2018" component="CMBITSManager" context="" type="0" thread="11468" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="06:08:06.034-120" date="06-21-2018" component="CMBITSManager" context="" type="1" thread="11468" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="14:18:06.505-120" date="06-25-2018" component="CMBITSManager" context="" type="0" thread="8012" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="14:18:06.514-120" date="06-25-2018" component="CMBITSManager" context="" type="1" thread="8012" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="05:36:48.290-120" date="06-26-2018" component="CMBITSManager" context="" type="0" thread="6016" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="05:36:48.305-120" date="06-26-2018" component="CMBITSManager" context="" type="1" thread="6016" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="14:52:00.039-120" date="06-27-2018" component="CMBITSManager" context="" type="0" thread="6080" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="14:52:00.070-120" date="06-27-2018" component="CMBITSManager" context="" type="1" thread="6080" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="05:29:48.154-120" date="06-29-2018" component="CMBITSManager" context="" type="0" thread="5460" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="05:29:48.174-120" date="06-29-2018" component="CMBITSManager" context="" type="1" thread="5460" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="16:52:39.834-120" date="07-01-2018" component="CMBITSManager" context="" type="0" thread="8476" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="16:52:39.849-120" date="07-01-2018" component="CMBITSManager" context="" type="1" thread="8476" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="07:31:03.952-120" date="07-09-2018" component="CMBITSManager" context="" type="0" thread="3216" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="07:31:03.952-120" date="07-09-2018" component="CMBITSManager" context="" type="1" thread="3216" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="09:28:50.625-120" date="07-09-2018" component="CMBITSManager" context="" type="0" thread="5132" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="09:28:50.625-120" date="07-09-2018" component="CMBITSManager" context="" type="1" thread="5132" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="05:01:12.542-120" date="07-12-2018" component="CMBITSManager" context="" type="0" thread="9924" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="05:01:12.558-120" date="07-12-2018" component="CMBITSManager" context="" type="1" thread="9924" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="14:17:37.790-120" date="07-15-2018" component="CMBITSManager" context="" type="0" thread="8172" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="14:17:37.806-120" date="07-15-2018" component="CMBITSManager" context="" type="1" thread="8172" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="07:56:59.473-120" date="07-17-2018" component="CMBITSManager" context="" type="0" thread="5864" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="07:56:59.483-120" date="07-17-2018" component="CMBITSManager" context="" type="1" thread="5864" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="06:37:13.503-120" date="07-23-2018" component="CMBITSManager" context="" type="0" thread="9168" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="06:37:13.518-120" date="07-23-2018" component="CMBITSManager" context="" type="1" thread="9168" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="06:10:59.184-120" date="07-28-2018" component="CMBITSManager" context="" type="0" thread="7556" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="06:10:59.197-120" date="07-28-2018" component="CMBITSManager" context="" type="1" thread="7556" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="14:45:26.166-120" date="07-28-2018" component="CMBITSManager" context="" type="0" thread="11080" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="14:45:26.197-120" date="07-28-2018" component="CMBITSManager" context="" type="1" thread="11080" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="07:25:43.717-120" date="07-29-2018" component="CMBITSManager" context="" type="0" thread="9268" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="07:25:43.730-120" date="07-29-2018" component="CMBITSManager" context="" type="1" thread="9268" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="06:41:51.563-120" date="08-03-2018" component="CMBITSManager" context="" type="0" thread="5220" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="06:41:51.578-120" date="08-03-2018" component="CMBITSManager" context="" type="1" thread="5220" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="04:19:21.724-120" date="08-06-2018" component="CMBITSManager" context="" type="0" thread="5828" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="04:19:21.740-120" date="08-06-2018" component="CMBITSManager" context="" type="1" thread="5828" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="14:21:05.568-120" date="08-07-2018" component="CMBITSManager" context="" type="0" thread="6308" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="14:21:05.598-120" date="08-07-2018" component="CMBITSManager" context="" type="1" thread="6308" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="07:42:25.633-120" date="08-09-2018" component="CMBITSManager" context="" type="0" thread="8540" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="07:42:25.664-120" date="08-09-2018" component="CMBITSManager" context="" type="1" thread="8540" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="06:12:31.467-120" date="08-10-2018" component="CMBITSManager" context="" type="0" thread="8140" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="06:12:31.478-120" date="08-10-2018" component="CMBITSManager" context="" type="1" thread="8140" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="06:31:33.188-120" date="08-17-2018" component="CMBITSManager" context="" type="0" thread="4124" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="06:31:33.188-120" date="08-17-2018" component="CMBITSManager" context="" type="1" thread="4124" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="11:55:15.790-120" date="08-17-2018" component="CMBITSManager" context="" type="0" thread="9124" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="11:55:15.805-120" date="08-17-2018" component="CMBITSManager" context="" type="1" thread="9124" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="08:24:14.706-120" date="08-18-2018" component="CMBITSManager" context="" type="0" thread="10416" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="08:24:14.721-120" date="08-18-2018" component="CMBITSManager" context="" type="1" thread="10416" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="07:39:53.809-120" date="08-20-2018" component="CMBITSManager" context="" type="0" thread="160" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="07:39:53.824-120" date="08-20-2018" component="CMBITSManager" context="" type="1" thread="160" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="08:11:08.980-120" date="08-22-2018" component="CMBITSManager" context="" type="0" thread="2916" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="08:11:08.996-120" date="08-22-2018" component="CMBITSManager" context="" type="1" thread="2916" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="05:04:04.173-120" date="08-24-2018" component="CMBITSManager" context="" type="0" thread="10896" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="05:04:04.188-120" date="08-24-2018" component="CMBITSManager" context="" type="1" thread="10896" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="09:49:37.907-120" date="08-30-2018" component="CMBITSManager" context="" type="0" thread="6100" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="09:49:37.923-120" date="08-30-2018" component="CMBITSManager" context="" type="1" thread="6100" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="09:12:43.198-120" date="08-31-2018" component="CMBITSManager" context="" type="0" thread="7940" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="09:12:43.198-120" date="08-31-2018" component="CMBITSManager" context="" type="1" thread="7940" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="06:47:56.896-120" date="09-03-2018" component="CMBITSManager" context="" type="0" thread="6420" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="06:47:56.959-120" date="09-03-2018" component="CMBITSManager" context="" type="1" thread="6420" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="11:49:14.388-120" date="09-03-2018" component="CMBITSManager" context="" type="0" thread="7092" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="11:49:14.419-120" date="09-03-2018" component="CMBITSManager" context="" type="1" thread="7092" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="04:44:28.623-120" date="09-04-2018" component="CMBITSManager" context="" type="0" thread="2864" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="04:44:28.654-120" date="09-04-2018" component="CMBITSManager" context="" type="1" thread="2864" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="16:07:12.722-120" date="09-04-2018" component="CMBITSManager" context="" type="0" thread="788" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="16:07:12.738-120" date="09-04-2018" component="CMBITSManager" context="" type="1" thread="788" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="04:54:43.984-120" date="09-05-2018" component="CMBITSManager" context="" type="0" thread="4344" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="04:54:44.062-120" date="09-05-2018" component="CMBITSManager" context="" type="1" thread="4344" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="09:46:35.774-120" date="09-06-2018" component="CMBITSManager" context="" type="0" thread="9920" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="09:46:35.806-120" date="09-06-2018" component="CMBITSManager" context="" type="1" thread="9920" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="04:51:45.991-120" date="09-07-2018" component="CMBITSManager" context="" type="0" thread="3676" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="04:51:46.006-120" date="09-07-2018" component="CMBITSManager" context="" type="1" thread="3676" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="07:29:43.814-120" date="09-10-2018" component="CMBITSManager" context="" type="0" thread="11080" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="07:29:43.845-120" date="09-10-2018" component="CMBITSManager" context="" type="1" thread="11080" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="06:45:13.811-120" date="09-12-2018" component="CMBITSManager" context="" type="0" thread="8716" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="06:45:13.826-120" date="09-12-2018" component="CMBITSManager" context="" type="1" thread="8716" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="04:11:38.868-120" date="09-14-2018" component="CMBITSManager" context="" type="0" thread="5680" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="04:11:38.883-120" date="09-14-2018" component="CMBITSManager" context="" type="1" thread="5680" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="06:42:13.938-120" date="09-17-2018" component="CMBITSManager" context="" type="0" thread="9568" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="06:42:13.969-120" date="09-17-2018" component="CMBITSManager" context="" type="1" thread="9568" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="05:16:27.876-120" date="09-18-2018" component="CMBITSManager" context="" type="0" thread="9460" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="05:16:27.908-120" date="09-18-2018" component="CMBITSManager" context="" type="1" thread="9460" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="07:19:04.840-120" date="09-20-2018" component="CMBITSManager" context="" type="0" thread="8668" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="07:19:04.860-120" date="09-20-2018" component="CMBITSManager" context="" type="1" thread="8668" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="04:43:23.462-120" date="09-21-2018" component="CMBITSManager" context="" type="0" thread="9600" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="04:43:23.482-120" date="09-21-2018" component="CMBITSManager" context="" type="1" thread="9600" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="07:26:31.488-120" date="09-24-2018" component="CMBITSManager" context="" type="0" thread="11804" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="07:26:31.504-120" date="09-24-2018" component="CMBITSManager" context="" type="1" thread="11804" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="06:00:03.498-120" date="09-25-2018" component="CMBITSManager" context="" type="0" thread="1528" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="06:00:03.513-120" date="09-25-2018" component="CMBITSManager" context="" type="1" thread="1528" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="17:08:02.580-120" date="09-26-2018" component="CMBITSManager" context="" type="0" thread="11132" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="17:08:02.612-120" date="09-26-2018" component="CMBITSManager" context="" type="1" thread="11132" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="04:40:21.977-120" date="09-27-2018" component="CMBITSManager" context="" type="0" thread="4356" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="04:40:22.057-120" date="09-27-2018" component="CMBITSManager" context="" type="1" thread="4356" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="13:25:46.820-120" date="10-03-2018" component="CMBITSManager" context="" type="0" thread="6476" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="13:25:46.886-120" date="10-03-2018" component="CMBITSManager" context="" type="1" thread="6476" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="13:29:52.960-120" date="10-03-2018" component="CMBITSManager" context="" type="0" thread="3768" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="13:29:52.960-120" date="10-03-2018" component="CMBITSManager" context="" type="1" thread="3768" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="13:54:15.353-120" date="10-03-2018" component="CMBITSManager" context="" type="0" thread="5192" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="13:54:15.370-120" date="10-03-2018" component="CMBITSManager" context="" type="1" thread="5192" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="14:05:22.718-120" date="10-03-2018" component="CMBITSManager" context="" type="0" thread="5764" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="14:05:22.768-120" date="10-03-2018" component="CMBITSManager" context="" type="1" thread="5764" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="03:45:37.194-120" date="10-22-2018" component="CMBITSManager" context="" type="0" thread="5324" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="03:45:37.241-120" date="10-22-2018" component="CMBITSManager" context="" type="1" thread="5324" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="16:17:45.079-120" date="10-27-2018" component="CMBITSManager" context="" type="0" thread="10172" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="16:17:45.079-120" date="10-27-2018" component="CMBITSManager" context="" type="1" thread="10172" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="06:17:20.559-60" date="10-29-2018" component="CMBITSManager" context="" type="0" thread="10132" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="06:17:20.653-60" date="10-29-2018" component="CMBITSManager" context="" type="1" thread="10132" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="15:24:32.491-60" date="11-05-2018" component="CMBITSManager" context="" type="0" thread="4516" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="15:24:32.523-60" date="11-05-2018" component="CMBITSManager" context="" type="1" thread="4516" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="09:25:29.571-60" date="11-06-2018" component="CMBITSManager" context="" type="0" thread="8304" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="09:25:29.571-60" date="11-06-2018" component="CMBITSManager" context="" type="1" thread="8304" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="14:25:28.346-60" date="11-07-2018" component="CMBITSManager" context="" type="0" thread="9112" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="14:25:28.346-60" date="11-07-2018" component="CMBITSManager" context="" type="1" thread="9112" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="06:56:44.461-60" date="11-08-2018" component="CMBITSManager" context="" type="0" thread="5756" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="06:56:44.477-60" date="11-08-2018" component="CMBITSManager" context="" type="1" thread="5756" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="06:46:18.748-60" date="11-21-2018" component="CMBITSManager" context="" type="0" thread="8028" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="06:46:18.764-60" date="11-21-2018" component="CMBITSManager" context="" type="1" thread="8028" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="09:02:31.729-60" date="11-27-2018" component="CMBITSManager" context="" type="0" thread="8704" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="09:02:31.760-60" date="11-27-2018" component="CMBITSManager" context="" type="1" thread="8704" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="08:02:48.086-60" date="12-01-2018" component="CMBITSManager" context="" type="0" thread="4284" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="08:02:48.086-60" date="12-01-2018" component="CMBITSManager" context="" type="1" thread="4284" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="15:20:39.686-60" date="12-02-2018" component="CMBITSManager" context="" type="0" thread="5784" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="15:20:39.779-60" date="12-02-2018" component="CMBITSManager" context="" type="1" thread="5784" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="05:12:45.622-60" date="12-04-2018" component="CMBITSManager" context="" type="0" thread="8948" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="05:12:45.638-60" date="12-04-2018" component="CMBITSManager" context="" type="1" thread="8948" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="13:16:55.244-60" date="12-07-2018" component="CMBITSManager" context="" type="0" thread="10420" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="13:16:55.334-60" date="12-07-2018" component="CMBITSManager" context="" type="1" thread="10420" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="08:18:07.033-60" date="12-08-2018" component="CMBITSManager" context="" type="0" thread="5344" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="08:18:07.048-60" date="12-08-2018" component="CMBITSManager" context="" type="1" thread="5344" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="16:48:09.215-60" date="12-08-2018" component="CMBITSManager" context="" type="0" thread="8592" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="16:48:09.215-60" date="12-08-2018" component="CMBITSManager" context="" type="1" thread="8592" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="06:23:07.474-60" date="12-10-2018" component="CMBITSManager" context="" type="0" thread="5988" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="06:23:07.474-60" date="12-10-2018" component="CMBITSManager" context="" type="1" thread="5988" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="14:15:38.624-60" date="12-14-2018" component="CMBITSManager" context="" type="0" thread="4164" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="14:15:38.638-60" date="12-14-2018" component="CMBITSManager" context="" type="1" thread="4164" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="06:05:43.649-60" date="12-18-2018" component="CMBITSManager" context="" type="0" thread="5648" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="06:05:43.649-60" date="12-18-2018" component="CMBITSManager" context="" type="1" thread="5648" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="13:14:31.405-60" date="12-23-2018" component="CMBITSManager" context="" type="0" thread="5252" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="13:14:31.464-60" date="12-23-2018" component="CMBITSManager" context="" type="1" thread="5252" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="16:01:31.781-60" date="12-24-2018" component="CMBITSManager" context="" type="0" thread="8336" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="16:01:31.797-60" date="12-24-2018" component="CMBITSManager" context="" type="1" thread="8336" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="06:38:37.674-60" date="12-27-2018" component="CMBITSManager" context="" type="0" thread="8316" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="06:38:37.684-60" date="12-27-2018" component="CMBITSManager" context="" type="1" thread="8316" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="10:57:54.376-60" date="01-05-2019" component="CMBITSManager" context="" type="0" thread="2760" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="10:57:54.392-60" date="01-05-2019" component="CMBITSManager" context="" type="1" thread="2760" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="14:50:04.247-60" date="01-06-2019" component="CMBITSManager" context="" type="0" thread="9156" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="14:50:04.263-60" date="01-06-2019" component="CMBITSManager" context="" type="1" thread="9156" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="16:19:56.590-60" date="01-13-2019" component="CMBITSManager" context="" type="0" thread="6536" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="16:19:56.605-60" date="01-13-2019" component="CMBITSManager" context="" type="1" thread="6536" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="20:17:37.139-60" date="01-14-2019" component="CMBITSManager" context="" type="0" thread="8064" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="20:17:37.202-60" date="01-14-2019" component="CMBITSManager" context="" type="1" thread="8064" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="14:15:26.196-60" date="01-15-2019" component="CMBITSManager" context="" type="0" thread="7208" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="14:15:26.352-60" date="01-15-2019" component="CMBITSManager" context="" type="1" thread="7208" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="02:04:27.920-60" date="01-16-2019" component="CMBITSManager" context="" type="0" thread="6292" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="02:04:27.951-60" date="01-16-2019" component="CMBITSManager" context="" type="1" thread="6292" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="09:38:10.176-60" date="01-16-2019" component="CMBITSManager" context="" type="0" thread="1436" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="09:38:10.207-60" date="01-16-2019" component="CMBITSManager" context="" type="1" thread="1436" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="03:55:12.496-60" date="01-25-2019" component="CMBITSManager" context="" type="0" thread="2104" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="03:55:12.621-60" date="01-25-2019" component="CMBITSManager" context="" type="1" thread="2104" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="09:38:56.240-60" date="01-28-2019" component="CMBITSManager" context="" type="0" thread="2224" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="09:38:56.256-60" date="01-28-2019" component="CMBITSManager" context="" type="1" thread="2224" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="18:06:05.086-60" date="01-31-2019" component="CMBITSManager" context="" type="0" thread="9416" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="18:06:05.148-60" date="01-31-2019" component="CMBITSManager" context="" type="1" thread="9416" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="15:34:02.570-60" date="02-16-2019" component="CMBITSManager" context="" type="0" thread="3800" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="15:34:02.586-60" date="02-16-2019" component="CMBITSManager" context="" type="1" thread="3800" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="18:35:39.153-60" date="02-18-2019" component="CMBITSManager" context="" type="0" thread="4252" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="18:35:39.199-60" date="02-18-2019" component="CMBITSManager" context="" type="1" thread="4252" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="10:09:59.756-60" date="02-20-2019" component="CMBITSManager" context="" type="0" thread="10568" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="10:09:59.756-60" date="02-20-2019" component="CMBITSManager" context="" type="1" thread="10568" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="17:50:09.871-60" date="02-25-2019" component="CMBITSManager" context="" type="0" thread="8732" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="17:50:09.886-60" date="02-25-2019" component="CMBITSManager" context="" type="1" thread="8732" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="15:17:01.990-60" date="02-27-2019" component="CMBITSManager" context="" type="0" thread="1284" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="15:17:02.005-60" date="02-27-2019" component="CMBITSManager" context="" type="1" thread="1284" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="15:11:21.336-60" date="03-01-2019" component="CMBITSManager" context="" type="0" thread="7688" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="15:11:21.446-60" date="03-01-2019" component="CMBITSManager" context="" type="1" thread="7688" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="11:43:55.800-60" date="03-02-2019" component="CMBITSManager" context="" type="0" thread="9076" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="11:43:55.815-60" date="03-02-2019" component="CMBITSManager" context="" type="1" thread="9076" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="04:53:31.053-60" date="03-27-2019" component="CMBITSManager" context="" type="0" thread="4332" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="04:53:31.112-60" date="03-27-2019" component="CMBITSManager" context="" type="1" thread="4332" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="08:18:13.456-60" date="03-27-2019" component="CMBITSManager" context="" type="0" thread="7984" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="08:18:13.462-60" date="03-27-2019" component="CMBITSManager" context="" type="1" thread="7984" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="05:12:20.003-120" date="04-14-2019" component="CMBITSManager" context="" type="0" thread="1188" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="05:12:20.014-120" date="04-14-2019" component="CMBITSManager" context="" type="1" thread="1188" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="05:16:38.693-120" date="04-14-2019" component="CMBITSManager" context="" type="0" thread="2428" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="05:16:38.709-120" date="04-14-2019" component="CMBITSManager" context="" type="1" thread="2428" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="06:43:54.561-120" date="04-14-2019" component="CMBITSManager" context="" type="0" thread="6640" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="06:43:54.575-120" date="04-14-2019" component="CMBITSManager" context="" type="1" thread="6640" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="06:56:59.577-120" date="04-14-2019" component="CMBITSManager" context="" type="0" thread="8488" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="06:56:59.593-120" date="04-14-2019" component="CMBITSManager" context="" type="1" thread="8488" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="09:01:52.655-120" date="04-23-2019" component="CMBITSManager" context="" type="0" thread="4524" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="09:01:52.668-120" date="04-23-2019" component="CMBITSManager" context="" type="1" thread="4524" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="09:56:08.855-120" date="04-23-2019" component="CMBITSManager" context="" type="0" thread="6980" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="09:56:08.904-120" date="04-23-2019" component="CMBITSManager" context="" type="1" thread="6980" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="10:14:10.705-120" date="04-23-2019" component="CMBITSManager" context="" type="0" thread="7744" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="10:14:10.713-120" date="04-23-2019" component="CMBITSManager" context="" type="1" thread="7744" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="20:41:19.890-120" date="04-23-2019" component="CMBITSManager" context="" type="0" thread="8716" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="20:41:19.920-120" date="04-23-2019" component="CMBITSManager" context="" type="1" thread="8716" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="19:30:18.043-120" date="04-24-2019" component="CMBITSManager" context="" type="0" thread="5456" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="19:30:18.055-120" date="04-24-2019" component="CMBITSManager" context="" type="1" thread="5456" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="14:09:43.486-120" date="04-25-2019" component="CMBITSManager" context="" type="0" thread="8344" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="14:09:43.493-120" date="04-25-2019" component="CMBITSManager" context="" type="1" thread="8344" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="04:43:58.415-120" date="05-07-2019" component="CMBITSManager" context="" type="0" thread="16324" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="04:43:58.483-120" date="05-07-2019" component="CMBITSManager" context="" type="1" thread="16324" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="06:09:11.164-120" date="05-08-2019" component="CMBITSManager" context="" type="0" thread="7648" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="06:09:11.185-120" date="05-08-2019" component="CMBITSManager" context="" type="1" thread="7648" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="11:44:41.628-120" date="05-21-2019" component="CMBITSManager" context="" type="0" thread="5224" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="11:44:41.639-120" date="05-21-2019" component="CMBITSManager" context="" type="1" thread="5224" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="06:40:50.152-120" date="06-03-2019" component="CMBITSManager" context="" type="0" thread="8212" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="06:40:50.166-120" date="06-03-2019" component="CMBITSManager" context="" type="1" thread="8212" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="06:54:33.253-120" date="06-03-2019" component="CMBITSManager" context="" type="0" thread="7856" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="06:54:33.269-120" date="06-03-2019" component="CMBITSManager" context="" type="1" thread="7856" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="07:23:32.692-120" date="06-05-2019" component="CMBITSManager" context="" type="0" thread="5992" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="07:23:32.709-120" date="06-05-2019" component="CMBITSManager" context="" type="1" thread="5992" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="04:24:57.915-120" date="06-10-2019" component="CMBITSManager" context="" type="0" thread="7800" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="04:24:57.922-120" date="06-10-2019" component="CMBITSManager" context="" type="1" thread="7800" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="18:47:41.222-120" date="06-10-2019" component="CMBITSManager" context="" type="0" thread="7724" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="18:47:41.264-120" date="06-10-2019" component="CMBITSManager" context="" type="1" thread="7724" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="12:36:14.962-120" date="06-18-2019" component="CMBITSManager" context="" type="0" thread="13928" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="12:36:14.977-120" date="06-18-2019" component="CMBITSManager" context="" type="1" thread="13928" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="05:47:43.161-120" date="06-20-2019" component="CMBITSManager" context="" type="0" thread="2464" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="05:47:43.168-120" date="06-20-2019" component="CMBITSManager" context="" type="1" thread="2464" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="07:21:20.398-120" date="06-20-2019" component="CMBITSManager" context="" type="0" thread="8904" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="07:21:20.408-120" date="06-20-2019" component="CMBITSManager" context="" type="1" thread="8904" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="08:15:54.401-120" date="06-26-2019" component="CMBITSManager" context="" type="0" thread="7972" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="08:15:54.457-120" date="06-26-2019" component="CMBITSManager" context="" type="1" thread="7972" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="09:43:17.664-120" date="07-03-2019" component="CMBITSManager" context="" type="0" thread="5508" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="09:43:17.725-120" date="07-03-2019" component="CMBITSManager" context="" type="1" thread="5508" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="11:18:31.856-120" date="07-03-2019" component="CMBITSManager" context="" type="0" thread="2744" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="11:18:31.873-120" date="07-03-2019" component="CMBITSManager" context="" type="1" thread="2744" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="18:23:41.851-120" date="07-04-2019" component="CMBITSManager" context="" type="0" thread="8580" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="18:23:41.859-120" date="07-04-2019" component="CMBITSManager" context="" type="1" thread="8580" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="07:38:36.267-120" date="07-05-2019" component="CMBITSManager" context="" type="0" thread="3184" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="07:38:36.302-120" date="07-05-2019" component="CMBITSManager" context="" type="1" thread="3184" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="17:31:39.388-120" date="07-08-2019" component="CMBITSManager" context="" type="0" thread="10100" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="17:31:39.502-120" date="07-08-2019" component="CMBITSManager" context="" type="1" thread="10100" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="17:46:29.548-120" date="07-08-2019" component="CMBITSManager" context="" type="0" thread="6156" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="17:46:29.592-120" date="07-08-2019" component="CMBITSManager" context="" type="1" thread="6156" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="18:18:23.423-120" date="07-08-2019" component="CMBITSManager" context="" type="0" thread="7816" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="18:18:23.455-120" date="07-08-2019" component="CMBITSManager" context="" type="1" thread="7816" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="18:49:49.308-120" date="07-08-2019" component="CMBITSManager" context="" type="0" thread="5980" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="18:49:49.329-120" date="07-08-2019" component="CMBITSManager" context="" type="1" thread="5980" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="10:59:50.670-120" date="07-09-2019" component="CMBITSManager" context="" type="0" thread="4956" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="10:59:50.685-120" date="07-09-2019" component="CMBITSManager" context="" type="1" thread="4956" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="09:25:31.634-120" date="07-10-2019" component="CMBITSManager" context="" type="0" thread="2344" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="09:25:31.641-120" date="07-10-2019" component="CMBITSManager" context="" type="1" thread="2344" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="08:42:32.577-120" date="07-11-2019" component="CMBITSManager" context="" type="0" thread="1556" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="08:42:32.649-120" date="07-11-2019" component="CMBITSManager" context="" type="1" thread="1556" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="07:20:16.899-120" date="07-12-2019" component="CMBITSManager" context="" type="0" thread="3768" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="07:20:16.907-120" date="07-12-2019" component="CMBITSManager" context="" type="1" thread="3768" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="07:59:59.077-120" date="07-15-2019" component="CMBITSManager" context="" type="0" thread="8360" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="07:59:59.085-120" date="07-15-2019" component="CMBITSManager" context="" type="1" thread="8360" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="08:03:10.873-120" date="07-18-2019" component="CMBITSManager" context="" type="0" thread="8292" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="08:03:10.880-120" date="07-18-2019" component="CMBITSManager" context="" type="1" thread="8292" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="07:53:33.293-120" date="07-19-2019" component="CMBITSManager" context="" type="0" thread="10424" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="07:53:33.315-120" date="07-19-2019" component="CMBITSManager" context="" type="1" thread="10424" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="07:46:03.039-120" date="07-22-2019" component="CMBITSManager" context="" type="0" thread="10104" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="07:46:03.051-120" date="07-22-2019" component="CMBITSManager" context="" type="1" thread="10104" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="06:42:26.670-120" date="07-23-2019" component="CMBITSManager" context="" type="0" thread="7520" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="06:42:26.687-120" date="07-23-2019" component="CMBITSManager" context="" type="1" thread="7520" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="06:44:11.439-120" date="07-24-2019" component="CMBITSManager" context="" type="0" thread="8668" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="06:44:11.447-120" date="07-24-2019" component="CMBITSManager" context="" type="1" thread="8668" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="06:48:54.505-120" date="07-26-2019" component="CMBITSManager" context="" type="0" thread="3508" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="06:48:54.560-120" date="07-26-2019" component="CMBITSManager" context="" type="1" thread="3508" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="07:25:47.699-120" date="07-29-2019" component="CMBITSManager" context="" type="0" thread="10636" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="07:25:47.716-120" date="07-29-2019" component="CMBITSManager" context="" type="1" thread="10636" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="07:56:56.975-120" date="07-30-2019" component="CMBITSManager" context="" type="0" thread="4836" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="07:56:56.994-120" date="07-30-2019" component="CMBITSManager" context="" type="1" thread="4836" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="15:25:13.178-120" date="07-30-2019" component="CMBITSManager" context="" type="0" thread="5916" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="15:25:13.199-120" date="07-30-2019" component="CMBITSManager" context="" type="1" thread="5916" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="07:32:41.936-120" date="08-02-2019" component="CMBITSManager" context="" type="0" thread="932" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="07:32:41.970-120" date="08-02-2019" component="CMBITSManager" context="" type="1" thread="932" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="13:44:35.869-120" date="08-07-2019" component="CMBITSManager" context="" type="0" thread="9512" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="13:44:35.875-120" date="08-07-2019" component="CMBITSManager" context="" type="1" thread="9512" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="07:10:51.134-120" date="08-08-2019" component="CMBITSManager" context="" type="0" thread="1272" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="07:10:51.211-120" date="08-08-2019" component="CMBITSManager" context="" type="1" thread="1272" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="11:36:11.709-120" date="08-08-2019" component="CMBITSManager" context="" type="0" thread="4232" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="11:36:11.776-120" date="08-08-2019" component="CMBITSManager" context="" type="1" thread="4232" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="07:34:12.032-120" date="08-09-2019" component="CMBITSManager" context="" type="0" thread="5384" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="07:34:12.050-120" date="08-09-2019" component="CMBITSManager" context="" type="1" thread="5384" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="10:55:28.096-120" date="09-07-2019" component="CMBITSManager" context="" type="0" thread="1852" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="10:55:28.113-120" date="09-07-2019" component="CMBITSManager" context="" type="1" thread="1852" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="09:06:21.106-120" date="09-14-2019" component="CMBITSManager" context="" type="0" thread="6944" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="09:06:21.122-120" date="09-14-2019" component="CMBITSManager" context="" type="1" thread="6944" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="07:08:37.328-120" date="09-18-2019" component="CMBITSManager" context="" type="0" thread="4208" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="07:08:37.367-120" date="09-18-2019" component="CMBITSManager" context="" type="1" thread="4208" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="03:33:23.503-120" date="09-25-2019" component="CMBITSManager" context="" type="0" thread="948" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="03:33:23.510-120" date="09-25-2019" component="CMBITSManager" context="" type="1" thread="948" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="08:47:37.884-120" date="09-25-2019" component="CMBITSManager" context="" type="0" thread="9768" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="08:47:37.900-120" date="09-25-2019" component="CMBITSManager" context="" type="1" thread="9768" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="04:20:02.477-120" date="10-02-2019" component="CMBITSManager" context="" type="0" thread="8536" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="04:20:02.502-120" date="10-02-2019" component="CMBITSManager" context="" type="1" thread="8536" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="08:02:49.667-120" date="10-10-2019" component="CMBITSManager" context="" type="0" thread="2256" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="08:02:49.672-120" date="10-10-2019" component="CMBITSManager" context="" type="1" thread="2256" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="10:46:33.511-120" date="10-10-2019" component="CMBITSManager" context="" type="0" thread="8468" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="10:46:33.584-120" date="10-10-2019" component="CMBITSManager" context="" type="1" thread="8468" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="08:39:16.179-120" date="10-25-2019" component="CMBITSManager" context="" type="0" thread="6704" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="08:39:16.189-120" date="10-25-2019" component="CMBITSManager" context="" type="1" thread="6704" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="14:54:06.784-60" date="10-29-2019" component="CMBITSManager" context="" type="0" thread="9568" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="14:54:06.793-60" date="10-29-2019" component="CMBITSManager" context="" type="1" thread="9568" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="05:14:34.332-60" date="12-14-2019" component="CMBITSManager" context="" type="0" thread="4716" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="05:14:34.339-60" date="12-14-2019" component="CMBITSManager" context="" type="1" thread="4716" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="12:04:29.199-60" date="12-21-2019" component="CMBITSManager" context="" type="0" thread="5992" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="12:04:29.206-60" date="12-21-2019" component="CMBITSManager" context="" type="1" thread="5992" file="StartUpTask.h:44">
+<![LOG[In CM BITS Manager startup task.]LOG]!><time="06:13:11.099-60" date="12-22-2019" component="CMBITSManager" context="" type="0" thread="7324" file="startuptask.cpp:32">
+<![LOG[CCMBITSManagerStartup::FinalRelease()]LOG]!><time="06:13:11.105-60" date="12-22-2019" component="CMBITSManager" context="" type="1" thread="7324" file="StartUpTask.h:44">

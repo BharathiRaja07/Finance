@@ -1,0 +1,5 @@
+﻿<![LOG[CPeerDPManager::OnSettingsChange]LOG]!><time="10:11:36.962-60" date="11-10-2017" component="PeerDPAgent" context="" type="1" thread="4488" file="pdpmgrendpoint.cpp:146">
+<![LOG[CBITS2Configuration::ConfigureSettings]LOG]!><time="10:11:36.962-60" date="11-10-2017" component="PeerDPAgent" context="" type="1" thread="4488" file="bits2config.cpp:97">
+<![LOG[Found setting CCM_Service_BITS2Configuration.DummyKey=1]LOG]!><time="10:11:36.993-60" date="11-10-2017" component="PeerDPAgent" context="" type="0" thread="6904" file="bits2config.cpp:184">
+<![LOG[New BITS configuration settings have been applied to the client.]LOG]!><time="10:11:37.118-60" date="11-10-2017" component="PeerDPAgent" context="" type="1" thread="4488" file="bits2config.cpp:116">
+<![LOG[BITS configuration settings have been deleted from the client.]LOG]!><time="03:48:02.087-120" date="10-22-2018" component="PeerDPAgent" context="" type="1" thread="4176" file="bits2config.cpp:152">
