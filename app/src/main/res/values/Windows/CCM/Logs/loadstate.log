@@ -1,8 +1,0 @@
-﻿2017-11-10 10:06:05, Info                  [0x000000] USMT Started at 2017/11/10:10:06:05.992
-2017-11-10 10:06:05, Info                  [0x000000] Command line: C:\_SMSTaskSequence\Packages\C010034C\loadstate.exe C:\_SMSTaskSequence\UserState /v:5 /c /l:C:\WINDOWS\CCM\Logs\SMSTSLog\loadstate.log /progress:C:\WINDOWS\CCM\Logs\SMSTSLog\loadstateprogress.log /i:C:\_SMSTaskSequence\Packages\C010034C\amd64\MigDLMUser.xml
-2017-11-10 10:06:05, Info                  [0x000000] Running 32-Bit process on a 64-Bit system is not supported.[gle=0x00000006]
-2017-11-10 10:06:05, Info                  [0x000000] Failed.[gle=0x00000006]
-2017-11-10 10:06:05, Info                  [0x000000]   Compliance check failure; please check the logs for details[gle=0x00000006]
-2017-11-10 10:06:05, Info                  [0x000000] USMT Completed at 2017/11/10:10:06:05.992[gle=0x00000006]
-﻿2017-11-10 10:06:05, Info                  [0x000000] Entering MigShutdown method
-2017-11-10 10:06:05, Info                  [0x000000] Leaving MigShutdown method

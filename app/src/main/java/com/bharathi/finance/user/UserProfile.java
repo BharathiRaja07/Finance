@@ -1,5 +1,9 @@
 package com.bharathi.finance.user;
 
+import com.bharathi.finance.loan.Loan;
+
+import java.util.List;
+
 public class UserProfile {
 
     private String name;
@@ -10,6 +14,7 @@ public class UserProfile {
     private boolean agent;
     private boolean customer;
     private String address;
+    private List<Loan> loanList;
 
     public String getName() {
         return name;
@@ -73,5 +78,13 @@ public class UserProfile {
 
     public void setAddress(String address) {
         this.address = address;
+    }
+
+    public List<Loan> getLoanList() {
+        return loanList;
+    }
+
+    public void setLoanList(List<Loan> loanList) {
+        this.loanList = loanList;
     }
 }

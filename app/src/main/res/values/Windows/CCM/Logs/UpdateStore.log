@@ -1,2 +1,0 @@
-﻿<![LOG[pEndpoint->HandleMessage( pService, pMsg, pContext, 0 ), HRESULT=87d00310 (e:\nts_sccm_release\sms\framework\messaging\ccmexec\messagequeueproc_endpoint.cpp,76)]LOG]!><time="10:12:35.700-60" date="11-10-2017" component="UpdateStore" context="" type="0" thread="2220" file="messagequeueproc_endpoint.cpp:76">
-<![LOG[Endpoint 'UpdateStore' returned error code 0x87d00310.]LOG]!><time="10:12:35.840-60" date="11-10-2017" component="UpdateStore" context="" type="3" thread="2220" file="messagequeueproc_endpoint.cpp:76">
