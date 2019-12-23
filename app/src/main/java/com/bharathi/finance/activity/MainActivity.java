@@ -4,6 +4,7 @@ import android.content.Intent;
 import android.os.Bundle;
 
 import com.bharathi.finance.R;
+import com.bharathi.finance.navigation.MainPanel;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 
@@ -27,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
 
         //check if user is null
         if (firebaseUser != null){
-            Intent intent = new Intent(MainActivity.this, ProfileActivity.class);
+            Intent intent = new Intent(MainActivity.this, MainPanel.class);
             startActivity(intent);
             finish();
         }
