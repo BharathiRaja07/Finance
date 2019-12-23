@@ -39,5 +39,17 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.0'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.1.1'
 
+    // RecyclerView
+    implementation 'com.android.support:recyclerview-v7:26.1.0'
+
+    // CardView
+   implementation 'androidx.cardview:cardview:1.0.0'
+    // volley http library
+    implementation 'com.android.volley:volley:1.1.0'
+    implementation 'com.google.code.gson:gson:2.6.2'
+
+    // glide image library
+    implementation 'com.github.bumptech.glide:glide:4.3.1'
+
 
 }
