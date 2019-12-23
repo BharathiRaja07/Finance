@@ -1,4 +1,5 @@
-package com.bharathi.finance.navigation.offers;
+package com.bharathi.finance.fragment;
+
 
 import android.content.Context;
 import android.content.res.Resources;
@@ -13,11 +14,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import androidx.annotation.NonNull;
-import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
-import androidx.lifecycle.Observer;
-import androidx.lifecycle.ViewModelProviders;
 import androidx.recyclerview.widget.DefaultItemAnimator;
 import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
@@ -35,21 +32,24 @@ import org.json.JSONArray;
 import java.util.ArrayList;
 import java.util.List;
 
-public class OffersFragement extends Fragment {
 
-    private static final String TAG = OffersFragement.class.getSimpleName();
+public class StoreFragment extends Fragment {
+
+    private static final String TAG = StoreFragment.class.getSimpleName();
+
+    // url to fetch shopping items
     private static final String URL = "https://api.androidhive.info/json/movies_2017.json";
 
     private RecyclerView recyclerView;
-    private List<Offers> movieList;
+    private List<Movie> itemsList;
     private StoreAdapter mAdapter;
 
-    public OffersFragement() {
+    public StoreFragment() {
         // Required empty public constructor
     }
 
-    public static OffersFragement newInstance(String param1, String param2) {
-        OffersFragement fragment = new OffersFragement();
+    public static StoreFragment newInstance(String param1, String param2) {
+        StoreFragment fragment = new StoreFragment();
         Bundle args = new Bundle();
         fragment.setArguments(args);
         return fragment;
@@ -64,11 +64,11 @@ public class OffersFragement extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        View view = inflater.inflate(R.layout.fragment_offers, container, false);
+        View view = inflater.inflate(R.layout.fragment_store, container, false);
 
         recyclerView = view.findViewById(R.id.recycler_view);
-        movieList = new ArrayList<>();
-        mAdapter = new StoreAdapter(getActivity(), movieList);
+        itemsList = new ArrayList<>();
+        mAdapter = new StoreAdapter(getActivity(), itemsList);
 
         RecyclerView.LayoutManager mLayoutManager = new GridLayoutManager(getActivity(), 3);
         recyclerView.setLayoutManager(mLayoutManager);
@@ -82,33 +82,18 @@ public class OffersFragement extends Fragment {
         return view;
     }
 
+    /**
+     * fetching shopping item by making http call
+     */
     private void fetchStoreItems() {
-        JsonArrayRequest request = new JsonArrayRequest(URL,
-                new Response.Listener<JSONArray>() {
-                    @Override
-                    public void onResponse(JSONArray response) {
-                        if (response == null) {
-                            Toast.makeText(getActivity(), "Couldn't fetch the store items! Pleas try again.", Toast.LENGTH_LONG).show();
-                            return;
-                        }
-
-                        List<Offers> items = new Gson().fromJson(response.toString(), new TypeToken<List<Offers>>() {
+                        List<Movie> items = new Gson().fromJson(getResources().getString(R.string.movies), new TypeToken<List<Movie>>() {
                         }.getType());
 
-                        movieList.clear();
-                        movieList.addAll(items);
+                        itemsList.clear();
+                        itemsList.addAll(items);
 
                         // refreshing recycler view
                         mAdapter.notifyDataSetChanged();
-                    }
-                }, new Response.ErrorListener() {
-            @Override
-            public void onErrorResponse(VolleyError error) {
-                // error in getting json
-                Log.e(TAG, "Error: " + error.getMessage());
-                Toast.makeText(getActivity(), "Error: " + error.getMessage(), Toast.LENGTH_SHORT).show();
-            }
-        });
 
         //MyApplication.getInstance().addToRequestQueue(request);
     }
@@ -156,9 +141,14 @@ public class OffersFragement extends Fragment {
         return Math.round(TypedValue.applyDimension(TypedValue.COMPLEX_UNIT_DIP, dp, r.getDisplayMetrics()));
     }
 
+
+    /**
+     * RecyclerView adapter class to render items
+     * This class can go into another separate class, but for simplicity
+     */
     class StoreAdapter extends RecyclerView.Adapter<StoreAdapter.MyViewHolder> {
         private Context context;
-        private List<Offers> movieList;
+        private List<Movie> movieList;
 
         public class MyViewHolder extends RecyclerView.ViewHolder {
             public TextView name, price;
@@ -173,7 +163,7 @@ public class OffersFragement extends Fragment {
         }
 
 
-        public StoreAdapter(Context context, List<Offers> movieList) {
+        public StoreAdapter(Context context, List<Movie> movieList) {
             this.context = context;
             this.movieList = movieList;
         }
@@ -181,14 +171,14 @@ public class OffersFragement extends Fragment {
         @Override
         public MyViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
             View itemView = LayoutInflater.from(parent.getContext())
-                    .inflate(R.layout.offer_item_row, parent, false);
+                    .inflate(R.layout.store_item_row, parent, false);
 
             return new MyViewHolder(itemView);
         }
 
         @Override
         public void onBindViewHolder(MyViewHolder holder, final int position) {
-            final Offers movie = movieList.get(position);
+            final Movie movie = movieList.get(position);
             holder.name.setText(movie.getTitle());
             holder.price.setText(movie.getPrice());
 

@@ -2,11 +2,10 @@
 
     <resources>
 
-    <color name="colorPrimary">#5a98ec</color>
-
-    <color name="colorPrimaryDark">#457dca</color>
-
-    <color name="colorAccent">#88b0e7</color>
+    <color name="colorPrimary">#7b4bff</color>
+    <color name="colorPrimaryDark">#6539ba</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="bgBottomNavigation">#fe485a</color>
 
     <color name="profilePrimaryDark">#FF3B30</color>
     <color name="profileAccentColor">#F7F7F7</color>
@@ -14,5 +13,7 @@
     <color name="profileBackground">#fff</color>
     <color name="blackTextColor">#000</color>
     <color name="profileEditTextColor">#707070</color>
+
+
 
 </resources>

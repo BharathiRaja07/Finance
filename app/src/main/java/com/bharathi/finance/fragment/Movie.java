@@ -1,6 +1,10 @@
-package com.bharathi.finance.navigation.offers;
+package com.bharathi.finance.fragment;
 
-public class Offers {
+/**
+ * Created by ravi on 21/12/17.
+ */
+
+public class Movie {
     String title;
     String image;
     String price;

@@ -4,7 +4,7 @@ import android.content.Intent;
 import android.os.Bundle;
 
 import com.bharathi.finance.R;
-import com.bharathi.finance.navigation.MainPanel;
+import com.bharathi.finance.fragment.MainPanel;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 
