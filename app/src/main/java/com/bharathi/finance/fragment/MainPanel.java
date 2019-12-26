@@ -9,17 +9,9 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.coordinatorlayout.widget.CoordinatorLayout;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentTransaction;
-import androidx.navigation.NavController;
-import androidx.navigation.Navigation;
-import androidx.navigation.ui.AppBarConfiguration;
-import androidx.navigation.ui.NavigationUI;
 
 import com.bharathi.finance.BottomNavigationBehavior;
 import com.bharathi.finance.R;
-import com.bharathi.finance.fragment.CartFragment;
-import com.bharathi.finance.fragment.GiftsFragment;
-import com.bharathi.finance.fragment.ProfileFragment;
-import com.bharathi.finance.fragment.StoreFragment;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 public class MainPanel extends AppCompatActivity {
@@ -59,7 +51,7 @@ public class MainPanel extends AppCompatActivity {
                     return true;
                 case R.id.navigation_gifts:
                     toolbar.setTitle("My Gifts");
-                    fragment = new GiftsFragment();
+                    fragment = new DashBoardFragment();
                     loadFragment(fragment);
                     return true;
                 case R.id.navigation_cart:

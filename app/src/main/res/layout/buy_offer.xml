@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".activity.CreateProfileActivity">
+
+
+<!--    <TextView-->
+<!--        android:id="@+id/tv_subtitle"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="Please fill all fields"-->
+<!--        android:textSize="17sp"-->
+<!--        android:layout_marginleft="25dp"-->
+<!--        android:layout_marginBottom="50dp"/>-->
+    <TextView
+        android:id="@+id/buy_offer_order_details"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="10dp"
+        android:gravity="center"
+        android:inputType="textPersonName"
+        android:padding="15dp"
+        android:text="Order Details"
+        android:textSize="30sp" />
+
+    <TableLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/buy_offer_companyName_label"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginBottom="10dp"
+                android:inputType="textPersonName"
+                android:padding="15dp"
+                android:text="Company Name"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/buy_offer_companyName"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginBottom="10dp"
+                android:padding="15dp"
+                android:text="Company Name"
+                android:textSize="15sp" />
+        </TableRow>
+
+        <TableRow>
+    <TextView
+        android:id="@+id/buy_offer_amount_label"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="10dp"
+        android:padding="15dp"
+        android:inputType="textPersonName"
+        android:text="Amount"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/buy_offer_amount"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="10dp"
+        android:padding="15dp"
+        
+        android:text="Company Name"
+        android:textSize="15sp" />
+    </TableRow>
+    <TableRow>
+    <TextView
+        android:id="@+id/buy_offer_principal_label"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="10dp"
+        android:padding="15dp"
+        android:inputType="textPersonName"
+        android:text="Principal"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/buy_offer_principal"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="10dp"
+        android:padding="15dp"
+        
+        android:text="Company Name"
+        android:textSize="15sp" />
+    </TableRow>
+    <TableRow>
+    <TextView
+        android:id="@+id/buy_offer_interest_label"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="10dp"
+        android:padding="15dp"
+        android:inputType="textPersonName"
+        android:text="Interest"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/buy_offer_interest"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="10dp"
+        android:padding="15dp"
+        
+        android:text="Company Name"
+        android:textSize="15sp" />
+    </TableRow>
+    <TableRow>
+    <TextView
+        android:id="@+id/buy_offer_duration_label"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="10dp"
+        android:padding="15dp"
+        android:inputType="textPersonName"
+        android:text="Duration"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/buy_offer_duration"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="10dp"
+        android:padding="15dp"
+        
+        android:text="Company Name"
+        android:textSize="15sp" />
+    </TableRow>
+    <TableRow>
+    <TextView
+        android:id="@+id/buy_offer_monthly_installement_label"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="10dp"
+        android:padding="15dp"
+        android:inputType="textPersonName"
+        android:text="Monthly Installement"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/buy_offer_monthly_installement"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="10dp"
+        android:padding="15dp"
+        
+        android:text="Company Name"
+        android:textSize="15sp" />
+    </TableRow>
+    <TableRow>
+    <TextView
+        android:id="@+id/buy_offer_start_date_label"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="10dp"
+        android:padding="15dp"
+        android:inputType="textPersonName"
+        android:text="Start Date"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/buy_offer_start_date"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="10dp"
+        android:padding="15dp"
+        
+        android:text="Company Name"
+        android:textSize="15sp" />
+    </TableRow>
+    <TableRow>
+    <TextView
+        android:id="@+id/buy_offer_endt_date_label"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="10dp"
+        android:padding="15dp"
+        android:inputType="textPersonName"
+        android:text="End Date"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/buy_offer_end_date"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="10dp"
+        android:padding="15dp"
+        
+        android:text="Company Name"
+        android:textSize="15sp" />
+    </TableRow>
+</TableLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <Button
+            android:id="@+id/buy_offer_order"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginBottom="30dp"
+            android:layout_centerInParent="true"
+            android:textColor="@android:color/white"
+            android:text="Order"/>
+
+
+    </RelativeLayout>
+
+</LinearLayout>

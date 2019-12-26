@@ -2,7 +2,6 @@ package com.bharathi.finance.fragment;
 
 
 import android.content.Context;
-import android.content.Intent;
 import android.content.res.Resources;
 import android.graphics.Rect;
 import android.os.Bundle;
@@ -19,7 +18,7 @@ import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.bharathi.finance.R;
-import com.bharathi.finance.activity.BuyOfferActivity;
+import com.bharathi.finance.loan.Loan;
 import com.bumptech.glide.Glide;
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
@@ -28,23 +27,23 @@ import java.util.ArrayList;
 import java.util.List;
 
 
-public class StoreFragment extends Fragment {
+public class DashBoardFragment extends Fragment {
 
-    private static final String TAG = StoreFragment.class.getSimpleName();
+    private static final String TAG = DashBoardFragment.class.getSimpleName();
 
     // url to fetch shopping items
     private static final String URL = "https://api.androidhive.info/json/movies_2017.json";
 
     private RecyclerView recyclerView;
-    private List<Offer> itemsList;
-    private StoreAdapter mAdapter;
+    private List<Loan> loanList;
+    private DashBoardFragment.DashBoardAdapter mAdapter;
 
-    public StoreFragment() {
+    public DashBoardFragment() {
         // Required empty public constructor
     }
 
-    public static StoreFragment newInstance(String param1, String param2) {
-        StoreFragment fragment = new StoreFragment();
+    public static DashBoardFragment newInstance(String param1, String param2) {
+        DashBoardFragment fragment = new DashBoardFragment();
         Bundle args = new Bundle();
         fragment.setArguments(args);
         return fragment;
@@ -59,20 +58,20 @@ public class StoreFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        View view = inflater.inflate(R.layout.fragment_store, container, false);
+        View view = inflater.inflate(R.layout.fragment_dashboard, container, false);
 
-        recyclerView = view.findViewById(R.id.store_recycler_view);
-        itemsList = new ArrayList<>();
-        mAdapter = new StoreAdapter(getActivity(), itemsList);
+        recyclerView = view.findViewById(R.id.dashboard_card_view);
+        loanList = new ArrayList<>();
+        mAdapter = new DashBoardFragment.DashBoardAdapter(getActivity(), loanList);
 
-        RecyclerView.LayoutManager mLayoutManager = new GridLayoutManager(getActivity(), 3);
+        RecyclerView.LayoutManager mLayoutManager = new GridLayoutManager(getActivity(), 1);
         recyclerView.setLayoutManager(mLayoutManager);
-        recyclerView.addItemDecoration(new GridSpacingItemDecoration(2, dpToPx(8), true));
+        recyclerView.addItemDecoration(new DashBoardFragment.GridSpacingItemDecoration(2, dpToPx(8), true));
         recyclerView.setItemAnimator(new DefaultItemAnimator());
         recyclerView.setAdapter(mAdapter);
         recyclerView.setNestedScrollingEnabled(false);
 
-        fetchStoreItems();
+        fetchDashBoardItems();
 
         return view;
     }
@@ -80,15 +79,15 @@ public class StoreFragment extends Fragment {
     /**
      * fetching shopping item by making http call
      */
-    private void fetchStoreItems() {
-                        List<Offer> items = new Gson().fromJson(getResources().getString(R.string.offers), new TypeToken<List<Offer>>() {
-                        }.getType());
+    private void fetchDashBoardItems() {
+        List<Loan> items = new Gson().fromJson(getResources().getString(R.string.loans), new TypeToken<List<Loan>>() {
+        }.getType());
 
-                        itemsList.clear();
-                        itemsList.addAll(items);
+        loanList.clear();
+        loanList.addAll(items);
 
-                        // refreshing recycler view
-                        mAdapter.notifyDataSetChanged();
+        // refreshing recycler view
+        mAdapter.notifyDataSetChanged();
 
         //MyApplication.getInstance().addToRequestQueue(request);
     }
@@ -141,69 +140,61 @@ public class StoreFragment extends Fragment {
      * RecyclerView adapter class to render items
      * This class can go into another separate class, but for simplicity
      */
-    class StoreAdapter extends RecyclerView.Adapter<StoreAdapter.MyViewHolder> {
+    class DashBoardAdapter extends RecyclerView.Adapter<DashBoardAdapter.MyViewHolder> {
         private Context context;
-        private List<Offer> offerList;
+        private List<Loan> loanList;
 
         public class MyViewHolder extends RecyclerView.ViewHolder {
-            public TextView offer_companyName, offer_amount,offer_principal,offer_duration,offer_interst;
-            public ImageView offer_image;
-            View currentView;
-            Offer currentOffer;
-            public MyViewHolder(View view) {
+            public TextView name, amount,principal,duration,interest;
+            public View currentView;
+            public Loan currentLoan;
+            public MyViewHolder(final View view) {
                 super(view);
-                offer_companyName = view.findViewById(R.id.offer_companyName);
-                offer_amount = view.findViewById(R.id.offer_amount);
-                offer_principal = view.findViewById(R.id.offer_principal);
-                offer_interst = view.findViewById(R.id.offer_interest);
-                offer_duration = view.findViewById(R.id.offer_duration);
-                offer_image = view.findViewById(R.id.offer_image);
+                name = view.findViewById(R.id.loan_name);
+                amount = view.findViewById(R.id.loan_amount);
+                principal = view.findViewById(R.id.loan_principal);
+                duration = view.findViewById(R.id.loan_duration);
+                interest = view.findViewById(R.id.loan_interest);
+
                 currentView = view;
                 view.setOnClickListener(new View.OnClickListener() {
                     @Override public void onClick(View v) {
-                        String name = currentOffer.getCompanyName();
-                        Intent intent = new Intent(getActivity(), BuyOfferActivity.class);
-                        intent.putExtra("selectedOffer",currentOffer);
-                        startActivity(intent);
+                        String name = currentLoan.getName();
                     }
                 });
 
             }
+
         }
 
 
-        public StoreAdapter(Context context, List<Offer> offerList) {
+        public DashBoardAdapter(Context context, List<Loan> loanList) {
             this.context = context;
-            this.offerList = offerList;
+            this.loanList = loanList;
         }
 
         @Override
         public MyViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
             View itemView = LayoutInflater.from(parent.getContext())
-                    .inflate(R.layout.fragment_store_item_row, parent, false);
+                    .inflate(R.layout.fragment_dashboard_item_row, parent, false);
 
-            return new MyViewHolder(itemView);
+            return new DashBoardFragment.DashBoardAdapter.MyViewHolder(itemView);
         }
 
         @Override
-        public void onBindViewHolder(MyViewHolder holder, final int position) {
-            final Offer offer = offerList.get(position);
-            holder.offer_companyName.setText(offer.getCompanyName());
-            holder.offer_amount.setText(offer.getAmount());
-            //holder.offer_principal.setText(offer.getCompanyName());
-            holder.offer_principal.setText(offer.getPrincipal());
-            holder.offer_interst.setText(offer.getInterest());
-            holder.offer_duration.setText(offer.getDuration());
-
-            Glide.with(context)
-                    .load(R.drawable.money)
-                    .into(holder.offer_image);
-            holder.currentOffer = offer;
+        public void onBindViewHolder(DashBoardFragment.DashBoardAdapter.MyViewHolder holder, final int position) {
+            final Loan loan = loanList.get(position);
+            holder.name.setText(loan.getName());
+            holder.amount.setText(loan.getAmount());
+            holder.principal.setText(loan.getPrinciple());
+            holder.duration.setText(loan.getDuration());
+            holder.interest.setText(loan.getInterest());
+            holder.currentLoan = loan;
         }
 
         @Override
         public int getItemCount() {
-            return offerList.size();
+            return loanList.size();
         }
     }
 }

@@ -15,12 +15,12 @@
             android:layout_height="wrap_content"
             android:paddingLeft="@dimen/activity_horizontal_margin"
             android:paddingTop="10dp"
-            android:text="New Offers"
+            android:text="Your Loans"
             android:textColor="#111"
             android:textSize="16dp" />
 
         <androidx.recyclerview.widget.RecyclerView
-            android:id="@+id/store_recycler_view"
+            android:id="@+id/dashboard_card_view"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:clipToPadding="false"

@@ -1,0 +1,81 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/dashboard_card_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:layout_margin="@dimen/card_margin"
+        android:elevation="3dp"
+        android:foreground="?attr/selectableItemBackground"
+        card_view:cardCornerRadius="@dimen/card_album_radius">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+            <TextView
+                android:id="@+id/loan_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:lines="2"
+                android:paddingLeft="@dimen/card_title_padding"
+                android:paddingTop="@dimen/card_title_padding"
+                android:paddingRight="@dimen/card_title_padding"
+                android:textColor="#111"
+                android:textSize="11dp" />
+
+            <TextView
+                android:id="@+id/loan_amount"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/loan_name"
+                android:layout_marginRight="10dp"
+                android:gravity="right"
+                android:paddingBottom="@dimen/card_price_padding_bottom"
+                android:textColor="@color/colorAccent"
+                android:textSize="11dp" />
+
+            <TextView
+                android:id="@+id/loan_principal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/loan_amount"
+                android:lines="2"
+                android:paddingLeft="@dimen/card_title_padding"
+                android:paddingTop="@dimen/card_title_padding"
+                android:paddingRight="@dimen/card_title_padding"
+                android:textColor="#111"
+                android:textSize="11dp" />
+
+            <TextView
+                android:id="@+id/loan_duration"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/loan_principal"
+                android:layout_marginRight="10dp"
+                android:gravity="right"
+                android:paddingBottom="@dimen/card_price_padding_bottom"
+                android:textColor="@color/colorAccent"
+                android:textSize="11dp" />
+
+            <TextView
+                android:id="@+id/loan_interest"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/loan_duration"
+                android:layout_marginRight="10dp"
+                android:gravity="right"
+                android:paddingBottom="@dimen/card_price_padding_bottom"
+                android:textColor="@color/colorAccent"
+                android:textSize="11dp" />
+
+        </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+
+</LinearLayout>

@@ -2,6 +2,7 @@ package com.bharathi.finance.user;
 
 import com.bharathi.finance.loan.Loan;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class UserProfile {
@@ -81,6 +82,9 @@ public class UserProfile {
     }
 
     public List<Loan> getLoanList() {
+        if(loanList == null){
+            return new ArrayList<Loan>();
+        }
         return loanList;
     }
 

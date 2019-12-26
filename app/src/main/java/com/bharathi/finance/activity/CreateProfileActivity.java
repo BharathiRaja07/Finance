@@ -12,6 +12,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import com.bharathi.finance.R;
 import com.bharathi.finance.fragment.MainPanel;
+import com.bharathi.finance.loan.Loan;
 import com.bharathi.finance.user.UserProfile;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
@@ -19,6 +20,8 @@ import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
+
+import java.util.ArrayList;
 
 public class CreateProfileActivity extends AppCompatActivity {
     Button save;
@@ -48,6 +51,7 @@ public class CreateProfileActivity extends AppCompatActivity {
                 userProfile.setEmailId(mailId.getText().toString());
                 userProfile.setDob(dob.getText().toString());
                 userProfile.setGender("Male");
+                userProfile.setLoanList(new ArrayList<Loan>());
                 FirebaseUser firebaseUser = mAuth.getCurrentUser();
                 if(firebaseUser != null) {
                     assert firebaseUser != null;

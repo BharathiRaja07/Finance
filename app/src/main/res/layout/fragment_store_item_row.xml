@@ -9,7 +9,6 @@
         android:layout_height="match_parent"
         android:layout_gravity="center"
         android:layout_margin="@dimen/card_margin"
-        android:clickable="true"
         android:elevation="3dp"
         android:foreground="?attr/selectableItemBackground"
         card_view:cardCornerRadius="@dimen/card_album_radius">
@@ -19,32 +18,62 @@
             android:layout_height="match_parent">
 
             <ImageView
-                android:id="@+id/thumbnail"
+                android:id="@+id/offer_image"
                 android:layout_width="match_parent"
                 android:layout_height="@dimen/card_cover_height"
                 android:background="?attr/selectableItemBackgroundBorderless"
-                android:clickable="true"
                 android:scaleType="fitXY" />
 
             <TextView
-                android:id="@+id/title"
+                android:id="@+id/offer_companyName"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_below="@id/thumbnail"
+                android:layout_below="@id/offer_image"
                 android:lines="2"
                 android:paddingLeft="@dimen/card_title_padding"
                 android:paddingRight="@dimen/card_title_padding"
                 android:paddingTop="@dimen/card_title_padding"
+                android:gravity="center"
                 android:textColor="#111"
                 android:textSize="11dp" />
 
             <TextView
-                android:id="@+id/price"
+                android:id="@+id/offer_amount"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_below="@id/title"
+                android:layout_below="@id/offer_companyName"
                 android:layout_marginRight="10dp"
-                android:gravity="right"
+                android:gravity="center"
+                android:paddingBottom="@dimen/card_price_padding_bottom"
+                android:textColor="@color/colorAccent"
+                android:textSize="11dp" />
+            <TextView
+                android:id="@+id/offer_principal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/offer_amount"
+                android:layout_marginRight="10dp"
+                android:gravity="center"
+                android:paddingBottom="@dimen/card_price_padding_bottom"
+                android:textColor="@color/colorAccent"
+                android:textSize="11dp" />
+            <TextView
+                android:id="@+id/offer_interest"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/offer_principal"
+                android:layout_marginRight="10dp"
+                android:gravity="center"
+                android:paddingBottom="@dimen/card_price_padding_bottom"
+                android:textColor="@color/colorAccent"
+                android:textSize="11dp" />
+            <TextView
+                android:id="@+id/offer_duration"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/offer_interest"
+                android:layout_marginRight="10dp"
+                android:gravity="center"
                 android:paddingBottom="@dimen/card_price_padding_bottom"
                 android:textColor="@color/colorAccent"
                 android:textSize="11dp" />
