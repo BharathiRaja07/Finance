@@ -26,6 +26,7 @@
     <activity android:name=".activity.CreateProfileActivity"/>
     <activity android:name=".fragment.MainPanel"/>
     <activity android:name=".activity.BuyOfferActivity"/>
+    <activity android:name=".fragment.InstallmentActivity"/>
 
 </application>
 

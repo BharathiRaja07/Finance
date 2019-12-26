@@ -1,6 +1,8 @@
 package com.bharathi.finance.loan;
 
-public class Installment {
+import java.io.Serializable;
+
+public class Installment implements Serializable {
 
     private String principal;
     private String interest;

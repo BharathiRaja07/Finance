@@ -1,8 +1,9 @@
 package com.bharathi.finance.loan;
 
+import java.io.Serializable;
 import java.util.List;
 
-public class Loan {
+public class Loan implements Serializable {
     private String name;
     private String amount;
     private String principle;

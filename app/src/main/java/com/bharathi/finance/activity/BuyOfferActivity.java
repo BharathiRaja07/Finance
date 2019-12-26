@@ -27,6 +27,7 @@ import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
 
+import java.text.Format;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Calendar;
@@ -57,33 +58,18 @@ public class BuyOfferActivity extends AppCompatActivity {
                 if(firebaseUser != null) {
                     assert firebaseUser != null;
                     String userid = firebaseUser.getUid();
+                    Loan loan = generateLoanAndInstallments();
+                    databaseReference = FirebaseDatabase.getInstance().getReference("loans").child(userid);
 
-                    databaseReference = FirebaseDatabase.getInstance().getReference("users").child(userid);
-
-                    databaseReference.addValueEventListener(new ValueEventListener(){
+                    databaseReference.setValue(loan).addOnCompleteListener(new OnCompleteListener<Void>() {
                         @Override
-                        public void onDataChange(DataSnapshot dataSnapshot) {
-                            UserProfile user = dataSnapshot.getValue(UserProfile.class);
-                            Loan loan = generateLoanAndInstallments();
-                            user.getLoanList().add(loan);
-                            user.setAgent(false);
-                            databaseReference.setValue(user).addOnCompleteListener(new OnCompleteListener<Void>() {
-                                @Override
-                                public void onComplete(@NonNull Task<Void> task) {
-                                    if (task.isSuccessful()) {
-                                        Intent intent = new Intent(BuyOfferActivity.this, MainPanel.class);
-                                        intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK | Intent.FLAG_ACTIVITY_NEW_TASK);
-                                        startActivity(intent);
-                                        finish();
-                                    }
-                                }
-                            });
-
-                        }
-
-                        @Override
-                        public void onCancelled(@NonNull DatabaseError databaseError) {
-
+                        public void onComplete(@NonNull Task<Void> task) {
+                            if (task.isSuccessful()) {
+                                Intent intent = new Intent(BuyOfferActivity.this, MainPanel.class);
+                                intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK | Intent.FLAG_ACTIVITY_NEW_TASK);
+                                startActivity(intent);
+                                finish();
+                            }
                         }
                     });
                 } else {
@@ -117,11 +103,24 @@ public class BuyOfferActivity extends AppCompatActivity {
         interest.setText(offer.getInterest());
         double monthlyInstallment = ((Double.parseDouble(offer.getAmount()) / ( Double.parseDouble(offer.getInterest()) * 100))) + Double.parseDouble(offer.getPrincipal());
         monthlyInstallement.setText(String.valueOf(monthlyInstallment));
-        startDate.setText("");
-        endDate.setText("");
+
+        Format formatter = new SimpleDateFormat("dd-MM-yyyy");
+        Calendar startDateCalendar = Calendar.getInstance();
+        int monthForStartDate = startDateCalendar.get(Calendar.MONTH);
+        startDateCalendar.set(Calendar.MONTH, + monthForStartDate + 1);
+        startDateCalendar.set(Calendar.DAY_OF_MONTH,6);
+        Calendar endDateCalendar = Calendar.getInstance();
+        for(int i = 1;i <= Integer.parseInt(duration.getText().toString());i++){
+            int month = endDateCalendar.get(Calendar.MONTH);
+            endDateCalendar.set(Calendar.MONTH, + month + 1);
+            endDateCalendar.set(Calendar.DAY_OF_MONTH,6);
+        }
+        startDate.setText(formatter.format(startDateCalendar.getTime()));
+        endDate.setText(formatter.format(endDateCalendar.getTime()));
     }
 
     private Loan generateLoanAndInstallments(){
+        Format formatter = new SimpleDateFormat("dd-MM-yyyy");
         Loan loan = new Loan();
         loan.setAmount(amount.getText().toString());
         loan.setDuration(duration.getText().toString());
@@ -129,14 +128,19 @@ public class BuyOfferActivity extends AppCompatActivity {
         loan.setInterest(interest.getText().toString());
         loan.setPrinciple(principal.getText().toString());
         List<Installment> installments = new ArrayList<Installment>();
-        for(int i = 0;i <= Integer.parseInt(duration.getText().toString());i++){
+        Calendar calendar = Calendar.getInstance();
+        for(int i = 1;i <= Integer.parseInt(duration.getText().toString());i++){
             Installment installment = new Installment();
             installment.setAmount(monthlyInstallement.getText().toString());
-            installment.setDueDate("");
+            int month = calendar.get(Calendar.MONTH);
+            calendar.set(Calendar.MONTH, + month + 1);
+            calendar.set(Calendar.DAY_OF_MONTH,6);
+            installment.setDueDate(formatter.format(calendar.getTime()));
             installment.setInterest( String.valueOf((Double.parseDouble(amount.getText().toString())) / ( Double.parseDouble(interest.getText().toString()) * 100)));
             installment.setPrincipal(principal.getText().toString());
             installment.setPaid(false);
             installments.add(installment);
+
 
         }
         loan.setInstallmentList(installments);
