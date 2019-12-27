@@ -5,15 +5,17 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:background="@color/background_color"
     tools:context=".activity.CreateProfileActivity">
 
     <TextView
-        android:id="@+id/tv_logo"
+        android:id="@+id/prodile"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Profile"
         android:textAlignment="center"
         android:textSize="50sp"
+        android:textColor="@color/white"
         android:layout_marginLeft="25dp"
         android:layout_marginBottom="5dp"
         android:layout_marginTop="60dp"/>
@@ -37,6 +39,8 @@
         android:layout_marginBottom="10dp"
         android:padding="15dp"
         android:inputType="textPersonName"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
         android:textSize="15sp" />
 
     <EditText
@@ -48,6 +52,8 @@
         android:layout_marginRight="20dp"
         android:layout_marginBottom="10dp"
         android:padding="15dp"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
         android:inputType="phone"
         android:textSize="15sp" />
     <EditText
@@ -59,6 +65,8 @@
         android:layout_marginRight="20dp"
         android:layout_marginBottom="10dp"
         android:padding="15dp"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
         android:inputType="textEmailAddress"
         android:textSize="15sp" />
     <EditText
@@ -70,6 +78,8 @@
         android:layout_marginRight="20dp"
         android:layout_marginBottom="10dp"
         android:padding="15dp"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
         android:textSize="15sp" />
     <CheckBox
         android:id="@+id/agent"
@@ -80,6 +90,8 @@
         android:layout_marginRight="20dp"
         android:layout_marginBottom="10dp"
         android:padding="15dp"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
         android:textSize="15sp" />
     <CheckBox
         android:id="@+id/customer"
@@ -90,6 +102,8 @@
         android:layout_marginRight="20dp"
         android:layout_marginBottom="10dp"
         android:padding="15dp"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
         android:textSize="15sp" />
     <EditText
         android:id="@+id/address"
@@ -100,6 +114,8 @@
         android:layout_marginRight="20dp"
         android:layout_marginBottom="10dp"
         android:padding="15dp"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
         android:textSize="15sp" />
 
     <RelativeLayout
@@ -115,8 +131,10 @@
             android:layout_marginRight="20dp"
             android:layout_marginBottom="30dp"
             android:layout_centerInParent="true"
-            android:textColor="@android:color/white"
-            android:text="Save"/>
+            android:background="@drawable/otp_button_selector"
+            android:text="Create"
+            android:textAllCaps="false"
+            android:textColor="#009688" />
 
 
     </RelativeLayout>

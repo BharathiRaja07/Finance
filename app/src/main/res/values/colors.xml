@@ -2,8 +2,8 @@
 
     <resources>
 
-    <color name="colorPrimary">#7b4bff</color>
-    <color name="colorPrimaryDark">#6539ba</color>
+    <color name="colorPrimary">#cceae7</color>
+    <color name="colorPrimaryDark">#009688</color>
     <color name="colorAccent">#FF4081</color>
     <color name="bgBottomNavigation">#fe485a</color>
 
@@ -15,5 +15,10 @@
     <color name="profileEditTextColor">#707070</color>
 
 
+    <color name="white">#FFFFFF</color>
+    <color name="background_color">#009688</color>
+    <color name="background_color_light">#cceae7</color>
 
+    <color name="white_greyish">#EEEEEE</color>
+    <color name="button_selectorcolor">#9E9E9E</color>
 </resources>

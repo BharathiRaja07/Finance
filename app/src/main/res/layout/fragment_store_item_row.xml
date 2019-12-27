@@ -10,12 +10,14 @@
         android:layout_gravity="center"
         android:layout_margin="@dimen/card_margin"
         android:elevation="3dp"
+        android:background="@color/background_color"
         android:foreground="?attr/selectableItemBackground"
         card_view:cardCornerRadius="@dimen/card_album_radius">
 
         <RelativeLayout
             android:layout_width="match_parent"
-            android:layout_height="match_parent">
+            android:layout_height="match_parent"
+            android:background="@color/background_color">
 
             <ImageView
                 android:id="@+id/offer_image"
@@ -34,7 +36,8 @@
                 android:paddingRight="@dimen/card_title_padding"
                 android:paddingTop="@dimen/card_title_padding"
                 android:gravity="center"
-                android:textColor="#111"
+                android:textColor="@color/white"
+                android:textColorHint="@color/white"
                 android:textSize="11dp" />
 
             <TextView
@@ -45,7 +48,8 @@
                 android:layout_marginRight="10dp"
                 android:gravity="center"
                 android:paddingBottom="@dimen/card_price_padding_bottom"
-                android:textColor="@color/colorAccent"
+                android:textColor="@color/white"
+                android:textColorHint="@color/white"
                 android:textSize="11dp" />
             <TextView
                 android:id="@+id/offer_principal"
@@ -55,7 +59,8 @@
                 android:layout_marginRight="10dp"
                 android:gravity="center"
                 android:paddingBottom="@dimen/card_price_padding_bottom"
-                android:textColor="@color/colorAccent"
+                android:textColor="@color/white"
+                android:textColorHint="@color/white"
                 android:textSize="11dp" />
             <TextView
                 android:id="@+id/offer_interest"
@@ -65,7 +70,8 @@
                 android:layout_marginRight="10dp"
                 android:gravity="center"
                 android:paddingBottom="@dimen/card_price_padding_bottom"
-                android:textColor="@color/colorAccent"
+                android:textColor="@color/white"
+                android:textColorHint="@color/white"
                 android:textSize="11dp" />
             <TextView
                 android:id="@+id/offer_duration"
@@ -75,7 +81,8 @@
                 android:layout_marginRight="10dp"
                 android:gravity="center"
                 android:paddingBottom="@dimen/card_price_padding_bottom"
-                android:textColor="@color/colorAccent"
+                android:textColor="@color/white"
+                android:textColorHint="@color/white"
                 android:textSize="11dp" />
 
         </RelativeLayout>

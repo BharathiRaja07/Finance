@@ -196,7 +196,7 @@ public class StoreFragment extends Fragment {
             holder.offer_duration.setText(offer.getDuration());
 
             Glide.with(context)
-                    .load(R.drawable.money)
+                    .load(R.drawable.images)
                     .into(holder.offer_image);
             holder.currentOffer = offer;
         }
